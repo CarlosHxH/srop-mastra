@@ -1,0 +1,31 @@
+services:
+  srop-mastra:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: srop-mastra:latest
+    container_name: srop-mastra
+    restart: unless-stopped
+    # init: true → PID 1 que repassa sinais (SIGTERM) e colhe processos zumbis.
+    init: true
+    # Carrega VLLM_* do .env (opcional: env.ts tem defaults se faltar).
+    env_file:
+      - path: .env
+        required: false
+    environment:
+      NODE_ENV: production
+      MASTRA_HOST: 0.0.0.0
+      PORT: 4111
+      MASTRA_TELEMETRY_DISABLED: "1"
+    ports:
+      - "4111:4111"
+    healthcheck:
+      test:
+        - CMD
+        - node
+        - -e
+        - "fetch('http://127.0.0.1:'+(process.env.PORT||4111)+'/api').then(r=>process.exit(r.status<500?0:1)).catch(()=>process.exit(1))"
+      interval: 30s
+      timeout: 5s
+      start_period: 20s
+      retries: 3

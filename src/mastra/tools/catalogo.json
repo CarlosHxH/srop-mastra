@@ -1,0 +1,4920 @@
+{
+  "natureza": [
+    {
+      "id": 6,
+      "descricao": "POSSUIR PORTAR...ARMA FOGO S/ AUTORIZ",
+      "legislacao": "LEI DO PORTE DE ARMA (9.437/97)",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 7,
+      "descricao": "PERMITIR QUE MENOR SE APODERE ARMA FOGO",
+      "legislacao": "LEI DO PORTE DE ARMA (9.437/97)",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 8,
+      "descricao": "UTILIZAR ARMA BRINQUED FIM COMETER CRIME",
+      "legislacao": "LEI DO PORTE DE ARMA (9.437/97)",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 9,
+      "descricao": "DISPARO ARMA FOGO/ACIONAR MUNI.LUG.HABIT",
+      "legislacao": "LEI DO PORTE DE ARMA (9.437/97)",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 10,
+      "descricao": "SUPRIMIR ALTERAR IDENTIFICAÇÃO ARMA FOGO",
+      "legislacao": "LEI DO PORTE DE ARMA (9.437/97)",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 11,
+      "descricao": "MODIFICAR CARACTERIST TORNAR USO PROIBID",
+      "legislacao": "LEI DO PORTE DE ARMA (9.437/97)",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 12,
+      "descricao": "POSSUIR ARTEFATO EXPLOSIVO S AUTORIZAÇÃO",
+      "legislacao": "LEI DO PORTE DE ARMA (9.437/97)",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 13,
+      "descricao": "POSSUIR CONDEN/ANT/ CRIME CONTRA PESSOA",
+      "legislacao": "LEI DO PORTE DE ARMA (9.437/97)",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 14,
+      "descricao": "CAUSAR POLUIÇÃO ATMOSF. PROV. DANO SAÚDE",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "POLUIÇÃO E OUTROS CRIMES AMBIENTAIS"
+    },
+    {
+      "id": 15,
+      "descricao": "CAUSAR POLUIÇÃO HIDRICA C/ INTER ABAST.",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "POLUIÇÃO E OUTROS CRIMES AMBIENTAIS"
+    },
+    {
+      "id": 16,
+      "descricao": "DIFICULTAR/IMPEDIR O USO PÚB. DAS PRAIAS",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "POLUIÇÃO E OUTROS CRIMES AMBIENTAIS"
+    },
+    {
+      "id": 17,
+      "descricao": "EXECUTAR PESQUISA, LAVRA OU EXTRAÇÃO DE RECURSOS MINERAIS SEM AUTORIZAÇÃO",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "POLUIÇÃO E OUTROS CRIMES AMBIENTAIS"
+    },
+    {
+      "id": 18,
+      "descricao": "CONSTRUIR OU FAZER FUNCIONAR, ESTABELECIMENTOS, OBRAS OU SERVIÇOS POTENCIALMENTE POLUIDORES, SEM LICENÇA",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "POLUIÇÃO E OUTROS CRIMES AMBIENTAIS"
+    },
+    {
+      "id": 19,
+      "descricao": "DESTRUIR, INUTILIZAR OU DETERIORAR, CULPOSAMENTE, BEM ESPECIALMENTE PROTEGIDO POR LEI",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA ORD.URBANO / PATR.CULTURAL"
+    },
+    {
+      "id": 20,
+      "descricao": "PROMOVER CONSTRUÇÃO EM SOLO NÃO EDIFICÁVEL, OU NO SEU ENTORNO, SEM AUTORIZAÇÃO DA AUTORIDADE COMPETENTE OU EM DESACORDO COM A CONCEDIDA",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA ORD.URBANO / PATR.CULTURAL"
+    },
+    {
+      "id": 21,
+      "descricao": "DEIXAR, AQUELE QUE TIVER O DEVER LEGAL OU CONTRATUAL DE FAZÊ-LO, DE CUMPRIR OBRIGAÇÃO DE RELEVANTE INTERESSE AMBIENTAL",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A ADMINISTRAÇÃO AMBIENTAL"
+    },
+    {
+      "id": 22,
+      "descricao": "OBSTAR OU DIFICULTAR A AÇÃO FISCALIZADORA DO PODER PÚBLICO NO TRATO DE QUESTÕES AMBIENTAIS",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A ADMINISTRAÇÃO AMBIENTAL"
+    },
+    {
+      "id": 23,
+      "descricao": "MATAR, PERSEGUIR, CAÇAR, APANHAR, UTILIZAR ESPÉCIMES DA FAUNA SILVESTRE",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FAUNA"
+    },
+    {
+      "id": 24,
+      "descricao": "IMPEDIR PROCRIAÇÃO DA FAUNA",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FAUNA"
+    },
+    {
+      "id": 25,
+      "descricao": "MODIFICAR, DANIFICAR OU DESTRUIR NINHO, ABRIGO OU CRIADOURO NATURAL",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FAUNA"
+    },
+    {
+      "id": 26,
+      "descricao": "VENDER, EXPOR À VENDA, EXPORTAR OU ADQUIRIR, GUARDAR, TER EM CATIVEIRO OU DEPÓSITO, UTILIZAR OU TRANSPORTAR OVOS, LARVAS OU ESPÉCIMES DA FAUNA SILVESTRE OU PRODUTOS E OBJETOS DELA ORIUNDOS",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FAUNA"
+    },
+    {
+      "id": 27,
+      "descricao": "INTRODUZIR ESPÉCIME ANIMAL NO PAÍS SEM LICENÇA",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FAUNA"
+    },
+    {
+      "id": 28,
+      "descricao": "REALIZAR EXPERIÊNCIA DOLOROSA OU CRUEL EM ANIMAL",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FAUNA"
+    },
+    {
+      "id": 29,
+      "descricao": "PROVOCAR O PERECIMENTO DE ESPÉCIMES DA FAUNA AQUÁTICA",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FAUNA"
+    },
+    {
+      "id": 30,
+      "descricao": "DEGRADAR VIVEIROS, AÇUDES OU ESTAÇÕES DE AQUICULTURA DE DOMÍNIO PÚBLICO",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FAUNA"
+    },
+    {
+      "id": 31,
+      "descricao": "FUNDEAR EMBARCAÇÕES OU LANÇAR DETRITOS SOBRE BANCOS DE MOLUSCOS OU CORAIS",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FAUNA"
+    },
+    {
+      "id": 32,
+      "descricao": "PESCAR QUANTIDADES SUPERIORES ÀS PERMITIDAS OU COM TÉCNICAS E MÉTODOS NÃO PERMITIDOS",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FAUNA"
+    },
+    {
+      "id": 33,
+      "descricao": "PESCAR MEDIANTE A UTILIZAÇÃO DE EXPLOSIVOS",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FAUNA"
+    },
+    {
+      "id": 34,
+      "descricao": "PESCAR MEDIANTE UTILIZAÇÃO DE SUBSTÂNCIAS TÓXICAS OU OUTRO MEIO PROIBIDO",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FAUNA"
+    },
+    {
+      "id": 35,
+      "descricao": "CORTAR ÁRVORES EM FLORESTA DE PRESERVAÇÃO PERMANENTE",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FLORA"
+    },
+    {
+      "id": 36,
+      "descricao": "CAUSAR DANO ÀS UNIDADES DE CONSERVAÇÃO",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FLORA"
+    },
+    {
+      "id": 37,
+      "descricao": "PROVOCAR INCÊNDIO EM MATA OU FLORESTA",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FLORA"
+    },
+    {
+      "id": 38,
+      "descricao": "CORTAR OU TRANSFORMAR EM CARVÃO MADEIRA DE LEI",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FLORA"
+    },
+    {
+      "id": 39,
+      "descricao": "VENDER, EXPOR À VENDA, TER EM DEPÓSITO, TRANSPORTAR OU GUARDAR MADEIRA, LENHA, CARVÃO E OUTROS PRODUTOS DE ORIGEM VEGETAL, SEM LICENÇA",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FLORA"
+    },
+    {
+      "id": 40,
+      "descricao": "DESTRUIR OU DANIFICAR FLORESTAS NATIVAS OU PLANTADAS OU VEGETAÇÃO FIXADORA DE DUNAS OU PROTETORA DE MANGUES",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FLORA"
+    },
+    {
+      "id": 41,
+      "descricao": "CAUSAR POLUIÇÃO QUE RESULTE OU POSSA RESULTAR DANOS À SAÚDE HUMANA OU MORTANDADE DE ANIMAIS OU DESTRUIÇÃO SIGNIFICATIVA DA FLORA",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "POLUIÇÃO E OUTROS CRIMES AMBIENTAIS"
+    },
+    {
+      "id": 42,
+      "descricao": "TORNAR UMA ÁREA IMPROP. P/ OCUPAÇÃO HUM",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "POLUIÇÃO E OUTROS CRIMES AMBIENTAIS"
+    },
+    {
+      "id": 43,
+      "descricao": "TORTURA, PARA PROVOCAR AÇÃO OU OMISSÃO DE NATUREZA CRIMINOSA",
+      "legislacao": "LEI DOS CRIMES DE TORTURA (LEI Nº 9.455/97)",
+      "artigo": "CRIME DE TORTURA"
+    },
+    {
+      "id": 44,
+      "descricao": "DIFUSÃO DE DOENÇA OU PRAGA NA MODALIDADE CULPOSA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 45,
+      "descricao": "DESASTRE FERROVIÁRIO CULPOSO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 46,
+      "descricao": "DESASTRE FERROVIARIO, ATENTADO CONTRA SEGURANÇA DE TRANSPORTE E SINISTRO NA FORMA QUALIFICADA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 47,
+      "descricao": "INFRAÇÃO DE MEDIDA SANITÁRIA PREVENTIVA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 48,
+      "descricao": "ENVENENAMENTO ÁGUA POTÁVEL OU SUBST. ALIMENTÍCIA OU MEDICINAL",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 49,
+      "descricao": "CORRUPÇÃO OU POLUIÇÃO DE ÁGUA POTÁVEL",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 50,
+      "descricao": "FALSIFICAÇÃO, CORRUPÇÃO, ADULTERAÇÃO SUBSTANCIA ALIMENTICIA NA MODALIDADE CULPOSA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 51,
+      "descricao": "FALSIFICAÇÃO, CORRUPÇÃO, ADULTERAÇÃO PRODUTO DEST. FINS TERAPÊUTICOS NA MODALIDADE CULPOSA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 52,
+      "descricao": "EPIDEMIA COM RESULTADO MORTE",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 53,
+      "descricao": "EPIDEMIA NA MODALIDADE CULPOSA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 54,
+      "descricao": "CORRUPÇÃO OU POLUIÇÃO DE ÁGUA POTÁVEL NA MODALIDADE CULPOSA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 55,
+      "descricao": "OUTRAS SUBST NOCIVAS À SAÚDE PÚBLICA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 56,
+      "descricao": "MEDICAMENTO EM DESACORDO COM RECEITA MEDICA NA MODALIDADE CULPOSA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 57,
+      "descricao": "OUTRAS SUBST. NOCIVAS À SAUDE PÚBLICA NA MODALIDADE CULPOSA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 58,
+      "descricao": "APOLOGIA DE CRIME OU CRIMINOSO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PAZ PÚBLICA"
+    },
+    {
+      "id": 59,
+      "descricao": "PETRECHOS PARA FALSIFICAÇÃO DE MOEDA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FÉ PÚBLICA"
+    },
+    {
+      "id": 60,
+      "descricao": "FORMA QUALIFICADA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 61,
+      "descricao": "QUADRILHA OU BANDO ARMADO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PAZ PÚBLICA"
+    },
+    {
+      "id": 62,
+      "descricao": "MOEDA FALSA NA MODALIDADE CULPOSA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FÉ PÚBLICA"
+    },
+    {
+      "id": 63,
+      "descricao": "MOEDA FALSA NA MODALIDADE QUALIFICADA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FÉ PÚBLICA"
+    },
+    {
+      "id": 64,
+      "descricao": "PETRECHOS DE FALSIFICAÇÃO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FÉ PÚBLICA"
+    },
+    {
+      "id": 65,
+      "descricao": "FALSIFICAÇÃO DO SELO OU SINAL PÚBLICO COMETIDO POR FUNCIONÁRIO PÚBLICO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FÉ PÚBLICA"
+    },
+    {
+      "id": 66,
+      "descricao": "FALSIFICAÇÃO DE DOCUMENTOS PÚBLICO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FÉ PÚBLICA"
+    },
+    {
+      "id": 67,
+      "descricao": "CERTIDÃO ATESTADO IDEOLOGICAMENTE FALSO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FÉ PÚBLICA"
+    },
+    {
+      "id": 68,
+      "descricao": "REPRODUÇÃO/ADULTERAÇÃO SELO/PEÇA FILATÉLICA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FÉ PÚBLICA"
+    },
+    {
+      "id": 69,
+      "descricao": "USO DE DOCUMENTO DE IDENTIDADE ALHEIA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FÉ PÚBLICA"
+    },
+    {
+      "id": 70,
+      "descricao": "FIGURAÇÃO COMO PROPRIETÁRIO, POSSUIDOR DE AÇÃO/TÍTULO DE ESTRANG. NOS CASOS VEDADOS",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FÉ PÚBLICA"
+    },
+    {
+      "id": 71,
+      "descricao": "ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FÉ PÚBLICA"
+    },
+    {
+      "id": 72,
+      "descricao": "EMPREGO IRREGULAR VERBAS/RENDAS PÚBLICAS",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 73,
+      "descricao": "CONDESCENDÊNCIA CRIMINOSA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 74,
+      "descricao": "EXERCÍCIO FUNCIONAL ILEGALMENTE ANTECIPADO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 75,
+      "descricao": "FALSIFICAÇÃO DE DOCUMENTOS PÚBLICO COMETIDO POR FUNCIONÁRIO PÚBLICO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FÉ PÚBLICA"
+    },
+    {
+      "id": 76,
+      "descricao": "INSERÇÃO DE DADOS FALSOS EM SIST. DE INFORMAÇÕES",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 77,
+      "descricao": "MODIFICAÇÃO OU ALTERAÇÃO NÃO AUTORIZADA DE SIST. DE INFORMAÇÕES",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 78,
+      "descricao": "CORRUPÇÃO PASSIVA SOB A INFLUÊNCIA DE OUTREM",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 79,
+      "descricao": "TRÁFICO DE INFLUÊNCIA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 80,
+      "descricao": "IMPEDIMENTO, PERTURBAÇÃO OU FRAUDE DE CONCORRÊNCIA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 81,
+      "descricao": "DENUNCIAÇÃO CALUNIOSA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 82,
+      "descricao": "FALSO TESTEMUNHO OU FALSA PERÍCIA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 83,
+      "descricao": "EXERCÍCIO ARBITRÁRIO DAS PRÓPRIAS RAZÕES",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 84,
+      "descricao": "FAVORECIMENTO REAL",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 85,
+      "descricao": "FUGA DE PESSOA PRESA OU SUBMETIDA À MEDIDA DE SEGURANÇA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 86,
+      "descricao": "SONEGAÇÃO DE CONTRIBUIÇÃO PREVIDENCIÁRIA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 87,
+      "descricao": "CORRUPÇÃO ATIVA EM TRANSAÇÃO COMERCIAL INTERNACIONAL",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 88,
+      "descricao": "SERÃO PUNIDOS, NA FORMA DESTA LEI, OS CRIMES RESULTANTES DE DISCRIMINAÇÃO OU PRECONCEITO DE RAÇA, COR, ETNIA, RELIGIÃO OU PROCEDÊNCIA NACIONAL",
+      "legislacao": "LEI CONTRA OS CRIMES DE PRECONCEITO (LEI Nº 7.716/89)",
+      "artigo": "CRIMES DE PRECONCEITO DE RAÇA E DE COR"
+    },
+    {
+      "id": 89,
+      "descricao": "IMPEDIR OU OBSTAR O ACESSO DE ALGUÉM, DEVIDAMENTE HABILITADO, A QUALQUER CARGO DA ADMINISTRAÇÃO DIRETA OU INDIRETA, BEM COMO DAS CONCESSIONÁRIAS DE SERVIÇOS PÚBLICOS",
+      "legislacao": "LEI CONTRA OS CRIMES DE PRECONCEITO (LEI Nº 7.716/89)",
+      "artigo": "CRIMES DE PRECONCEITO DE RAÇA E DE COR"
+    },
+    {
+      "id": 90,
+      "descricao": "NEGAR OU OBSTAR EMPREGO EM EMPRESA PRIVADA",
+      "legislacao": "LEI CONTRA OS CRIMES DE PRECONCEITO (LEI Nº 7.716/89)",
+      "artigo": "CRIMES DE PRECONCEITO DE RAÇA E DE COR"
+    },
+    {
+      "id": 91,
+      "descricao": "RECUSAR OU IMPEDIR ACESSO A ESTABELECIMENTO COMERCIAL, NEGANDO-SE A SERVIR, ATENDER OU RECEBER CLIENTE OU COMPRADOR",
+      "legislacao": "LEI CONTRA OS CRIMES DE PRECONCEITO (LEI Nº 7.716/89)",
+      "artigo": "CRIMES DE PRECONCEITO DE RAÇA E DE COR"
+    },
+    {
+      "id": 92,
+      "descricao": "IMPEDIR O ACESSO OU RECUSAR HOSPEDAGEM EM HOTEL, PENSÃO, ESTALAGEM, OU QUALQUER ESTABELECIMENTO SIMILAR",
+      "legislacao": "LEI CONTRA OS CRIMES DE PRECONCEITO (LEI Nº 7.716/89)",
+      "artigo": "CRIMES DE PRECONCEITO DE RAÇA E DE COR"
+    },
+    {
+      "id": 93,
+      "descricao": "IMPEDIR O ACESSO OU RECUSAR ATENDIMENTO EM SALÕES DE CABELEREIROS, BARBEARIAS, TERMAS OU CASAS DE MASSAGEM OU ESTABELECIMENTO COM AS MESMAS FINALIDADES",
+      "legislacao": "LEI CONTRA OS CRIMES DE PRECONCEITO (LEI Nº 7.716/89)",
+      "artigo": "CRIMES DE PRECONCEITO DE RAÇA E DE COR"
+    },
+    {
+      "id": 94,
+      "descricao": "IMPEDIR OU OBSTAR O ACESSO DE ALGUÉM AO SERVIÇO EM QUALQUER RAMO DAS FORÇAS ARMADAS",
+      "legislacao": "LEI CONTRA OS CRIMES DE PRECONCEITO (LEI Nº 7.716/89)",
+      "artigo": "CRIMES DE PRECONCEITO DE RAÇA E DE COR"
+    },
+    {
+      "id": 95,
+      "descricao": "CONSTITUI CONDENAÇÃO/PERDA/CARGO PUBLICO",
+      "legislacao": "LEI CONTRA OS CRIMES DE PRECONCEITO (LEI Nº 7.716/89)",
+      "artigo": "CRIMES DE PRECONCEITO DE RAÇA E DE COR"
+    },
+    {
+      "id": 96,
+      "descricao": "PRATICAR, INDUZIR OU INCITAR A DISCRIMINAÇÃO OU PRECONCEITO DE RAÇA, COR, ETNIA, RELIGIÃO OU PROCEDÊNCIA NACIONAL",
+      "legislacao": "LEI CONTRA OS CRIMES DE PRECONCEITO (LEI Nº 7.716/89)",
+      "artigo": "CRIMES DE PRECONCEITO DE RAÇA E DE COR"
+    },
+    {
+      "id": 97,
+      "descricao": "CONSTITUI ABUSO DE AUTORIDADE:",
+      "legislacao": "LEI DE ABUSO DE AUTORIDADE (4.898/65)",
+      "artigo": "ABUSO DE AUTORIDADE"
+    },
+    {
+      "id": 98,
+      "descricao": "A LIBERDADE DE LOCOMOCAO",
+      "legislacao": "LEI DE ABUSO DE AUTORIDADE (4.898/65)",
+      "artigo": "ABUSO DE AUTORIDADE"
+    },
+    {
+      "id": 99,
+      "descricao": "A INVIOLABILIDADE DO DOMICILIO",
+      "legislacao": "LEI DE ABUSO DE AUTORIDADE (4.898/65)",
+      "artigo": "ABUSO DE AUTORIDADE"
+    },
+    {
+      "id": 100,
+      "descricao": "AO SIGILO DA CORRESPONDENCIA",
+      "legislacao": "LEI DE ABUSO DE AUTORIDADE (4.898/65)",
+      "artigo": "ABUSO DE AUTORIDADE"
+    },
+    {
+      "id": 101,
+      "descricao": "A LIBERDADE DE CONSCIENCIA E DE CRENCA",
+      "legislacao": "LEI DE ABUSO DE AUTORIDADE (4.898/65)",
+      "artigo": "ABUSO DE AUTORIDADE"
+    },
+    {
+      "id": 102,
+      "descricao": "AO LIVRE EXERCICIO DO CULTO RELIGIOSO",
+      "legislacao": "LEI DE ABUSO DE AUTORIDADE (4.898/65)",
+      "artigo": "ABUSO DE AUTORIDADE"
+    },
+    {
+      "id": 103,
+      "descricao": "A LIBERDADE DE ASSOCIACAO",
+      "legislacao": "LEI DE ABUSO DE AUTORIDADE (4.898/65)",
+      "artigo": "ABUSO DE AUTORIDADE"
+    },
+    {
+      "id": 104,
+      "descricao": "AOS DIREITOS/GARANT/LEG/ASSEG/EXERC/VOTO",
+      "legislacao": "LEI DE ABUSO DE AUTORIDADE (4.898/65)",
+      "artigo": "ABUSO DE AUTORIDADE"
+    },
+    {
+      "id": 105,
+      "descricao": "AO DIREITO DE REUNIAO",
+      "legislacao": "LEI DE ABUSO DE AUTORIDADE (4.898/65)",
+      "artigo": "ABUSO DE AUTORIDADE"
+    },
+    {
+      "id": 106,
+      "descricao": "A INCOLUMIDADE FISICA DO INDIVIDUO",
+      "legislacao": "LEI DE ABUSO DE AUTORIDADE (4.898/65)",
+      "artigo": "ABUSO DE AUTORIDADE"
+    },
+    {
+      "id": 107,
+      "descricao": "DIREITOS/GARANTIAS LEGAIS EXERC. PROF.",
+      "legislacao": "LEI DE ABUSO DE AUTORIDADE (4.898/65)",
+      "artigo": "ABUSO DE AUTORIDADE"
+    },
+    {
+      "id": 108,
+      "descricao": "CONSTITUI TAMBEM ABUSO DE AUTORIDADE:",
+      "legislacao": "LEI DE ABUSO DE AUTORIDADE (4.898/65)",
+      "artigo": "ABUSO DE AUTORIDADE"
+    },
+    {
+      "id": 109,
+      "descricao": "ORD/EX/MED/PRIV/D/LIBER/INDIV/S/FORM/LEG",
+      "legislacao": "LEI DE ABUSO DE AUTORIDADE (4.898/65)",
+      "artigo": "ABUSO DE AUTORIDADE"
+    },
+    {
+      "id": 110,
+      "descricao": "SUB/PES/SOB/GUARD/CUST/CONST/N/AUTOR/LEI",
+      "legislacao": "LEI DE ABUSO DE AUTORIDADE (4.898/65)",
+      "artigo": "ABUSO DE AUTORIDADE"
+    },
+    {
+      "id": 111,
+      "descricao": "DEIX/D/COMU/JUIZ/COMP/PRISAO/DET/PESSOA",
+      "legislacao": "LEI DE ABUSO DE AUTORIDADE (4.898/65)",
+      "artigo": "ABUSO DE AUTORIDADE"
+    },
+    {
+      "id": 112,
+      "descricao": "DEIX/JUIZ/D/ORD/RELAX/PRISAO/ILEGAL",
+      "legislacao": "LEI DE ABUSO DE AUTORIDADE (4.898/65)",
+      "artigo": "ABUSO DE AUTORIDADE"
+    },
+    {
+      "id": 113,
+      "descricao": "LEV/PRISAO/NELA DETER Q/PREST/FIANCA/LEI",
+      "legislacao": "LEI DE ABUSO DE AUTORIDADE (4.898/65)",
+      "artigo": "ABUSO DE AUTORIDADE"
+    },
+    {
+      "id": 114,
+      "descricao": "COBRAR/CARCEREIRO/AGENTE POL/CARCERAGEM",
+      "legislacao": "LEI DE ABUSO DE AUTORIDADE (4.898/65)",
+      "artigo": "ABUSO DE AUTORIDADE"
+    },
+    {
+      "id": 115,
+      "descricao": "REC/CARC/AGENTE/REC/D/IMPORT/TIT/CARC",
+      "legislacao": "LEI DE ABUSO DE AUTORIDADE (4.898/65)",
+      "artigo": "ABUSO DE AUTORIDADE"
+    },
+    {
+      "id": 116,
+      "descricao": "ATO LESIVO/HONRA/PATR/PESS/NAT/JURIDICA",
+      "legislacao": "LEI DE ABUSO DE AUTORIDADE (4.898/65)",
+      "artigo": "ABUSO DE AUTORIDADE"
+    },
+    {
+      "id": 117,
+      "descricao": "PROLONG/EXECUCAO DE PRISAO TEMPORARIA",
+      "legislacao": "LEI DE ABUSO DE AUTORIDADE (4.898/65)",
+      "artigo": "ABUSO DE AUTORIDADE"
+    },
+    {
+      "id": 118,
+      "descricao": "USAR MEIO OU PROCESSO QUE SEJA OBJETO DE PATENTE DE INVENÇÃO, SEM AUTORIZAÇÃO DO TITULAR",
+      "legislacao": "LEI DOS CRIMES CONTRA A PROPRIEDADE INDUSTRIAL (LEI Nº 9.279/96)",
+      "artigo": "DOS CRIMES CONTRA AS PATENTES"
+    },
+    {
+      "id": 119,
+      "descricao": "COMETER CRIME CONTRA PATENTE DE INVENÇÃO",
+      "legislacao": "LEI DOS CRIMES CONTRA A PROPRIEDADE INDUSTRIAL (LEI Nº 9.279/96)",
+      "artigo": "DOS CRIMES CONTRA AS PATENTES"
+    },
+    {
+      "id": 120,
+      "descricao": "FABRICAR, SEM AUTORIZAÇÃO DO TITULAR, PRODUTO QUE INCORPORE DESENHO INDUSTRIAL REGISTRADO, OU IMITAÇÃO QUE POSSA INDUZIR EM ERRO OU CONFUSÃO",
+      "legislacao": "LEI DOS CRIMES CONTRA A PROPRIEDADE INDUSTRIAL (LEI Nº 9.279/96)",
+      "artigo": "DOS CRIMES CONTRA DESENHOS INDUSTRIAIS"
+    },
+    {
+      "id": 121,
+      "descricao": "COM. CRIME CONTRA REG. DE DESENHO INDUST",
+      "legislacao": "LEI DOS CRIMES CONTRA A PROPRIEDADE INDUSTRIAL (LEI Nº 9.279/96)",
+      "artigo": "DOS CRIMES CONTRA DESENHOS INDUSTRIAIS"
+    },
+    {
+      "id": 122,
+      "descricao": "COMETE CRIME CONTRA REGISTRO DE MARCA",
+      "legislacao": "LEI DOS CRIMES CONTRA A PROPRIEDADE INDUSTRIAL (LEI Nº 9.279/96)",
+      "artigo": "DOS CRIMES CONTRA AS MARCAS"
+    },
+    {
+      "id": 125,
+      "descricao": "BIGAMIA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FAMÍLIA"
+    },
+    {
+      "id": 126,
+      "descricao": "CONHECIMENTO PRÉVIO DE IMPEDIMENTO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FAMÍLIA"
+    },
+    {
+      "id": 127,
+      "descricao": "SIMULAÇÃO DE CASAMENTO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FAMÍLIA"
+    },
+    {
+      "id": 128,
+      "descricao": "ADULTÉRIO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FAMÍLIA"
+    },
+    {
+      "id": 129,
+      "descricao": "REGISTRO DE NASCIMENTO INEXISTENTE",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FAMÍLIA"
+    },
+    {
+      "id": 130,
+      "descricao": "SONEGAÇÃO DE ESTADO DE FILIAÇÃO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FAMÍLIA"
+    },
+    {
+      "id": 131,
+      "descricao": "ABANDONO MATERIAL",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FAMÍLIA"
+    },
+    {
+      "id": 132,
+      "descricao": "ENTREGA DE FILHO MENOR A PESSOA INIDÔNIA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FAMÍLIA"
+    },
+    {
+      "id": 133,
+      "descricao": "ABANDONO INTELECTUAL",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FAMÍLIA"
+    },
+    {
+      "id": 134,
+      "descricao": "PERM.ALGUEM MENOR/18 ANOS À SUA GUARDA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FAMÍLIA"
+    },
+    {
+      "id": 135,
+      "descricao": "SUBTRAÇÃO DE INCAPAZES",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FAMÍLIA"
+    },
+    {
+      "id": 136,
+      "descricao": "INCÊNDIO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 137,
+      "descricao": "INCÊNDIO CULPOSO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 139,
+      "descricao": "HOMICÍDIO DOLOSO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 140,
+      "descricao": "HOMICÍDIO CULPOSO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 141,
+      "descricao": "INDUZIMENTO, INSTIGAÇÃO OU AUXÍLIO A SUICÍDIO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 142,
+      "descricao": "INFANTICÍDIO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 143,
+      "descricao": "ABORTO PROVOCADO GESTANTE COM CONSENTI",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 144,
+      "descricao": "ABORTO PROVOCADO TERCEIRO SEM CONSENTIME",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 145,
+      "descricao": "ABORTO PROV.P/TERC COM CONSENTIMENTO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 146,
+      "descricao": "ABORTO NECESSÁRIO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 147,
+      "descricao": "ABORTO NO CASO GRAVIDEZ RESULT. ESTUPRO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 148,
+      "descricao": "LESÃO CORPORAL",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 151,
+      "descricao": "LESÃO CORPORAL SEGUIDA DE MORTE",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 153,
+      "descricao": "PERIGO DE CONTÁGIO VENÉREO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 154,
+      "descricao": "PERIGO DE CONTÁGIO DE MOLÉSTIA GRAVE",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 155,
+      "descricao": "PERIGO PARA A VIDA OU SAÚDE DE OUTREM",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 156,
+      "descricao": "ABANDONO DE INCAPAZ",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 157,
+      "descricao": "EXPOSIÇÃO OU ABANDONO DE RECÉM-NASCIDO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 158,
+      "descricao": "OMISSÃO DE SOCORRO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 159,
+      "descricao": "MAUS TRATOS",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 160,
+      "descricao": "RIXA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 161,
+      "descricao": "CALÚNIA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 162,
+      "descricao": "DIFAMAÇÃO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 163,
+      "descricao": "INJÚRIA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 164,
+      "descricao": "CONSTRANGIMENTO ILEGAL",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 165,
+      "descricao": "AMEAÇA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 166,
+      "descricao": "SEQUESTRO E CÁRCERE PRIVADO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 167,
+      "descricao": "REDUÇAO A CONDIÇÃO ANÁLOGA A DE ESCRAVO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 168,
+      "descricao": "VIOLAÇÃO DE DOMICÍLIO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 169,
+      "descricao": "VIOLAÇÃO DE CORRESPONDÊNCIA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 170,
+      "descricao": "SONEGAÇÃO OU DESTRUIÇÃO CORRESPONDÊNCIA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 171,
+      "descricao": "VIOLAÇÃO DE CORRESPONDÊNCIA CAUSANDO DANO A OUTREM",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 172,
+      "descricao": "SONEGAÇÃO SUBTRAÇÃO DE CORRESPONDÊNCIA COMERCIAL",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 173,
+      "descricao": "DIVULGAÇÃO DE SEGREDO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 174,
+      "descricao": "VIOLAÇÃO DO SEGREDO PROFISSIONAL",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 175,
+      "descricao": "FURTO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA O PATRIMÔNIO"
+    },
+    {
+      "id": 179,
+      "descricao": "ROUBO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA O PATRIMÔNIO"
+    },
+    {
+      "id": 181,
+      "descricao": "ROUBO SEGUIDO DE MORTE",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA O PATRIMÔNIO"
+    },
+    {
+      "id": 182,
+      "descricao": "EXTORSÃO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA O PATRIMÔNIO"
+    },
+    {
+      "id": 183,
+      "descricao": "EXTORSÃO MEDIANTE SEQUESTRO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA O PATRIMÔNIO"
+    },
+    {
+      "id": 184,
+      "descricao": "EXTORSÃO INDIRETA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA O PATRIMÔNIO"
+    },
+    {
+      "id": 185,
+      "descricao": "ALTERAÇÃO DE LIMITES",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA O PATRIMÔNIO"
+    },
+    {
+      "id": 186,
+      "descricao": "USURPAÇÃO DE ÁGUAS",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA O PATRIMÔNIO"
+    },
+    {
+      "id": 187,
+      "descricao": "SUPRESSÃO, ALTERAÇÃO DE MARCA EM ANIMAIS",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA O PATRIMÔNIO"
+    },
+    {
+      "id": 188,
+      "descricao": "DANO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA O PATRIMÔNIO"
+    },
+    {
+      "id": 189,
+      "descricao": "INTRODUÇÃO OU ABANDONO DE ANIMAIS EM PROPRIEDADE ALHEIA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA O PATRIMÔNIO"
+    },
+    {
+      "id": 190,
+      "descricao": "ALTERAÇÃO DE LOCAL ESPECIALMENTE PROTEGIDO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA O PATRIMÔNIO"
+    },
+    {
+      "id": 191,
+      "descricao": "APROPRIAÇÃO INDÉBITA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA O PATRIMÔNIO"
+    },
+    {
+      "id": 192,
+      "descricao": "APROPR. COISA/CASO FORTUITO/FORCA MAIOR",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA O PATRIMÔNIO"
+    },
+    {
+      "id": 193,
+      "descricao": "APROPRIAÇÃO DE TESOURO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA O PATRIMÔNIO"
+    },
+    {
+      "id": 194,
+      "descricao": "ESTELIONATO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA O PATRIMÔNIO"
+    },
+    {
+      "id": 195,
+      "descricao": "DISPOSIÇÃO DE COISA ALHEIA COMO PRÓPRIA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA O PATRIMÔNIO"
+    },
+    {
+      "id": 196,
+      "descricao": "ALIENAÇÃO/ONERAÇÃO FRAUD. COISA PRÓPRIA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA O PATRIMÔNIO"
+    },
+    {
+      "id": 197,
+      "descricao": "DEFRAUDAÇÃO DE PENHOR",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA O PATRIMÔNIO"
+    },
+    {
+      "id": 198,
+      "descricao": "ANÚNCIO DE MEIO ABORTIVO",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "REFERENTES À PESSOA"
+    },
+    {
+      "id": 199,
+      "descricao": "VIAS DE FATO",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "REFERENTES À PESSOA"
+    },
+    {
+      "id": 200,
+      "descricao": "INDEVIDA CUSTÓDIA DE DOENTE MENTAL",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "REFERENTES À PESSOA"
+    },
+    {
+      "id": 202,
+      "descricao": "VIOLAÇÃO DE LUGAR OU OBJETO",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "REFERENTES AO PATRIMÔNIO"
+    },
+    {
+      "id": 203,
+      "descricao": "DESABAMENTO DE CONSTRUÇÃO",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "REFERENTES À INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 204,
+      "descricao": "PERIGO DE DESABAMENTO",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "REFERENTES À INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 205,
+      "descricao": "OMISSÃO DE CAUTELA NA GUARDA OU CONDUÇÃO DE ANIMAIS",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "REFERENTES À INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 206,
+      "descricao": "DIREÇÃO NAO LICENCIADA DE AERONAVES",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "REFERENTES À INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 207,
+      "descricao": "ABUSO NA PRÁTICA DE AVIAÇÃO",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "REFERENTES À INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 208,
+      "descricao": "SINAIS DE PERIGO",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "REFERENTES À INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 209,
+      "descricao": "ARREMESSO, DERRAME OU COLOCAÇÃO PERIGOSA",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "REFERENTES À INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 210,
+      "descricao": "EMISSÃO DE FUMAÇA, VAPOR OU GÁS",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "REFERENTES À INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 211,
+      "descricao": "ASSOCIAÇÃO SECRETA",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "REFERENTES À PAZ PÚBLICA"
+    },
+    {
+      "id": 212,
+      "descricao": "PROVOCAÇÃO DE TUMULTO OU CONDUTA INCONVENIENTE",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "REFERENTES À PAZ PÚBLICA"
+    },
+    {
+      "id": 213,
+      "descricao": "FALSO ALARMA",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "REFERENTES À PAZ PÚBLICA"
+    },
+    {
+      "id": 214,
+      "descricao": "PERTUBAÇÃO DO TRABALHO OU SOSSEGO ALHEIOS",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "REFERENTES À PAZ PÚBLICA"
+    },
+    {
+      "id": 215,
+      "descricao": "RECUSA DE MOEDA DE CURSO LEGAL",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "REFERENTES À FÉ PÚBLICA"
+    },
+    {
+      "id": 216,
+      "descricao": "IMITAÇÃO DE MOEDA PARA PROPAGANDA",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "REFERENTES À FÉ PÚBLICA"
+    },
+    {
+      "id": 217,
+      "descricao": "SIMULAÇÃO DE QUALIDADE DE FUNCIONÁRIO",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "REFERENTES À FÉ PÚBLICA"
+    },
+    {
+      "id": 218,
+      "descricao": "USO ILEGITIMO DE UNIFORME OU DISTINTIVO",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "REFERENTES À FÉ PÚBLICA"
+    },
+    {
+      "id": 219,
+      "descricao": "EXERCÍCIO ILEGAL DE PROFISSÃO OU ATIVIDADE",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "RELATIVAS À ORGANIZAÇÃO DO TRABALHO"
+    },
+    {
+      "id": 220,
+      "descricao": "EXERCÍCIO ILEGAL DO COMÉRCIO DE COISAS ANTIGAS E OBRAS DE ARTE",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "RELATIVAS À ORGANIZAÇÃO DO TRABALHO"
+    },
+    {
+      "id": 221,
+      "descricao": "MATRÍCULA OU ESCRITURAÇÃO DE INDÚSTRIA E PROFISSÃO",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "RELATIVAS À ORGANIZAÇÃO DO TRABALHO"
+    },
+    {
+      "id": 222,
+      "descricao": "JOGO DO AZAR",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "RELATIVAS À POLÍCIA DE COSTUMES"
+    },
+    {
+      "id": 223,
+      "descricao": "LOTERIA NÃO AUTORIZADA",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "RELATIVAS À POLÍCIA DE COSTUMES"
+    },
+    {
+      "id": 224,
+      "descricao": "LOTERIA ESTRANGEIRA",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "RELATIVAS À POLÍCIA DE COSTUMES"
+    },
+    {
+      "id": 225,
+      "descricao": "LOTERIA ESTADUAL",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "RELATIVAS À POLÍCIA DE COSTUMES"
+    },
+    {
+      "id": 226,
+      "descricao": "IMPRESSÃO DE BILHETES, LISTA OU ANUNCIOS",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "RELATIVAS À POLÍCIA DE COSTUMES"
+    },
+    {
+      "id": 227,
+      "descricao": "DISTRIBUIÇÃO OU TRANSPORTE DE LISTAS OU AVISOS",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "RELATIVAS À POLÍCIA DE COSTUMES"
+    },
+    {
+      "id": 228,
+      "descricao": "PUBLICIDADE DE SORTEIO",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "RELATIVAS À POLÍCIA DE COSTUMES"
+    },
+    {
+      "id": 229,
+      "descricao": "VADIAGEM",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "RELATIVAS À POLÍCIA DE COSTUMES"
+    },
+    {
+      "id": 230,
+      "descricao": "MEDICÂNCIA",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "RELATIVAS À POLÍCIA DE COSTUMES"
+    },
+    {
+      "id": 232,
+      "descricao": "EMBRIAGUEZ",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "RELATIVAS À POLÍCIA DE COSTUMES"
+    },
+    {
+      "id": 233,
+      "descricao": "SERVIR BEBIDAS ALCOOLICAS",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "RELATIVAS À POLÍCIA DE COSTUMES"
+    },
+    {
+      "id": 234,
+      "descricao": "SERVIR BEBIDA ALCOÓLICA A EMBRIAGADO",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "RELATIVAS À POLÍCIA DE COSTUMES"
+    },
+    {
+      "id": 235,
+      "descricao": "SERVIR BEBIDA ALCOÓLICA A DOENTE MENTAL",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "RELATIVAS À POLÍCIA DE COSTUMES"
+    },
+    {
+      "id": 236,
+      "descricao": "CRUELDADE CONTRA ANIMAIS",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "RELATIVAS À POLÍCIA DE COSTUMES"
+    },
+    {
+      "id": 237,
+      "descricao": "PERTURBAÇÃO DA TRANQUILIDADE",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "RELATIVAS À POLÍCIA DE COSTUMES"
+    },
+    {
+      "id": 238,
+      "descricao": "OMISSÃO DE COMUNICAÇÃO DE CRIME",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "REFERENTES À ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 239,
+      "descricao": "INUMAÇÃO OU EXUMAÇÃO DE CADÁVER",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "REFERENTES À ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 240,
+      "descricao": "VIOLAÇÃO DO PRIVILÉGIO POSTAL DA UNIÃO",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "REFERENTES À ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 242,
+      "descricao": "FABRIC/ADQUIRIR EM DESAC/C/DETERM/LEGAL",
+      "legislacao": "LEI DE ENTORPECENTES (6.368/76)",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 243,
+      "descricao": "ASSOC/PESSOAS P/PRATIC/CRIMES ART.12/13",
+      "legislacao": "LEI DE ENTORPECENTES (6.368/76)",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 244,
+      "descricao": "PRESC/MINIST/CULP/SUB/ENTOR/DESAC/LEGAL",
+      "legislacao": "LEI DE ENTORPECENTES (6.368/76)",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 245,
+      "descricao": "ADQ/GUARD/PORTAR/P/USO PROP/ENTORP",
+      "legislacao": "LEI DE ENTORPECENTES (6.368/76)",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 265,
+      "descricao": "PRISÃO POR MANDADO",
+      "legislacao": "OCORRÊNCIAS ATÍPICAS",
+      "artigo": "OCORRÊNCIAS ATÍPICAS"
+    },
+    {
+      "id": 342,
+      "descricao": "AFOGAMENTO",
+      "legislacao": "OCORRÊNCIAS ATÍPICAS",
+      "artigo": "OCORRÊNCIAS ATÍPICAS"
+    },
+    {
+      "id": 343,
+      "descricao": "SUICÍDIO",
+      "legislacao": "OCORRÊNCIAS ATÍPICAS",
+      "artigo": "OCORRÊNCIAS ATÍPICAS"
+    },
+    {
+      "id": 344,
+      "descricao": "CHOQUE ELÉTRICO",
+      "legislacao": "OCORRÊNCIAS ATÍPICAS",
+      "artigo": "OCORRÊNCIAS ATÍPICAS"
+    },
+    {
+      "id": 345,
+      "descricao": "QUEDA ACIDENTAL",
+      "legislacao": "OCORRÊNCIAS ATÍPICAS",
+      "artigo": "OCORRÊNCIAS ATÍPICAS"
+    },
+    {
+      "id": 346,
+      "descricao": "ACIDENTE DE TRABALHO",
+      "legislacao": "OCORRÊNCIAS ATÍPICAS",
+      "artigo": "OCORRÊNCIAS ATÍPICAS"
+    },
+    {
+      "id": 347,
+      "descricao": "EXTRAVIO DE CHEQUE",
+      "legislacao": "OCORRÊNCIAS ATÍPICAS",
+      "artigo": "OCORRÊNCIAS ATÍPICAS"
+    },
+    {
+      "id": 348,
+      "descricao": "PRESERVAÇÃO DE DIREITO",
+      "legislacao": "OCORRÊNCIAS ATÍPICAS",
+      "artigo": "OCORRÊNCIAS ATÍPICAS"
+    },
+    {
+      "id": 349,
+      "descricao": "MEDIDA CAUTELAR",
+      "legislacao": "OCORRÊNCIAS ATÍPICAS",
+      "artigo": "OCORRÊNCIAS ATÍPICAS"
+    },
+    {
+      "id": 350,
+      "descricao": "DESAPARECIMENTO DE PESSOA",
+      "legislacao": "OCORRÊNCIAS ATÍPICAS",
+      "artigo": "OCORRÊNCIAS ATÍPICAS"
+    },
+    {
+      "id": 351,
+      "descricao": "ENCONTRO DE CADÁVER",
+      "legislacao": "OCORRÊNCIAS ATÍPICAS",
+      "artigo": "OCORRÊNCIAS ATÍPICAS"
+    },
+    {
+      "id": 352,
+      "descricao": "DANOS MATERIAIS ( ACIDENTE DE TRÂNSITO )",
+      "legislacao": "OCORRÊNCIAS ATÍPICAS",
+      "artigo": "OCORRÊNCIAS ATÍPICAS"
+    },
+    {
+      "id": 353,
+      "descricao": "EXTRAVIO DE DOCUMENTO",
+      "legislacao": "OCORRÊNCIAS ATÍPICAS",
+      "artigo": "OCORRÊNCIAS ATÍPICAS"
+    },
+    {
+      "id": 354,
+      "descricao": "OCORRÊNCIAS DE NATUREZA DIVERSA",
+      "legislacao": "OCORRÊNCIAS ATÍPICAS",
+      "artigo": "OCORRÊNCIAS ATÍPICAS"
+    },
+    {
+      "id": 355,
+      "descricao": "ESBULHO POSSESSÓRIO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA O PATRIMÔNIO"
+    },
+    {
+      "id": 356,
+      "descricao": "DANO QUALIFICADO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA O PATRIMÔNIO"
+    },
+    {
+      "id": 357,
+      "descricao": "DANO EM COISA DE VALOR ARTÍSTICO, ARQUEOLÓGICOU OU HISTÓRICO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA O PATRIMÔNIO"
+    },
+    {
+      "id": 358,
+      "descricao": "APROPRIAÇÃO INDÉBITA PREVIDENCIÁRIA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA O PATRIMÔNIO"
+    },
+    {
+      "id": 359,
+      "descricao": "APROPRIAÇÃO DE COISA ACHADA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA O PATRIMÔNIO"
+    },
+    {
+      "id": 361,
+      "descricao": "IMPEDIMENTO OU PERTURBAÇÃO CERIM. FUNERARIA COM EMPREGO DE VIOLÊNCIA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA SENT.RELIG./ RESP.  MORTOS"
+    },
+    {
+      "id": 368,
+      "descricao": "INDUZIMENTO ERRO ESSENCIAL E OCULTAÇÃO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FAMÍLIA"
+    },
+    {
+      "id": 369,
+      "descricao": "SIMULAÇÃO DE AUTORIDADE PARA CELEBRAÇÃO DE CASAMENTO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FAMÍLIA"
+    },
+    {
+      "id": 370,
+      "descricao": "PARTO SUPOSTO, SUPRESSÃO OU ALTER.DIREITO RECÉM NASCIDO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FAMÍLIA"
+    },
+    {
+      "id": 371,
+      "descricao": "ENTREGA DE FILHO MENOR A PESSOA INIDÔNEA  PARA OBTER LUCRO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FAMÍLIA"
+    },
+    {
+      "id": 372,
+      "descricao": "INDUZIMENTO, FUGA, ENTREGA ARBITRÁRIA OU SONEGAÇÃO DE INCAPAZES",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FAMÍLIA"
+    },
+    {
+      "id": 373,
+      "descricao": "EXPLOSÃO CULPOSA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 374,
+      "descricao": "USO DE GÁS TÓXICO OU ASFIXIANTE NA MODALIDADE CULPOSA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 375,
+      "descricao": "DESABAMENTO OU DESMORONAMENTO CULPOS0",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 376,
+      "descricao": "PECULATO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 377,
+      "descricao": "PECULATO CULPOSO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 378,
+      "descricao": "PECULATO MEDIANTE ERRO DE OUTREM",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 379,
+      "descricao": "EXTRAVIO, SONEGAÇÃO OU INUTILIZAÇÃO DE LIVRO OU DOC.",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 380,
+      "descricao": "CONCUSSÃO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 381,
+      "descricao": "EXCESSO DE EXAÇÃO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 382,
+      "descricao": "CORRUPÇÃO PASSIVA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 383,
+      "descricao": "FACILITAÇÃO CONTRABANDO OU DESCAMINHO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 384,
+      "descricao": "PREVARICAÇÃO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 385,
+      "descricao": "ADVOCACIA ADMINISTRATIVA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 386,
+      "descricao": "VIOLÊNCIA ARBITRÁRIA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 387,
+      "descricao": "ABANDONO DE FUNÇÃO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 388,
+      "descricao": "VIOLAÇÃO DE SIGILO FUNCIONAL",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 389,
+      "descricao": "VIOLAÇÃO DE SIGILO DE PROPOSTA DE CONCORRÊNCIA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 390,
+      "descricao": "USURPAÇÃO DE FUNÇÃO PÚBLICA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 391,
+      "descricao": "RESISTÊNCIA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 392,
+      "descricao": "DESOBEDIÊNCIA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 393,
+      "descricao": "DESACATO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 394,
+      "descricao": "CORRUPÇÃO ATIVA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 395,
+      "descricao": "CONTRABANDO OU DESCAMINHO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 396,
+      "descricao": "INUTILIZAÇÃO DE EDITAL OU DE SINAL",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 397,
+      "descricao": "SUBTRAÇÃO OU INUTILIZAÇÃO DE LIVRO OU DOCUMENTO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 398,
+      "descricao": "REINGRESSO DE ESTRANGEIRO EXPULSO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 399,
+      "descricao": "COMUNICAÇÃO FALSA CRIME OU CONTRAVENÇÃO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 400,
+      "descricao": "AUTO-ACUSAÇÃO FALSA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 401,
+      "descricao": "CORRUPÇÃO ATIVA DE TESTEMUNHA OU PERITO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 402,
+      "descricao": "COAÇÃO NO CURSO DO PROCESSO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 403,
+      "descricao": "TIRAR, SUPRIMIR OU DANIFICAR COISA PRÓPRIA EM PODER DE TERCEIRO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 404,
+      "descricao": "FRAUDE PROCESSUAL",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 405,
+      "descricao": "FAVORECIMENTO PESSOAL",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 406,
+      "descricao": "EXERCÍCIO ARBITRÁRIO OU ABUSO DE PODER",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 407,
+      "descricao": "EVASÃO MEDIANTE VIOLÊNCIA CONTRA PESSOA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 408,
+      "descricao": "ARREBATAMENTO DE PRESO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 409,
+      "descricao": "MOTIM DE PRESOS",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 410,
+      "descricao": "PATROCÍNIO INFIEL",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 411,
+      "descricao": "SONEGAÇÃO DE PAPEL OU OBJETO VALOR PROBATÓRIO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 412,
+      "descricao": "EXPLORAÇÃO DE PRETÍGIO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 413,
+      "descricao": "VIOLÊNCIA OU FRAUDE EM ARREMATAÇÃO JUDICIAL",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 414,
+      "descricao": "EXPLOSÃO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 415,
+      "descricao": "USO DE GÁS TÓXICO OU ASFIXIANTE",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 416,
+      "descricao": "FABRICO OU TRANSPORTE EXPLOSIVOS OU GÁS TÓXICO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 417,
+      "descricao": "INUNDAÇÃO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 418,
+      "descricao": "PERIGO DE INUNDAÇÃO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 419,
+      "descricao": "DESABAMENTO OU DESMORONAMENTO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 420,
+      "descricao": "SUBTRAÇÃO, OCULT., INULT. MAT. SALVAMENTO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 421,
+      "descricao": "DIFUSÃO DE DOENÇA OU PRAGA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 422,
+      "descricao": "PERIGO DE DESASTRE FERROVIÁRIO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 423,
+      "descricao": "DESASTRE FERROVIÁRIO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 424,
+      "descricao": "ATENTADO CONTRA A SEGURANÇA DE TRANSPORTE MARÍTIMO, FLUVIAL OU AÉREO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 425,
+      "descricao": "SINISTRO TRANSPORTE MARÍTIMO, FLUVIAL OU AÉREO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 426,
+      "descricao": "ATENTADO CONTRA A SEGURANÇA DE TRANSPORTE COM FIM DE LUCRO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 427,
+      "descricao": "ATENTADO CONTRA A SEGURANÇA DE TRANSPORTE NA MODALIDADE CULPOSA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 428,
+      "descricao": "ATENTADO CONTRA SEGURANÇA DE OUTRO MEIO TRANSPORTE",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 429,
+      "descricao": "ARREMESSO DE PROJÉTIL",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 430,
+      "descricao": "ATENTADO CONTRA A SEGURANÇA DE SERVIÇO DE UTILIDADE PÚBLICA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 431,
+      "descricao": "INTERRUPÇÃO SERVIÇO TELEFÔNICO / TELEGRAFICO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 432,
+      "descricao": "EPIDEMIA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 433,
+      "descricao": "OMISSÃO DE NOTIFICAÇÃO DE DOENÇA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 434,
+      "descricao": "ENVENENAMENTO ÁGUA POT. OU SUBST. ALIMENT. OU MEDICINAL NA MODALIDADE CULPOSA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 435,
+      "descricao": "FALSIFICAÇÃO, CORRUPÇÃO, ADULTERAÇÃO SUBSTÂNCIA ALIMENTÍCIA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 436,
+      "descricao": "FALSIFICAÇÃO, CORRUPÇÃO, ADULTERAÇÃO PRODUTO DEST. FINS TERAPÊUTICOS",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 437,
+      "descricao": "EMPREGO PROCESSO PROIBIDO/SUBST NÃO PERMITIDA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 438,
+      "descricao": "INVÓLUCRO OU RECIPIENTE COM FALSA INDICAÇÃO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 439,
+      "descricao": "PRODUTO EM CONDIÇÕES PROIBIDAS OU FALSAS",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 440,
+      "descricao": "SUBSTÂNCIA DESTINADA À FALSIFICAÇÃO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 441,
+      "descricao": "MEDICAMENTO EM DESACORDO COM RECEITA MÉDICA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 442,
+      "descricao": "EXERCÍCIO ILEGAL DA MEDICINA, ARTE DENTÁRIA OU FARMACÊUTICA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 443,
+      "descricao": "CHARLATANISMO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 444,
+      "descricao": "CURANDEIRISMO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 445,
+      "descricao": "INCITAÇÃO AO CRIME",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PAZ PÚBLICA"
+    },
+    {
+      "id": 446,
+      "descricao": "QUADRILHA OU BANDO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PAZ PÚBLICA"
+    },
+    {
+      "id": 447,
+      "descricao": "MOEDA FALSA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FÉ PÚBLICA"
+    },
+    {
+      "id": 448,
+      "descricao": "CRIMES ASSIMILADOS AO DE MOEDA FALSA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FÉ PÚBLICA"
+    },
+    {
+      "id": 449,
+      "descricao": "EMISSÃO TÍTULO AO PORTADOR SEM PERMISSÃO LEGAL",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FÉ PÚBLICA"
+    },
+    {
+      "id": 450,
+      "descricao": "FALSIFICAÇÃO DE PAPÉIS PÚBLICOS",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FÉ PÚBLICA"
+    },
+    {
+      "id": 451,
+      "descricao": "FALSIFICAÇÃO DO SELO OU SINAL PÚBLICO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FÉ PÚBLICA"
+    },
+    {
+      "id": 452,
+      "descricao": "FALSIFICAÇÃO DE DOCUMENTO PARTICULAR",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FÉ PÚBLICA"
+    },
+    {
+      "id": 453,
+      "descricao": "FALSIDADE IDEOLÓGICA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FÉ PÚBLICA"
+    },
+    {
+      "id": 454,
+      "descricao": "FALSO RECONHECIMENTO DE FIRMA OU LETRA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FÉ PÚBLICA"
+    },
+    {
+      "id": 455,
+      "descricao": "FALSIDADE MATERIAL ATESTADO OU CERTIDÃO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FÉ PÚBLICA"
+    },
+    {
+      "id": 456,
+      "descricao": "FALSIDADE DE ATESTADO MÉDICO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FÉ PÚBLICA"
+    },
+    {
+      "id": 457,
+      "descricao": "USO DE DOCUMENTO FALSO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FÉ PÚBLICA"
+    },
+    {
+      "id": 458,
+      "descricao": "SUPRESSÃO DE DOCUMENTO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FÉ PÚBLICA"
+    },
+    {
+      "id": 459,
+      "descricao": "FALS. SINAL EMPREGADO CONTRASTE METAL PRECIOSO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FÉ PÚBLICA"
+    },
+    {
+      "id": 460,
+      "descricao": "FALSA IDENTIDADE",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FÉ PÚBLICA"
+    },
+    {
+      "id": 461,
+      "descricao": "FRAUDE DE LEI SOBRE ESTRANGEIROS",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FÉ PÚBLICA"
+    },
+    {
+      "id": 462,
+      "descricao": "ATRIBUIÇÃO FALSA QUALIDADE A ESTRANGEIRO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FÉ PÚBLICA"
+    },
+    {
+      "id": 463,
+      "descricao": "FRAUDE NA ENTREGA DE COISA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA O PATRIMÔNIO"
+    },
+    {
+      "id": 464,
+      "descricao": "REPRODUZIR, SEM AUTORIZAÇÃO DO TITULAR, NO TODO OU EM PARTE, MARCA REGISTRADA, OU IMITA-LA DE MODO QUE POSSA INDUZIR CONFUSÃO",
+      "legislacao": "LEI DOS CRIMES CONTRA A PROPRIEDADE INDUSTRIAL (LEI Nº 9.279/96)",
+      "artigo": "DOS CRIMES CONTRA AS MARCAS"
+    },
+    {
+      "id": 465,
+      "descricao": "COM. CRIME CONTRA REG./MARCA Q/IMP.EXP.",
+      "legislacao": "LEI DOS CRIMES CONTRA A PROPRIEDADE INDUSTRIAL (LEI Nº 9.279/96)",
+      "artigo": "DOS CRIMES CONTRA AS MARCAS"
+    },
+    {
+      "id": 466,
+      "descricao": "REPRODUZIR OU IMITAR, ARMAS, BRASÕES OU DISTINTIVOS OFICIAIS EM MARCA, TÍTULO DE ESTABELECIMENTO, NOME COMERCIAL, INSÍGNIA OU SINAL DE PROPAGANDA, OU USA-LAS COM FINS ECONÔMICOS",
+      "legislacao": "LEI DOS CRIMES CONTRA A PROPRIEDADE INDUSTRIAL (LEI Nº 9.279/96)",
+      "artigo": "DOS CRIMES POR MEIO DE MARCAS.TIT.ESTAB."
+    },
+    {
+      "id": 467,
+      "descricao": "COMETE CRIME DE CONCORRENCIA DESLEAL",
+      "legislacao": "LEI DOS CRIMES CONTRA A PROPRIEDADE INDUSTRIAL (LEI Nº 9.279/96)",
+      "artigo": "DOS CRIMES DE CONCORRENCIA DESLEAL"
+    },
+    {
+      "id": 468,
+      "descricao": "CONCORRÊNCIA DESLEAL, PUBLICANDO, POR QUALQUER MEIO, FALSA AFIRMAÇÃO, EM DETRIMENTO DE CONCORRENTE, COM O FIM DE OBTER VANTAGEM",
+      "legislacao": "LEI DOS CRIMES CONTRA A PROPRIEDADE INDUSTRIAL (LEI Nº 9.279/96)",
+      "artigo": "DOS CRIMES DE CONCORRENCIA DESLEAL"
+    },
+    {
+      "id": 469,
+      "descricao": "CONCORRÊNCIA DESLEAL, PRESTANDO OU DIVULGANDO, ACERCA DE CONCORRENTE, FALSA INFORMAÇÃO, COM O FIM DE OBTER VANTAGEM",
+      "legislacao": "LEI DOS CRIMES CONTRA A PROPRIEDADE INDUSTRIAL (LEI Nº 9.279/96)",
+      "artigo": "DOS CRIMES DE CONCORRENCIA DESLEAL"
+    },
+    {
+      "id": 470,
+      "descricao": "CONCORRÊNCIA DESLEAL, EMPREGANDO MEIO FRAUDULENTO, PARA DESVIAR, EM PROVEITO PRÓPRIO OU ALHEIO, CLIENTELA DE OUTREM",
+      "legislacao": "LEI DOS CRIMES CONTRA A PROPRIEDADE INDUSTRIAL (LEI Nº 9.279/96)",
+      "artigo": "DOS CRIMES DE CONCORRENCIA DESLEAL"
+    },
+    {
+      "id": 471,
+      "descricao": "CONCORRÊNCIA DESLEAL, USANDO EXPRESSÃO OU SINAL DE PROPAGANDA ALHEIOS, OU IMITANDO-OS, DE MODO A CRIAR CONFUSÃO ENTRE OS PRODUTOS OU ESTABELECIMENTOS",
+      "legislacao": "LEI DOS CRIMES CONTRA A PROPRIEDADE INDUSTRIAL (LEI Nº 9.279/96)",
+      "artigo": "DOS CRIMES DE CONCORRENCIA DESLEAL"
+    },
+    {
+      "id": 472,
+      "descricao": "CONCORRÊNCIA DESLEAL, SUBSTITUINDO, PELO SEU PRÓPRIO NOME OU RAZÃO SOCIAL, EM PRODUTO DE OUTREM, O NOME OU RAZÃO SOCIAL DESTE, SEM O SEU CONSENTIMENTO",
+      "legislacao": "LEI DOS CRIMES CONTRA A PROPRIEDADE INDUSTRIAL (LEI Nº 9.279/96)",
+      "artigo": "DOS CRIMES DE CONCORRENCIA DESLEAL"
+    },
+    {
+      "id": 473,
+      "descricao": "CONCORRÊNCIA DESLEAL, DANDO OU PROMETENDO DINHEIRO OU OUTRA UTILIDADE A EMPREGADO CONCORRENTE PARA QUE LHE PROPORCIONE VANTAGEM",
+      "legislacao": "LEI DOS CRIMES CONTRA A PROPRIEDADE INDUSTRIAL (LEI Nº 9.279/96)",
+      "artigo": "DOS CRIMES DE CONCORRENCIA DESLEAL"
+    },
+    {
+      "id": 474,
+      "descricao": "CONCORRÊNCIA DESLEAL, DIVULGANDO, EXPLORANDO OU UTILIZANDO, SEM AUTORIZAÇÃO, CONHECIMENTOS OU INFORMAÇÕES OBTIDOS POR MEIOS ILÍCITOS OU A QUE TEVE ACESSO MEDIANTE FRAUDE",
+      "legislacao": "LEI DOS CRIMES CONTRA A PROPRIEDADE INDUSTRIAL (LEI Nº 9.279/96)",
+      "artigo": "DOS CRIMES DE CONCORRENCIA DESLEAL"
+    },
+    {
+      "id": 475,
+      "descricao": "CONSTITUI CRIME SUPRIMIR/REDUZIR TRIBUTO",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIMES CONTRA ORDEM TRIBUTARIA"
+    },
+    {
+      "id": 476,
+      "descricao": "OMITIR/PREST.DECLAR.FALSA ÀS AUTOR.FAZ.",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIMES CONTRA ORDEM TRIBUTARIA"
+    },
+    {
+      "id": 477,
+      "descricao": "FRAUD.A FISC.TRIB.EM DOC.EXIG.P/LEI FISC",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIMES CONTRA ORDEM TRIBUTARIA"
+    },
+    {
+      "id": 478,
+      "descricao": "FALSIFIC./ALTERAR NOTA FISC/FATUR/DUP.",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIMES CONTRA ORDEM TRIBUTARIA"
+    },
+    {
+      "id": 479,
+      "descricao": "ELAB/DIST/FORN/EMIT/DOC.Q/DEVA SAB.FALSO",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIMES CONTRA ORDEM TRIBUTARIA"
+    },
+    {
+      "id": 480,
+      "descricao": "NEGAR FORNECER Q/OBRIGATORIO NOTA FISCAL",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIMES CONTRA ORDEM TRIBUTARIA"
+    },
+    {
+      "id": 481,
+      "descricao": "CONSTITUI CRIME DA MEMA NATUREZA",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIMES CONTRA ORDEM TRIBUTARIA"
+    },
+    {
+      "id": 482,
+      "descricao": "FAZ.FALSA/OMITIR DEC/RENDA P/EXIMIR-SE",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIMES CONTRA ORDEM TRIBUTARIA"
+    },
+    {
+      "id": 483,
+      "descricao": "DEIXAR DE NO PRAZO LEGAL RECOL.TRIB.",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIMES CONTRA ORDEM TRIBUTARIA"
+    },
+    {
+      "id": 484,
+      "descricao": "EXIGIR PARA SI/PARA/CONTRIB.BENIF.",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIMES CONTRA ORDEM TRIBUTARIA"
+    },
+    {
+      "id": 485,
+      "descricao": "DEIXAR OU APLIC.EM DESACOR.C/ESTATUIDO",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIMES CONTRA ORDEM TRIBUTARIA"
+    },
+    {
+      "id": 486,
+      "descricao": "UTIL/DIVUL/PROG/Q/ PERM.POS.INF.DIVERSA",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIMES CONTRA ORDEM TRIBUTARIA"
+    },
+    {
+      "id": 487,
+      "descricao": "CONST/CRIME FUNC/CONTRA/ORDEM TRIB.",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIMES CONTRA ORDEM TRIBUTARIA"
+    },
+    {
+      "id": 488,
+      "descricao": "EXTRAV.LIVRO OFIC/PROC.FISCAL/QUALQ.DOC.",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIMES CONTRA ORDEM TRIBUTARIA"
+    },
+    {
+      "id": 489,
+      "descricao": "EXIGIR/SOLIC/P/SI/P/OUTREM/VANT.INDEVIDA",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIMES CONTRA ORDEM TRIBUTARIA"
+    },
+    {
+      "id": 490,
+      "descricao": "PATRO.DIR/IND/INTERES.PRIV.PERAN.ADM FAZ",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIMES CONTRA ORDEM TRIBUTARIA"
+    },
+    {
+      "id": 491,
+      "descricao": "CONST.CRIME CONTRA ORDEM ECONOMICA",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIM.CONTRA/ORDEM ECON/REL.CONSUM."
+    },
+    {
+      "id": 492,
+      "descricao": "ABUSAR DO PODER ECONOMICO/A,B...F.",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIM.CONTRA/ORDEM ECON/REL.CONSUM."
+    },
+    {
+      "id": 493,
+      "descricao": "FORMAR/ACORD/CONV/ALIAN/ENT.OFERT/A,B,C.",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIM.CONTRA/ORDEM ECON/REL.CONSUM."
+    },
+    {
+      "id": 494,
+      "descricao": "DISCR.PREÇOS/COM FIM DE ESTAB.MONOPOLIO",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIM.CONTRA/ORDEM ECON/REL.CONSUM."
+    },
+    {
+      "id": 495,
+      "descricao": "AÇAMBARCAR,SONEG.C/FIM DE ESTAB. MONOP.",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIM.CONTRA/ORDEM ECON/REL.CONSUM."
+    },
+    {
+      "id": 496,
+      "descricao": "PROV.OSCIL/PREÇOS/DET.DE EMPRESA CONCOR",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIM.CONTRA/ORDEM ECON/REL.CONSUM."
+    },
+    {
+      "id": 497,
+      "descricao": "VENDER MERC.ABAIXO DE PREÇO DE CUSTO",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIM.CONTRA/ORDEM ECON/REL.CONSUM."
+    },
+    {
+      "id": 498,
+      "descricao": "ELEVAR S/JUSTA CAUSA PREÇO/BEM OU SERV.",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIM.CONTRA/ORDEM ECON/REL.CONSUM."
+    },
+    {
+      "id": 499,
+      "descricao": "CONSTITUI CRIME DA MESMA NATUREZA",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIM.CONTRA/ORDEM ECON/REL.CONSUM."
+    },
+    {
+      "id": 500,
+      "descricao": "EXIGIR EXCLUS.PROPAG.EM DETR.DE CONCOR.",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIM.CONTRA/ORDEM ECON/REL.CONSUM."
+    },
+    {
+      "id": 501,
+      "descricao": "SUBORD.VENDA/BEM/SER À AQUISIÇÃO BEM/SER",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIM.CONTRA/ORDEM ECON/REL.CONSUM."
+    },
+    {
+      "id": 502,
+      "descricao": "SUJ/VENDA/BEM À AQUIS/QUANT.ARBIT.DETER",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIM.CONTRA/ORDEM ECON/REL.CONSUM."
+    },
+    {
+      "id": 503,
+      "descricao": "RECUSAR-SE S/JUSTA CAUSA/APRES.PRE.VEND",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIM.CONTRA/ORDEM ECON/REL.CONSUM."
+    },
+    {
+      "id": 504,
+      "descricao": "CONSTITUI CRIME DA MESMA NATUREZA",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIM.CONTRA/ORDEM ECON/REL.CONSUM."
+    },
+    {
+      "id": 505,
+      "descricao": "VEND/OFEREC/MERCAD/PREÇO SUP/FIX.P/ORGÃO",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIM.CONTRA/ORDEM ECON/REL.CONSUM."
+    },
+    {
+      "id": 506,
+      "descricao": "APLIC/FORM/REAJ/PREÇO/INDEX.CONT.PROIB",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIM.CONTRA/ORDEM ECON/REL.CONSUM."
+    },
+    {
+      "id": 507,
+      "descricao": "EXIGIR/COBRAR/REC.VANT/INPORT.DICIONAL",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIM.CONTRA/ORDEM ECON/REL.CONSUM."
+    },
+    {
+      "id": 508,
+      "descricao": "CONST.CRIME CONTRA RELAÇÕES DE CONSUMO",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIM.CONTRA/ORDEM ECON/REL.CONSUM."
+    },
+    {
+      "id": 509,
+      "descricao": "FAV/PROF/S/JUST/CAUS/COMP/RESSA/SIST/ENT",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIM.CONTRA/ORDEM ECON/REL.CONSUM."
+    },
+    {
+      "id": 510,
+      "descricao": "VEND/EXP.À VEND.MERC/DESAC C/PRESC/LEGA",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIM.CONTRA/ORDEM ECON/REL.CONSUM."
+    },
+    {
+      "id": 511,
+      "descricao": "MIST/GEN/MERC/ESPEC/DIF/P/VEND/EXP/VENDA",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIM.CONTRA/ORDEM ECON/REL.CONSUM."
+    },
+    {
+      "id": 512,
+      "descricao": "FRAUDAR PREÇOS POR MEIO DE LEIS/A,B...D.",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIM.CONTRA/ORDEM ECON/REL.CONSUM."
+    },
+    {
+      "id": 513,
+      "descricao": "ELEVAR PREÇOS COBRADOS/VENDAS/PRAZO",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIM.CONTRA/ORDEM ECON/REL.CONSUM."
+    },
+    {
+      "id": 514,
+      "descricao": "SONEG/INSUM/BENS RECUS/VENDE-LOS",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIM.CONTRA/ORDEM ECON/REL.CONSUM."
+    },
+    {
+      "id": 515,
+      "descricao": "INDUZ/CUNSUM A ERRO P/VIA DE INDIC.FALSA",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIM.CONTRA/ORDEM ECON/REL.CONSUM."
+    },
+    {
+      "id": 516,
+      "descricao": "DEST/INUT/DANI/MAT-PRI/FIM/PROV.ALT/PREÇ",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIM.CONTRA/ORDEM ECON/REL.CONSUM."
+    },
+    {
+      "id": 517,
+      "descricao": "VEND/T/EM DEP/P/VEND/EM COND/INP.P/CONS",
+      "legislacao": "LEI CRIM/TRIB/ECON/REL.CONS (8.137/90)",
+      "artigo": "DOS CRIM.CONTRA/ORDEM ECON/REL.CONSUM."
+    },
+    {
+      "id": 518,
+      "descricao": "DISP/INEXIG/LICIT/FORA DA HIPOT/PREV/LEI",
+      "legislacao": "NORMAS PARA LICITAÇÕES E CONTRATOS DA ADMINISTRAÇÃO PÚBLICA (LEI Nº 8.666/93)",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 519,
+      "descricao": "FRUST/FRAUD.MED/AJUST/C/INTUI/D/OBT/VANT",
+      "legislacao": "NORMAS PARA LICITAÇÕES E CONTRATOS DA ADMINISTRAÇÃO PÚBLICA (LEI Nº 8.666/93)",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 520,
+      "descricao": "PATROC/INTERES/PRIV/PERAN/ADM",
+      "legislacao": "NORMAS PARA LICITAÇÕES E CONTRATOS DA ADMINISTRAÇÃO PÚBLICA (LEI Nº 8.666/93)",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 521,
+      "descricao": "ADMIT/POSSIB/DAR CAUS/QUALQ/MODIFIC/VANT",
+      "legislacao": "NORMAS PARA LICITAÇÕES E CONTRATOS DA ADMINISTRAÇÃO PÚBLICA (LEI Nº 8.666/93)",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 522,
+      "descricao": "IMP/PERT/FRAU/REALI/D/QUALQ/ATO/PROC/LIC",
+      "legislacao": "NORMAS PARA LICITAÇÕES E CONTRATOS DA ADMINISTRAÇÃO PÚBLICA (LEI Nº 8.666/93)",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 523,
+      "descricao": "DEVAS/SIG/D/PROP/APRES/EM PROC/LICIT",
+      "legislacao": "NORMAS PARA LICITAÇÕES E CONTRATOS DA ADMINISTRAÇÃO PÚBLICA (LEI Nº 8.666/93)",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 524,
+      "descricao": "AFAST/PROCUR/AFAST/LICITANTE P/MEIO/VIOL",
+      "legislacao": "NORMAS PARA LICITAÇÕES E CONTRATOS DA ADMINISTRAÇÃO PÚBLICA (LEI Nº 8.666/93)",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 525,
+      "descricao": "FRAUD.EM PREJ.DA FAZ.PUBLIC/LICIT.INSTAU",
+      "legislacao": "NORMAS PARA LICITAÇÕES E CONTRATOS DA ADMINISTRAÇÃO PÚBLICA (LEI Nº 8.666/93)",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 526,
+      "descricao": "ELEVANDO ARBITRARIAMENTE OS PREÇOS",
+      "legislacao": "NORMAS PARA LICITAÇÕES E CONTRATOS DA ADMINISTRAÇÃO PÚBLICA (LEI Nº 8.666/93)",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 527,
+      "descricao": "VEND/COMO VERDAD/OU PERF/MERC/FALS/DET",
+      "legislacao": "NORMAS PARA LICITAÇÕES E CONTRATOS DA ADMINISTRAÇÃO PÚBLICA (LEI Nº 8.666/93)",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 528,
+      "descricao": "ENTREGANDO UMA MERCADORIA POR OUTRA",
+      "legislacao": "NORMAS PARA LICITAÇÕES E CONTRATOS DA ADMINISTRAÇÃO PÚBLICA (LEI Nº 8.666/93)",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 529,
+      "descricao": "ALTER/SUBST/QUALID/QUANT/MERC/FORN",
+      "legislacao": "NORMAS PARA LICITAÇÕES E CONTRATOS DA ADMINISTRAÇÃO PÚBLICA (LEI Nº 8.666/93)",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 530,
+      "descricao": "TORN/P/Q/MOD/INJ/ONERO/PROP/EXEC/CONTR",
+      "legislacao": "NORMAS PARA LICITAÇÕES E CONTRATOS DA ADMINISTRAÇÃO PÚBLICA (LEI Nº 8.666/93)",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 531,
+      "descricao": "ADMI/LIC/CELEB/CONT/C/EMP/PROF/DECL/INID",
+      "legislacao": "NORMAS PARA LICITAÇÕES E CONTRATOS DA ADMINISTRAÇÃO PÚBLICA (LEI Nº 8.666/93)",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 532,
+      "descricao": "OBST/INJUST/INSC/D/Q/INTER/N/REG/CAD",
+      "legislacao": "NORMAS PARA LICITAÇÕES E CONTRATOS DA ADMINISTRAÇÃO PÚBLICA (LEI Nº 8.666/93)",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 533,
+      "descricao": "REM/TEC/ORG/PART/CORP/PES/CAD/DES/ LEI",
+      "legislacao": "LEI DA REMOÇÃO DE ORGÃOS, TECIDOS E PARTES DO CORPO HUMANO PARA FINS DE TRANSPLANTES E TRATAMENTO (LEI Nº 9.434/70)",
+      "artigo": "DAS SANÇÕES PENAIS E ADMINISTRATIVAS"
+    },
+    {
+      "id": 534,
+      "descricao": "SE/CRIM/COMET/MED/PAG/PROM/OUT/MOT/TORPE",
+      "legislacao": "LEI DA REMOÇÃO DE ORGÃOS, TECIDOS E PARTES DO CORPO HUMANO PARA FINS DE TRANSPLANTES E TRATAMENTO (LEI Nº 9.434/70)",
+      "artigo": "DAS SANÇÕES PENAIS E ADMINISTRATIVAS"
+    },
+    {
+      "id": 535,
+      "descricao": "SE/CRIM/PRAT/PES/VIVA/RESULT.P/OFEND",
+      "legislacao": "LEI DA REMOÇÃO DE ORGÃOS, TECIDOS E PARTES DO CORPO HUMANO PARA FINS DE TRANSPLANTES E TRATAMENTO (LEI Nº 9.434/70)",
+      "artigo": "DAS SANÇÕES PENAIS E ADMINISTRATIVAS"
+    },
+    {
+      "id": 536,
+      "descricao": "INCAPAC/P/OCUP/HABIT/P/MAIS DE 30 DIAS",
+      "legislacao": "LEI DA REMOÇÃO DE ORGÃOS, TECIDOS E PARTES DO CORPO HUMANO PARA FINS DE TRANSPLANTES E TRATAMENTO (LEI Nº 9.434/70)",
+      "artigo": "DAS SANÇÕES PENAIS E ADMINISTRATIVAS"
+    },
+    {
+      "id": 537,
+      "descricao": "PERIGO DE VIDA",
+      "legislacao": "LEI DA REMOÇÃO DE ORGÃOS, TECIDOS E PARTES DO CORPO HUMANO PARA FINS DE TRANSPLANTES E TRATAMENTO (LEI Nº 9.434/70)",
+      "artigo": "DAS SANÇÕES PENAIS E ADMINISTRATIVAS"
+    },
+    {
+      "id": 538,
+      "descricao": "DEBILI/PERMANEN/MEMBRO SENTIDO FUNÇÃO",
+      "legislacao": "LEI DA REMOÇÃO DE ORGÃOS, TECIDOS E PARTES DO CORPO HUMANO PARA FINS DE TRANSPLANTES E TRATAMENTO (LEI Nº 9.434/70)",
+      "artigo": "DAS SANÇÕES PENAIS E ADMINISTRATIVAS"
+    },
+    {
+      "id": 539,
+      "descricao": "ACELERAÇÃO DE PARTO",
+      "legislacao": "LEI DA REMOÇÃO DE ORGÃOS, TECIDOS E PARTES DO CORPO HUMANO PARA FINS DE TRANSPLANTES E TRATAMENTO (LEI Nº 9.434/70)",
+      "artigo": "DAS SANÇÕES PENAIS E ADMINISTRATIVAS"
+    },
+    {
+      "id": 540,
+      "descricao": "SE/CRIM/PRAT/PES/VIVA/RESULT.P/OFEND",
+      "legislacao": "LEI DA REMOÇÃO DE ORGÃOS, TECIDOS E PARTES DO CORPO HUMANO PARA FINS DE TRANSPLANTES E TRATAMENTO (LEI Nº 9.434/70)",
+      "artigo": "DAS SANÇÕES PENAIS E ADMINISTRATIVAS"
+    },
+    {
+      "id": 541,
+      "descricao": "INCAPACIDADE PERMANENTE P/TRABALHO",
+      "legislacao": "LEI DA REMOÇÃO DE ORGÃOS, TECIDOS E PARTES DO CORPO HUMANO PARA FINS DE TRANSPLANTES E TRATAMENTO (LEI Nº 9.434/70)",
+      "artigo": "DAS SANÇÕES PENAIS E ADMINISTRATIVAS"
+    },
+    {
+      "id": 542,
+      "descricao": "ENFERMIDADE INCURAVEL",
+      "legislacao": "LEI DA REMOÇÃO DE ORGÃOS, TECIDOS E PARTES DO CORPO HUMANO PARA FINS DE TRANSPLANTES E TRATAMENTO (LEI Nº 9.434/70)",
+      "artigo": "DAS SANÇÕES PENAIS E ADMINISTRATIVAS"
+    },
+    {
+      "id": 543,
+      "descricao": "PERDA OU INUTIL/MEMBRO/SENTIDO/FUNÇÃO",
+      "legislacao": "LEI DA REMOÇÃO DE ORGÃOS, TECIDOS E PARTES DO CORPO HUMANO PARA FINS DE TRANSPLANTES E TRATAMENTO (LEI Nº 9.434/70)",
+      "artigo": "DAS SANÇÕES PENAIS E ADMINISTRATIVAS"
+    },
+    {
+      "id": 544,
+      "descricao": "DEFORMIDADE PERMANENTE",
+      "legislacao": "LEI DA REMOÇÃO DE ORGÃOS, TECIDOS E PARTES DO CORPO HUMANO PARA FINS DE TRANSPLANTES E TRATAMENTO (LEI Nº 9.434/70)",
+      "artigo": "DAS SANÇÕES PENAIS E ADMINISTRATIVAS"
+    },
+    {
+      "id": 545,
+      "descricao": "ABORTO",
+      "legislacao": "LEI DA REMOÇÃO DE ORGÃOS, TECIDOS E PARTES DO CORPO HUMANO PARA FINS DE TRANSPLANTES E TRATAMENTO (LEI Nº 9.434/70)",
+      "artigo": "DAS SANÇÕES PENAIS E ADMINISTRATIVAS"
+    },
+    {
+      "id": 546,
+      "descricao": "SE/CRIME/PRATIC/PES/VIVA/RESULTA/MORTE",
+      "legislacao": "LEI DA REMOÇÃO DE ORGÃOS, TECIDOS E PARTES DO CORPO HUMANO PARA FINS DE TRANSPLANTES E TRATAMENTO (LEI Nº 9.434/70)",
+      "artigo": "DAS SANÇÕES PENAIS E ADMINISTRATIVAS"
+    },
+    {
+      "id": 547,
+      "descricao": "COMP/VEND/TEC/ORGÃOS/PARTES/CORPO HUMANO",
+      "legislacao": "LEI DA REMOÇÃO DE ORGÃOS, TECIDOS E PARTES DO CORPO HUMANO PARA FINS DE TRANSPLANTES E TRATAMENTO (LEI Nº 9.434/70)",
+      "artigo": "DAS SANÇÕES PENAIS E ADMINISTRATIVAS"
+    },
+    {
+      "id": 548,
+      "descricao": "REALIZ/TRANSPL/ENXERT/UTIL/PART/CORP/HUM",
+      "legislacao": "LEI DA REMOÇÃO DE ORGÃOS, TECIDOS E PARTES DO CORPO HUMANO PARA FINS DE TRANSPLANTES E TRATAMENTO (LEI Nº 9.434/70)",
+      "artigo": "DAS SANÇÕES PENAIS E ADMINISTRATIVAS"
+    },
+    {
+      "id": 549,
+      "descricao": "REC/TRANS/GUAR/DIST/PART/COR/HUM/DES/LEI",
+      "legislacao": "LEI DA REMOÇÃO DE ORGÃOS, TECIDOS E PARTES DO CORPO HUMANO PARA FINS DE TRANSPLANTES E TRATAMENTO (LEI Nº 9.434/70)",
+      "artigo": "DAS SANÇÕES PENAIS E ADMINISTRATIVAS"
+    },
+    {
+      "id": 550,
+      "descricao": "REAL/TRANSP/ENXER/DESAC/DESPOS.NO ART.10",
+      "legislacao": "LEI DA REMOÇÃO DE ORGÃOS, TECIDOS E PARTES DO CORPO HUMANO PARA FINS DE TRANSPLANTES E TRATAMENTO (LEI Nº 9.434/70)",
+      "artigo": "DAS SANÇÕES PENAIS E ADMINISTRATIVAS"
+    },
+    {
+      "id": 551,
+      "descricao": "DEIX/D/RECOM/CADAV/RETAR/ENTR/FAMILI",
+      "legislacao": "LEI DA REMOÇÃO DE ORGÃOS, TECIDOS E PARTES DO CORPO HUMANO PARA FINS DE TRANSPLANTES E TRATAMENTO (LEI Nº 9.434/70)",
+      "artigo": "DAS SANÇÕES PENAIS E ADMINISTRATIVAS"
+    },
+    {
+      "id": 552,
+      "descricao": "PUB/ANUN/APELO PUB/DES/C/DISPOS/ART.11",
+      "legislacao": "LEI DA REMOÇÃO DE ORGÃOS, TECIDOS E PARTES DO CORPO HUMANO PARA FINS DE TRANSPLANTES E TRATAMENTO (LEI Nº 9.434/70)",
+      "artigo": "DAS SANÇÕES PENAIS E ADMINISTRATIVAS"
+    },
+    {
+      "id": 553,
+      "descricao": "OMITIR DIZERES OU SINAIS OSTENSIVOS SOBRE A NOCIVIDADE OU PERICULOSIDADE DE PRODUTOS",
+      "legislacao": "CÓDIGO DE DEFESA DO CONSUMIDOR (LEI Nº 8.078/90)",
+      "artigo": "DAS INFRAÇÕES PENAIS"
+    },
+    {
+      "id": 554,
+      "descricao": "DEIXAR DE ALERTAR, MEDIANTE RECOMENDAÇÕES ESCRITAS OSTENSIVAS, SOBRE A PERICULOSIDADE DO SERVIÇO A SER PRESTADO",
+      "legislacao": "CÓDIGO DE DEFESA DO CONSUMIDOR (LEI Nº 8.078/90)",
+      "artigo": "DAS INFRAÇÕES PENAIS"
+    },
+    {
+      "id": 555,
+      "descricao": "OMITIR DIZERES OU SINAIS OSTENSIVOS SOBRE A NOCIVIDADE OU PERICULOSIDADE DE PRODUTOS OU DEIXAR DE ALERTAR, MEDIANTE RECOMENDAÇÕES ESCRITAS OSTENSIVAS, SOBRE A PERICULOSIDADE DO SERVIÇO A SER PRESTADO, DE MANEIRA CULPOSA",
+      "legislacao": "CÓDIGO DE DEFESA DO CONSUMIDOR (LEI Nº 8.078/90)",
+      "artigo": "DAS INFRAÇÕES PENAIS"
+    },
+    {
+      "id": 556,
+      "descricao": "EXECUTAR SERVIÇO DE ALTO GRAU DE PERICULOSIDADE, CONTRARIANDO DETERMINAÇÃO DE AUTORIDADE COMPETENTE",
+      "legislacao": "CÓDIGO DE DEFESA DO CONSUMIDOR (LEI Nº 8.078/90)",
+      "artigo": "DAS INFRAÇÕES PENAIS"
+    },
+    {
+      "id": 557,
+      "descricao": "FAZER OU PROMOVER PUBLICIDADE QUE SABE OU DEVERIA SABER SER ENGANOSA OU ABUSIVA",
+      "legislacao": "CÓDIGO DE DEFESA DO CONSUMIDOR (LEI Nº 8.078/90)",
+      "artigo": "DAS INFRAÇÕES PENAIS"
+    },
+    {
+      "id": 558,
+      "descricao": "DEIXAR DE ORGANIZAR DADOS FÁTICOS, TÉCNICOS E CIENTÍFICOS QUE DÃO BASE À PUBLICIDADE",
+      "legislacao": "CÓDIGO DE DEFESA DO CONSUMIDOR (LEI Nº 8.078/90)",
+      "artigo": "DAS INFRAÇÕES PENAIS"
+    },
+    {
+      "id": 559,
+      "descricao": "IMPEDIR OU DIFICULTAR O ACESSO DO CONSUMIDOR ÀS SUAS INFORMAÇÕES CADASTRAIS",
+      "legislacao": "CÓDIGO DE DEFESA DO CONSUMIDOR (LEI Nº 8.078/90)",
+      "artigo": "DAS INFRAÇÕES PENAIS"
+    },
+    {
+      "id": 560,
+      "descricao": "DEIXAR DE CORRIGIR IMEDIATAMENTE INFORMAÇÕES CADASTRAIS DE CONSUMIDOR, QUE SABE OU DEVERIA SABER SER INEXATA",
+      "legislacao": "CÓDIGO DE DEFESA DO CONSUMIDOR (LEI Nº 8.078/90)",
+      "artigo": "DAS INFRAÇÕES PENAIS"
+    },
+    {
+      "id": 561,
+      "descricao": "PETRECHOS FALS. DE SELO OU VALE-POSTAL",
+      "legislacao": "LEI DE SERVIÇO POSTAL (LEI Nº 6.538/78)",
+      "artigo": "CRIMES C/SERVIÇO POSTAL E TELEGRAMA"
+    },
+    {
+      "id": 562,
+      "descricao": "REPROD/ALTERARAÇÃO PEÇA FILATÉLICA",
+      "legislacao": "LEI DE SERVIÇO POSTAL (LEI Nº 6.538/78)",
+      "artigo": "CRIMES C/SERVIÇO POSTAL E TELEGRAMA"
+    },
+    {
+      "id": 563,
+      "descricao": "INCORRE MESMA USO SELO P/ COLECAO REPROD",
+      "legislacao": "LEI DE SERVIÇO POSTAL (LEI Nº 6.538/78)",
+      "artigo": "CRIMES C/SERVIÇO POSTAL E TELEGRAMA"
+    },
+    {
+      "id": 564,
+      "descricao": "VIOLAÇÃO DE CORRESPÔNDENCIA",
+      "legislacao": "LEI DE SERVIÇO POSTAL (LEI Nº 6.538/78)",
+      "artigo": "CRIMES C/SERVIÇO POSTAL E TELEGRAMA"
+    },
+    {
+      "id": 565,
+      "descricao": "SONEGAÇÃO/DESTRUIÇÃO DE CORRESPONDÊNCIA",
+      "legislacao": "LEI DE SERVIÇO POSTAL (LEI Nº 6.538/78)",
+      "artigo": "CRIMES C/SERVIÇO POSTAL E TELEGRAMA"
+    },
+    {
+      "id": 566,
+      "descricao": "QUALIFICADO SE CAUSA DANO A OUTREM",
+      "legislacao": "LEI DE SERVIÇO POSTAL (LEI Nº 6.538/78)",
+      "artigo": "CRIMES C/SERVIÇO POSTAL E TELEGRAMA"
+    },
+    {
+      "id": 567,
+      "descricao": "QUEBRA DO SEGREDO PROFISSIONAL",
+      "legislacao": "LEI DE SERVIÇO POSTAL (LEI Nº 6.538/78)",
+      "artigo": "CRIMES C/SERVIÇO POSTAL E TELEGRAMA"
+    },
+    {
+      "id": 568,
+      "descricao": "DIV/NOMES/D/PES/Q/MANTENH/ENT/SI,CORRESP",
+      "legislacao": "LEI DE SERVIÇO POSTAL (LEI Nº 6.538/78)",
+      "artigo": "CRIMES C/SERVIÇO POSTAL E TELEGRAMA"
+    },
+    {
+      "id": 569,
+      "descricao": "DIVULG/NO TODO OU EM PARTE DE CORRESPOND",
+      "legislacao": "LEI DE SERVIÇO POSTAL (LEI Nº 6.538/78)",
+      "artigo": "CRIMES C/SERVIÇO POSTAL E TELEGRAMA"
+    },
+    {
+      "id": 570,
+      "descricao": "REVEL/NOME DE ASSINANTE NÃO AUTORIZADO",
+      "legislacao": "LEI DE SERVIÇO POSTAL (LEI Nº 6.538/78)",
+      "artigo": "CRIMES C/SERVIÇO POSTAL E TELEGRAMA"
+    },
+    {
+      "id": 571,
+      "descricao": "REVEL/LOCAL Q/PESSOA REC/CORRESPON",
+      "legislacao": "LEI DE SERVIÇO POSTAL (LEI Nº 6.538/78)",
+      "artigo": "CRIMES C/SERVIÇO POSTAL E TELEGRAMA"
+    },
+    {
+      "id": 572,
+      "descricao": "VIOLAÇÃO/PRIVILÉGIO POSTAL DA UNIÃO",
+      "legislacao": "LEI DE SERVIÇO POSTAL (LEI Nº 6.538/78)",
+      "artigo": "CRIMES C/SERVIÇO POSTAL E TELEGRAMA"
+    },
+    {
+      "id": 573,
+      "descricao": "INCORRE MESMA QUEM PROMOVE CONTRAB./POST",
+      "legislacao": "LEI DE SERVIÇO POSTAL (LEI Nº 6.538/78)",
+      "artigo": "CRIMES C/SERVIÇO POSTAL E TELEGRAMA"
+    },
+    {
+      "id": 574,
+      "descricao": "FALSIFICAÇÃO SELO/FRANQUIA/VALE POSTAL",
+      "legislacao": "LEI DE SERVIÇO POSTAL (LEI Nº 6.538/78)",
+      "artigo": "CRIMES C/SERVIÇO POSTAL E TELEGRAMA"
+    },
+    {
+      "id": 575,
+      "descricao": "IMP/EXP/ADQ/VENDER SELO/VALE POST.FALSIF",
+      "legislacao": "LEI DE SERVIÇO POSTAL (LEI Nº 6.538/78)",
+      "artigo": "CRIMES C/SERVIÇO POSTAL E TELEGRAMA"
+    },
+    {
+      "id": 576,
+      "descricao": "SUPRESSÃO DE SINAIS DE UTILIZAÇÃO",
+      "legislacao": "LEI DE SERVIÇO POSTAL (LEI Nº 6.538/78)",
+      "artigo": "CRIMES C/SERVIÇO POSTAL E TELEGRAMA"
+    },
+    {
+      "id": 577,
+      "descricao": "INCORRE/MESMAS PENAS/Q/USA VEND,FORN",
+      "legislacao": "LEI DE SERVIÇO POSTAL (LEI Nº 6.538/78)",
+      "artigo": "CRIMES C/SERVIÇO POSTAL E TELEGRAMA"
+    },
+    {
+      "id": 578,
+      "descricao": "QUEM USA SELO DEPOIS/D/CONHEC/FALSIDADE",
+      "legislacao": "LEI DE SERVIÇO POSTAL (LEI Nº 6.538/78)",
+      "artigo": "CRIMES C/SERVIÇO POSTAL E TELEGRAMA"
+    },
+    {
+      "id": 579,
+      "descricao": "DEIXAR O ENCARREGADO OU DIRIGENTE DE ESTABELECIMENTO DE SAÚDE DE GESTANTE DE MANTER REGISTRO DAS ATIVIDADES, BEM COMO DE FORNECER À PARTURIENTE OU A SEU RESPONSÁVEL, DECLARAÇÃO DE NASCIMENTO",
+      "legislacao": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE (LEI Nº 8.069/90)",
+      "artigo": "DOS CRIMES E DAS INFRAÇÕES ADMINISTRAT"
+    },
+    {
+      "id": 580,
+      "descricao": "PRIVAR A CRIANÇA OU O ADOLESCENTE DE SUA LIBERDADE, EM DESACORDO COM A LEI",
+      "legislacao": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE (LEI Nº 8.069/90)",
+      "artigo": "DOS CRIMES E DAS INFRAÇÕES ADMINISTRAT"
+    },
+    {
+      "id": 581,
+      "descricao": "DEIXAR DE FAZER IMEDIATA COMUNICAÇÃO DE APREENSÃO DE CRIANÇA OU ADOLESCENTE",
+      "legislacao": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE (LEI Nº 8.069/90)",
+      "artigo": "DOS CRIMES E DAS INFRAÇÕES ADMINISTRAT"
+    },
+    {
+      "id": 582,
+      "descricao": "SUBMETER CRIANÇA OU ADOLESCENTE A VEXAME OU A CONSTRANGIMENTO",
+      "legislacao": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE (LEI Nº 8.069/90)",
+      "artigo": "DOS CRIMES E DAS INFRAÇÕES ADMINISTRAT"
+    },
+    {
+      "id": 583,
+      "descricao": "DEIXAR A AUTORIDADE COMPETENTE DE ORDENAR A IMEDIATA LIBERAÇÃO DE CRIANÇA OU ADOLESCENTE, EM DESACORDO COM A LEI",
+      "legislacao": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE (LEI Nº 8.069/90)",
+      "artigo": "DOS CRIMES E DAS INFRAÇÕES ADMINISTRAT"
+    },
+    {
+      "id": 584,
+      "descricao": "DESCUMPRIR PRAZO FIXADO EM BENEFÍCIO DE ADOLESCENTE PRIVADO DE LIBERDADE",
+      "legislacao": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE (LEI Nº 8.069/90)",
+      "artigo": "DOS CRIMES E DAS INFRAÇÕES ADMINISTRAT"
+    },
+    {
+      "id": 585,
+      "descricao": "IMPEDIR OU EMBARAÇAR A AÇÃO DE AUTORIDADE JUDICIÁRIA, MEMBRO DO CONSELHO TUTELAR OU REPRESENTANTE DO MINISTÉRIO PÚBLICO NO EXERCÍCIO DE FUNÇÃO PREVISTA NO ECA",
+      "legislacao": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE (LEI Nº 8.069/90)",
+      "artigo": "DOS CRIMES E DAS INFRAÇÕES ADMINISTRAT"
+    },
+    {
+      "id": 586,
+      "descricao": "SUBTRAIR CRIANÇA OU ADOLESCENTE DE QUEM TEM SUA GUARDA, COM O FIM DE COLOCAÇÃO EM LAR SUBSTITUTO",
+      "legislacao": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE (LEI Nº 8.069/90)",
+      "artigo": "DOS CRIMES E DAS INFRAÇÕES ADMINISTRAT"
+    },
+    {
+      "id": 587,
+      "descricao": "OFERECER OU EFETIVAR PAGA OU RECOMPENSA PARA RECEBER FILHO OU PUPILO DE TERCEIRO",
+      "legislacao": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE (LEI Nº 8.069/90)",
+      "artigo": "DOS CRIMES E DAS INFRAÇÕES ADMINISTRAT"
+    },
+    {
+      "id": 588,
+      "descricao": "TRÁFICO INTERNACIONAL DE CRIANÇA OU ADOLESCENTE",
+      "legislacao": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE (LEI Nº 8.069/90)",
+      "artigo": "DOS CRIMES E DAS INFRAÇÕES ADMINISTRAT"
+    },
+    {
+      "id": 589,
+      "descricao": "PRODUZIR, REPRODUZIR, DIRIGIR, FOTOGRAFAR, FILMAR OU REGISTRAR, POR QUALQUER MEIO, CENA DE SEXO EXPLÍCITO OU PORNOGRÁFICA, ENVOLVENDO CRIANÇA OU ADOLESCENTE",
+      "legislacao": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE (LEI Nº 8.069/90)",
+      "artigo": "DOS CRIMES E DAS INFRAÇÕES ADMINISTRAT"
+    },
+    {
+      "id": 590,
+      "descricao": "VENDER OU EXPOR À VENDA FOTOGRAFIA, VÍDEO OU OUTRO REGISTRO QUE CONTENHA CENA DE SEXO EXPLÍCITO OU PORNOGRÁFICA ENVOLVENDO CRIANÇA OU ADOLESCENTE",
+      "legislacao": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE (LEI Nº 8.069/90)",
+      "artigo": "DOS CRIMES E DAS INFRAÇÕES ADMINISTRAT"
+    },
+    {
+      "id": 591,
+      "descricao": "VENDER, FORNECER OU ENTREGAR A CRIANÇA OU ADOLESCENTE, ARMA, MUNIÇÃO OU EXPLOSIVO",
+      "legislacao": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE (LEI Nº 8.069/90)",
+      "artigo": "DOS CRIMES E DAS INFRAÇÕES ADMINISTRAT"
+    },
+    {
+      "id": 592,
+      "descricao": "VENDER, FORNECER, MINISTRAR OU ENTREGAR A CRIANÇA OU ADOLESCENTE, SEM JUSTA CAUSA, PRODUTOS QUE POSSAM CAUSAR DEPENDÊNCIA FÍSICA OU PSÍQUICA",
+      "legislacao": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE (LEI Nº 8.069/90)",
+      "artigo": "DOS CRIMES E DAS INFRAÇÕES ADMINISTRAT"
+    },
+    {
+      "id": 593,
+      "descricao": "VENDER, FORNECER, MINISTRAR OU ENTREGAR A CRIANÇA OU ADOLESCENTE, FOGOS DE ESTAMPIDO OU DE ARTIFÍCIO, EXCETO AQUELES QUE SEJAM INCAPAZES DE CAUSAR DANO FÍSICO",
+      "legislacao": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE (LEI Nº 8.069/90)",
+      "artigo": "DOS CRIMES E DAS INFRAÇÕES ADMINISTRAT"
+    },
+    {
+      "id": 594,
+      "descricao": "CONSTITUI CRIME CONTRA A ORDEM ECONOMICA",
+      "legislacao": "LEI QUE DEFINE CRIMES CONTRA A ORDEM ECONÔMICA E CRIA O SISTEMA DE ESTOQUE DE COMBUSTIVEIS (LEI Nº 8.176/91)",
+      "artigo": "CONTRA ORDEM ECON/SIST/ESTOQ/COMBUST"
+    },
+    {
+      "id": 595,
+      "descricao": "ADQUIRIR, DISTRIBUIR E REVENDER DERIVADOS DE PETROLEO, GAS NATURAL E FRACOES RECUPERÁVEIS, ALCOOL ETILICO HIDRATADO CARBURANTE E DEMAIS COMBUSTÍVEIS EM DESACORDO COM A LEI",
+      "legislacao": "LEI QUE DEFINE CRIMES CONTRA A ORDEM ECONÔMICA E CRIA O SISTEMA DE ESTOQUE DE COMBUSTIVEIS (LEI Nº 8.176/91)",
+      "artigo": "CONTRA ORDEM ECON/SIST/ESTOQ/COMBUST"
+    },
+    {
+      "id": 596,
+      "descricao": "USAR GÁS LIQUEFEITO DE PETRÓLEO EM DESACORDO COM A LEI",
+      "legislacao": "LEI QUE DEFINE CRIMES CONTRA A ORDEM ECONÔMICA E CRIA O SISTEMA DE ESTOQUE DE COMBUSTIVEIS (LEI Nº 8.176/91)",
+      "artigo": "CONTRA ORDEM ECON/SIST/ESTOQ/COMBUST"
+    },
+    {
+      "id": 776,
+      "descricao": "DESTRUIR, DANIFICAR, LESAR OU MALTRATAR PLANTAS DE ORNAMENTAÇÃO DE LOGRADOUROS PÚBLICOS OU EM PROPRIEDADE ALHEIA",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FLORA"
+    },
+    {
+      "id": 777,
+      "descricao": "DESTRUIR, DANIFICAR, LESAR OU MALTRATAR PLANTAS DE ORNAMENTAÇÃO DE LOGRADOUROS PÚBLICOS OU EM PROPRIEDADE ALHEIA, DE MANEIRA CULPOSA",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FLORA"
+    },
+    {
+      "id": 778,
+      "descricao": "COMERCIALIZAR MOTOSSERRA OU UTILIZÁ-LA EM FLORESTAS E NAS DEMAIS FORMAS DE VEGETAÇÃO, SEM LICENÇA OU REGISTRO DA AUTORIDADE",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FLORA"
+    },
+    {
+      "id": 779,
+      "descricao": "PENETRAR EM UNIDADES DE CONSERVAÇÃO COM SUBSTÂNCIAS OU INSTRUMENTOS PARA CAÇA OU EXPLORAÇÃO DE PRODUTOS OU SUBPRODUTOS FLORESTAIS, SEM LICENÇA",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FLORA"
+    },
+    {
+      "id": 780,
+      "descricao": "CAUSAR POLUIÇÃO QUE RESULTE OU POSSA RESULTAR DANOS À SAÚDE HUMANA OU MORTANDADE DE ANIMAIS OU DESTRUIÇÃO SIGNIFICATIVA DA FLORA, DE MANEIRA CULPOSA",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "POLUIÇÃO E OUTROS CRIMES AMBIENTAIS"
+    },
+    {
+      "id": 781,
+      "descricao": "PRODUZIR, COMERCIALIZAR, USAR (E OUTRAS AÇÕES) SUBSTÂNCIA TÓXICA, PERIGOSA OU NOCIVA À SAÚDE HUMANA OU AO MEIO AMBIENTE, EM DESACORDO COM A LEI",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "POLUIÇÃO E OUTROS CRIMES AMBIENTAIS"
+    },
+    {
+      "id": 782,
+      "descricao": "AUMENTO DE PENA",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FAUNA"
+    },
+    {
+      "id": 783,
+      "descricao": "DESTRUIR OU DANIFICAR FLORESTA DE PRESERVAÇÃO PERMANENTE NA MODALIDADE CULPOSA",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FLORA"
+    },
+    {
+      "id": 784,
+      "descricao": "DESTRUIR OU DANIFICAR VEGETAÇÃO DO BIOMA MATA ATLÂNTICA",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FLORA"
+    },
+    {
+      "id": 785,
+      "descricao": "DESTRUIR OU DANIFICAR, CULPOSAMENTE, VEGETAÇÃO DO BIOMA MATA ATLÂNTICA",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FLORA"
+    },
+    {
+      "id": 786,
+      "descricao": "CAUSAR, CULPOSAMENTE, DANO ÀS UNIDADES DE CONSERVAÇÃO",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FLORA"
+    },
+    {
+      "id": 787,
+      "descricao": "PROVOCAR INCÊNDIO EM MATA OU FLORESTA, DE MANEIRA CULPOSA",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FLORA"
+    },
+    {
+      "id": 788,
+      "descricao": "DESMATAR, EXPLORAR ECONOMICAMENTE OU DEGRADAR FLORESTA EM TERRAS DE DOMÍNIO PÚBLICO OU DEVOLUTAS",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FLORA"
+    },
+    {
+      "id": 789,
+      "descricao": "TORNAR UMA ÁREA, URBANA OU RURAL, IMPRÓPRIA PARA A OCUPAÇÃO HUMANA",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "POLUIÇÃO E OUTROS CRIMES AMBIENTAIS"
+    },
+    {
+      "id": 790,
+      "descricao": "CAUSAR POLUIÇÃO HÍDRICA COM INTERRUPÇÃO DE ABASTECIMENTO PÚBLICO DE ÁGUA",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "POLUIÇÃO E OUTROS CRIMES AMBIENTAIS"
+    },
+    {
+      "id": 791,
+      "descricao": "DIFICULTAR OU IMPEDIR O USO PÚBLICO DAS PRAIAS",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "POLUIÇÃO E OUTROS CRIMES AMBIENTAIS"
+    },
+    {
+      "id": 792,
+      "descricao": "LANÇAMENTO DE RESÍDUOS, DETRITOS OU SUBSTÂNCIAS OLEOSAS EM DESACORDO COM A LEI",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "POLUIÇÃO E OUTROS CRIMES AMBIENTAIS"
+    },
+    {
+      "id": 793,
+      "descricao": "ABANDONAR SUBSTÂNCIAS TÓXICAS, PERIGOSAS OU NOCIVAS À SAÚDE HUMANA OU AO MEIO AMBIENTE, OU AS UTILIZA EM DESACORDO COM AS NORMAS DE SEGURANÇA",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "POLUIÇÃO E OUTROS CRIMES AMBIENTAIS"
+    },
+    {
+      "id": 794,
+      "descricao": "PRODUZIR, COMERCIALIZAR, USAR (E OUTRAS AÇÕES) SUBSTÂNCIA TÓXICA, PERIGOSA OU NOCIVA À SAÚDE HUMANA OU AO MEIO AMBIENTE, EM DESACORDO COM A LEI",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "POLUIÇÃO E OUTROS CRIMES AMBIENTAIS"
+    },
+    {
+      "id": 795,
+      "descricao": "FRAUDE RECEBIMENTO INDENIZAÇÃO/SEGURO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA O PATRIMÔNIO"
+    },
+    {
+      "id": 796,
+      "descricao": "FRAUDE PAGAMENTO POR MEIO DE CHEQUE",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA O PATRIMÔNIO"
+    },
+    {
+      "id": 797,
+      "descricao": "DUPLICATA SIMULADA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA O PATRIMÔNIO"
+    },
+    {
+      "id": 798,
+      "descricao": "ABUSO DE INCAPAZES",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA O PATRIMÔNIO"
+    },
+    {
+      "id": 799,
+      "descricao": "INDUZIMENTO À ESPECULAÇÃO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA O PATRIMÔNIO"
+    },
+    {
+      "id": 800,
+      "descricao": "FRAUDE NO COMÉRCIO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA O PATRIMÔNIO"
+    },
+    {
+      "id": 801,
+      "descricao": "OUTRAS FRAUDES",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA O PATRIMÔNIO"
+    },
+    {
+      "id": 802,
+      "descricao": "FRAUDES ABUSOS SOCIEDADE POR AÇÕES",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA O PATRIMÔNIO"
+    },
+    {
+      "id": 803,
+      "descricao": "EMISSÃO IRREGULAR DEPÓSITO OU WARRANT",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA O PATRIMÔNIO"
+    },
+    {
+      "id": 804,
+      "descricao": "FRAUDE À EXECUÇÃO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA O PATRIMÔNIO"
+    },
+    {
+      "id": 805,
+      "descricao": "RECEPTAÇÃO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA O PATRIMÔNIO"
+    },
+    {
+      "id": 808,
+      "descricao": "VIOLAÇÃO DE DIREITO AUTORAL",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PROPRIEDADE IMATERIAL"
+    },
+    {
+      "id": 809,
+      "descricao": "USURPAÇÃO DE NOME OU PSEUDÔNIMO ALHEIO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PROPRIEDADE IMATERIAL"
+    },
+    {
+      "id": 810,
+      "descricao": "ATENTADO CONTRA A LIBERDADE DE TRABALHO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ORGANIZAÇÃO DO TRABALHO"
+    },
+    {
+      "id": 811,
+      "descricao": "ATENTADO CONTRA LIBERDADE CONTRATO TRAB",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ORGANIZAÇÃO DO TRABALHO"
+    },
+    {
+      "id": 812,
+      "descricao": "ATENTADO CONTRA LIBERDADE DE ASSOCIAÇÃO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ORGANIZAÇÃO DO TRABALHO"
+    },
+    {
+      "id": 813,
+      "descricao": "PARALISAÇÃO TRABALHO PERTURBAÇÃO ORDEM",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ORGANIZAÇÃO DO TRABALHO"
+    },
+    {
+      "id": 814,
+      "descricao": "PARALISAÇÃO TRABALHO INTERESSE COLETIVO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ORGANIZAÇÃO DO TRABALHO"
+    },
+    {
+      "id": 815,
+      "descricao": "INVASÃO ESTAB.INDUST. COMERCIAL OU AGRICOLA. SABOTAGEM",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ORGANIZAÇÃO DO TRABALHO"
+    },
+    {
+      "id": 816,
+      "descricao": "FRUSTRAÇÃO DIREITO ASSEGURADO LEI TRABALHISTA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ORGANIZAÇÃO DO TRABALHO"
+    },
+    {
+      "id": 817,
+      "descricao": "FRUSTRAÇÃO LEI SOBRE NACIONALIZAÇÃO TRABALHO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ORGANIZAÇÃO DO TRABALHO"
+    },
+    {
+      "id": 818,
+      "descricao": "EXERCICIO DE ATIVIDADE COM INFRAÇÃO ADM",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ORGANIZAÇÃO DO TRABALHO"
+    },
+    {
+      "id": 819,
+      "descricao": "ALICIAMENTO PARA O FIM DE EMIGRAÇÃO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ORGANIZAÇÃO DO TRABALHO"
+    },
+    {
+      "id": 820,
+      "descricao": "ALICIAMENTO TRABALHADORES LOCAL P/ OUTRO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ORGANIZAÇÃO DO TRABALHO"
+    },
+    {
+      "id": 821,
+      "descricao": "ULTRAJE A CULTO E IMPEDIMENTO OU PERTURBAÇÃO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA SENT.RELIG./ RESP.  MORTOS"
+    },
+    {
+      "id": 822,
+      "descricao": "IMPEDIMENTO OU PERTURBAÇÃO CERIM. FUNERARIA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA SENT.RELIG./ RESP.  MORTOS"
+    },
+    {
+      "id": 823,
+      "descricao": "VIOLAÇÃO DE SEPULTURA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA SENT.RELIG./ RESP.  MORTOS"
+    },
+    {
+      "id": 824,
+      "descricao": "DESTRUIÇÃO/SUBTRAÇÃO/OCULTAÇÃO CADÁVER",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA SENT.RELIG./ RESP.  MORTOS"
+    },
+    {
+      "id": 825,
+      "descricao": "VILIPÊNDIO A CADÁVER",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA SENT.RELIG./ RESP.  MORTOS"
+    },
+    {
+      "id": 836,
+      "descricao": "PRODUZIR, COMERCIALIZAR, USAR (E OUTRAS AÇÕES) SUBSTÂNCIA TÓXICA, PERIGOSA OU NOCIVA À SAÚDE HUMANA OU AO MEIO AMBIENTE, EM DESACORDO COM A LEI, DE MANEIRA CULPOSA",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "POLUIÇÃO E OUTROS CRIMES AMBIENTAIS"
+    },
+    {
+      "id": 837,
+      "descricao": "DISSEMINAR DOENÇA OU PRAGA QUE DANIFIQUE AGROPECUARIA OU ECOSSISTEMA",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "POLUIÇÃO E OUTROS CRIMES AMBIENTAIS"
+    },
+    {
+      "id": 838,
+      "descricao": "OCORRER LANÇAM. RESÍDUO DESACOR C/ EXIG",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "POLUIÇÃO E OUTROS CRIMES AMBIENTAIS"
+    },
+    {
+      "id": 839,
+      "descricao": "DESTRUIR, INUTILIZAR OU DETERIORAR, BEM ESPECIALMENTE PROTEGIDO POR LEI",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA ORD.URBANO / PATR.CULTURAL"
+    },
+    {
+      "id": 840,
+      "descricao": "ALTERAR O ASPECTO OU ESTRUTURA DE EDIFICAÇÃO OU LOCAL ESPECIALMENTE PROTEGIDO POR LEI, ATO ADMINISTRATIVO OU DECISÃO JUDICIAL, SEM AUTORIZAÇÃO DA AUTORIDADE COMPETENTE OU EM DESACORDO COM A CONCEDIDA",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA ORD.URBANO / PATR.CULTURAL"
+    },
+    {
+      "id": 841,
+      "descricao": "PICHAR, GRAFITAR OU POR OUTRO MEIO CONSPURCAR EDIFICAÇÃO OU MONUMENTO URBANO",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA ORD.URBANO / PATR.CULTURAL"
+    },
+    {
+      "id": 842,
+      "descricao": "FAZER O FUNCIONÁRIO PÚBLICO AFIRMAÇÃO FALSA OU ENGANOSA, OMITIR A VERDADE, SONEGAR INFORMAÇÕES OU DADOS TÉCNICO-CIENTÍFICOS EM PROCEDIMENTOS DE AUTORIZAÇÃO OU DE LICENCIAMENTO AMBIENTAL",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A ADMINISTRAÇÃO AMBIENTAL"
+    },
+    {
+      "id": 843,
+      "descricao": "CONCEDER O FUNCIONÁRIO PÚBLICO LICENÇA, AUTORIZAÇÃO OU PERMISSÃO EM DESACORDO COM AS NORMAS AMBIENTAIS, PARA AS ATIVIDADES, OBRAS OU SERVIÇOS CUJA REALIZAÇÃO DEPENDE DE ATO AUTORIZATIVO DO PODER PÚBLICO",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A ADMINISTRAÇÃO AMBIENTAL"
+    },
+    {
+      "id": 844,
+      "descricao": "PICHAR, GRAFITAR OU POR OUTRO MEIO CONSPURCAR EDIFICAÇÃO, MONUMENTO URBANO OU COISA TOMBADA EM VIRTUDE DO SEU VALOR ARTÍSTICO, ARQUEOLÓGICO OU HISTÓRICO",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA ORD.URBANO / PATR.CULTURAL"
+    },
+    {
+      "id": 845,
+      "descricao": "DEIXAR, AQUELE QUE TIVER O DEVER LEGAL OU CONTRATUAL DE FAZÊ-LO, CULPOSAMENTE, DE CUMPRIR OBRIGAÇÃO DE RELEVANTE INTERESSE AMBIENTAL",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A ADMINISTRAÇÃO AMBIENTAL"
+    },
+    {
+      "id": 846,
+      "descricao": "ELABORAR OU APRESENTAR, NO LICENCIAMENTO, CONCESSÃO FLORESTAL OU QUALQUER OUTRO PROCEDIMENTO ADMINISTRATIVO, ESTUDO, LAUDO OU RELATÓRIO AMBIENTAL TOTAL OU PARCIALMENTE FALSO OU ENGANOSO, INCLUSIVE POR OMISSÃO",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A ADMINISTRAÇÃO AMBIENTAL"
+    },
+    {
+      "id": 847,
+      "descricao": "ELABORAR OU APRESENTAR, CULPOSAMENTE, NO LICENCIAMENTO, CONCESSÃO FLORESTAL OU QUALQUER OUTRO PROCEDIMENTO ADMINISTRATIVO, ESTUDO, LAUDO OU RELATÓRIO AMBIENTAL TOTAL OU PARCIALMENTE FALSO OU ENGANOSO, INCLUSIVE POR OMISSÃO",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A ADMINISTRAÇÃO AMBIENTAL"
+    },
+    {
+      "id": 848,
+      "descricao": "CAUSAR DANO SIGNIFICATIVO AO MEIO AMBIENTE, EM DECORRÊNCIA DO USO DA INFORMAÇÃO FALSA, INCOMPLETA OU ENGANOSA, NO LICENCIAMENTO, CONCESSÃO FLORESTAL OU QUALQUER OUTRO PROCEDIMENTO ADMINISTRATIVO",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A ADMINISTRAÇÃO AMBIENTAL"
+    },
+    {
+      "id": 849,
+      "descricao": "CONCORRÊNCIA DESLEAL, VENDENDO, EXPONDO OU OFERECENDO À VENDA PRODUTO, DECLARANDO SER OBJETO DE PATENTE DEPOSITADA, OU CONCEDIDA, OU DE DESENHO INDUSTRIAL REGISTRADO, QUE NÃO O SEJA",
+      "legislacao": "LEI DOS CRIMES CONTRA A PROPRIEDADE INDUSTRIAL (LEI Nº 9.279/96)",
+      "artigo": "DOS CRIMES DE CONCORRENCIA DESLEAL"
+    },
+    {
+      "id": 850,
+      "descricao": "CONCORRÊNCIA DESLEAL, DIVULGANDO, EXPLORANDO OU UTILIZANDO, SEM AUTORIZAÇÃO, RESULTADOS DE TESTES OU OUTROS DADOS NÃO DIVULGADOS, COMO CONDIÇÃO PARA APROVAR A COMERCIALIZAÇÃO DE PRODUTOS",
+      "legislacao": "LEI DOS CRIMES CONTRA A PROPRIEDADE INDUSTRIAL (LEI Nº 9.279/96)",
+      "artigo": "DOS CRIMES DE CONCORRENCIA DESLEAL"
+    },
+    {
+      "id": 851,
+      "descricao": "VENDER, EXPOR OU OFERECER À VENDA PRODUTOS ASSINALADOS COM REPRODUÇÕES E IMITAÇÕES DE MARCAS DE ARMAS, BRASÕES OU DISTINTIVOS OFICIAIS",
+      "legislacao": "LEI DOS CRIMES CONTRA A PROPRIEDADE INDUSTRIAL (LEI Nº 9.279/96)",
+      "artigo": "DOS CRIMES POR MEIO DE MARCAS.TIT.ESTAB."
+    },
+    {
+      "id": 852,
+      "descricao": "PRODUZIR BENS OU EXPLORAR MATÉRIA-PRIMA DA UNIÃO SEM AUTORIZAÇAO LEGAL OU EM DESACORDO COM O TITULO AUTORIZATIVO",
+      "legislacao": "LEI QUE DEFINE CRIMES CONTRA A ORDEM ECONÔMICA E CRIA O SISTEMA DE ESTOQUE DE COMBUSTIVEIS (LEI Nº 8.176/91)",
+      "artigo": "CONTRA ORDEM ECON/SIST/ESTOQ/COMBUST"
+    },
+    {
+      "id": 853,
+      "descricao": "ABANDONO DE INCAPAZ COM RESULTADO LESÃO CORPORAL",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 854,
+      "descricao": "ABANDONO DE INCAPAZ COM RESULTADO MORTE",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 855,
+      "descricao": "MAUS TRATOS COM LESÃO CORPORAL GRAVE",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 856,
+      "descricao": "MAUS TRATOS COM RESULTADO MORTE",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 857,
+      "descricao": "INJÚRIA REAL",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 858,
+      "descricao": "ART. 140,§ 3º - INJURIAR ALGUÉM EM RAZÃO DE RELIGIÃO, CONDIÇÃO DE PESSOA IDOSA OU COM DEFICIÊNCIA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 859,
+      "descricao": "VIOLAÇÃO DE CORRESPONDÊNCIA COM ABUSO DE FUNÇÃO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 861,
+      "descricao": "ADQUIRIR, TRANSPORTAR, INDUSTRIALIZAR, TIVER CONSIGO, CONSUMIR OU COMERCIALIZAR PRODUTOS OU MATERIA PRIMA DA UNIAO SEM AUTORIZAÇAO LEGAL OU EM DESACORDO COM O TITULO AUTORIZATIVO",
+      "legislacao": "LEI QUE DEFINE CRIMES CONTRA A ORDEM ECONÔMICA E CRIA O SISTEMA DE ESTOQUE DE COMBUSTIVEIS (LEI Nº 8.176/91)",
+      "artigo": "CONTRA ORDEM ECON/SIST/ESTOQ/COMBUST"
+    },
+    {
+      "id": 862,
+      "descricao": "DEIXAR O ENCARREGADO OU DIRIGENTE DE ESTABELECIMENTO DE SAÚDE DE GESTANTE DE MANTER REGISTRO DAS ATIVIDADES, BEM COMO DE FORNECER À PARTURIENTE OU A SEU RESPONSÁVEL, DECLARAÇÃO DE NASCIMENTO NA MODALIDADE CULPOSA",
+      "legislacao": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE (LEI Nº 8.069/90)",
+      "artigo": "DOS CRIMES E DAS INFRAÇÕES ADMINISTRAT"
+    },
+    {
+      "id": 863,
+      "descricao": "DEIXAR O MÉDICO, ENFERMEIRO OU DIRIGENTE DE ESTABELECIMENTO DE SAÚDE DE IDENTIFICAR CORRETAMENTE O NEONATO E A PARTURIENTE, BEM COMO DEIXAR DE PROCEDER AOS EXAMES REFERIDOS",
+      "legislacao": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE (LEI Nº 8.069/90)",
+      "artigo": "DOS CRIMES E DAS INFRAÇÕES ADMINISTRAT"
+    },
+    {
+      "id": 864,
+      "descricao": "DEIXAR O MÉDICO, ENFERMEIRO OU DIRIGENTE DE ESTABELECIMENTO DE SAÚDE DE IDENTIFICAR CORRETAMENTE O NEONATO E A PARTURIENTE, BEM COMO DEIXAR DE PROCEDER AOS EXAMES REFERIDOS NA MODALIDADE CULPOSA",
+      "legislacao": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE (LEI Nº 8.069/90)",
+      "artigo": "DOS CRIMES E DAS INFRAÇÕES ADMINISTRAT"
+    },
+    {
+      "id": 865,
+      "descricao": "OMISSÃO DE SOCORRO COM RESULTADO LESAO CORPORAL OU MORTE",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 866,
+      "descricao": "TRÁFICO DE INFLUÊNCIA EM TRANS. COM. INTERNACIONAL",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 867,
+      "descricao": "FUGA DE PESSOA PRESA OU SUBMETIDA  À MEDIDA DE SEGURANÇA NA MODALIDADE QUALIFICADA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 868,
+      "descricao": "FUGA DE PESSOA PRESA OU SUBMETIDA  À MEDIDA DE SEGURANÇA NA MODALIDADE CULPOSA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 869,
+      "descricao": "PATROCÍNIO SIMULTÂNEO OU TERGIVERSAÇÃO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 870,
+      "descricao": "DESOBEDIÊNCIA A DECISÃO JUDICIAL SOBRE PERDA OU SUSP. DE DIREITO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 871,
+      "descricao": "CONTRATAÇÃO DE OPERAÇÃO DE CRÉDITO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 872,
+      "descricao": "INSCRIÇÃO DE DESPESAS NÃO EMPENHADAS EM RESTOS A PAGAR",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 873,
+      "descricao": "ASSUNÇÃO DE OBRIGAÇÃO NO ÚLT. ANO DE MANDATO OU LEGISLATURA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 874,
+      "descricao": "ORDENAÇÃO DE DESPESA NÃO AUTORIZADA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 875,
+      "descricao": "PRESTAÇÃO DE GARANTIA GRACIOSA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 876,
+      "descricao": "NÃO CANCELAMENTO DE RESTOS A PAGAR",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 877,
+      "descricao": "AUMENTO DE DESPESA TOTAL COM PESSOAL NO ÚLT. ANO DO MANDADO OU LEGISLATURA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 878,
+      "descricao": "OFERTA PÚBLICA OU COLOCAÇÃO DE TÍTULOS NO MERCADO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 879,
+      "descricao": "INTERNAÇÃO IRREGULAR ESTAB. PSIQUIÁTRICO",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "REFERENTES À PESSOA"
+    },
+    {
+      "id": 881,
+      "descricao": "DEFLAGRAÇÃO PERIGOSA",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "REFERENTES À INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 882,
+      "descricao": "FALTA DE HABILITAÇÃO PARA DIRIGIR VEÍCULO",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "REFERENTES À INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 883,
+      "descricao": "DIREÇÃO PERIGOSA DE VEÍCULO NA VIA PÚBLICA",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "REFERENTES À INCOLUMIDADE PÚBLICA"
+    },
+    {
+      "id": 884,
+      "descricao": "EXIBIÇÃO OU GUARDAR DE LISTA DE SORTEIO",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "RELATIVAS À POLÍCIA DE COSTUMES"
+    },
+    {
+      "id": 885,
+      "descricao": "JOGO DO BICHO",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "RELATIVAS À POLÍCIA DE COSTUMES"
+    },
+    {
+      "id": 886,
+      "descricao": "SERVIR BEBIDA ALCOÓLICA A MENOR DE DEZOITO ANOS",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "RELATIVAS À POLÍCIA DE COSTUMES"
+    },
+    {
+      "id": 887,
+      "descricao": "SERVIR BEBIDA ALCOÓLICA A PESSOA JUDICIALMENTE PROIBIDA",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "RELATIVAS À POLÍCIA DE COSTUMES"
+    },
+    {
+      "id": 888,
+      "descricao": "RECUSA DE DADOS SOBRE PRÓPRIA IDENTIDADE OU QUALIFICAÇÃO",
+      "legislacao": "LEI DAS CONTRAVENÇÕES PENAIS (3.688/41)",
+      "artigo": "REFERENTES À ADMINISTRAÇÃO PÚBLICA"
+    },
+    {
+      "id": 900,
+      "descricao": "DISPARO DE ARMA DE FOGO",
+      "legislacao": "LEI DO PORTE DE ARMA (LEI Nº 10.826/03)\n",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 901,
+      "descricao": "PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO",
+      "legislacao": "LEI DO PORTE DE ARMA (LEI Nº 10.826/03)\n",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 902,
+      "descricao": "OMISSÃO DE CAUTELA DE ARMA DE FOGO, MUNIÇÃO OU ACESSÓRIO",
+      "legislacao": "LEI DO PORTE DE ARMA (LEI Nº 10.826/03)\n",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 903,
+      "descricao": "OMISSÃO DE CAUTELA DE ARMA DE FOGO",
+      "legislacao": "LEI DO PORTE DE ARMA (LEI Nº 10.826/03)\n",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 904,
+      "descricao": "POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO",
+      "legislacao": "LEI DO PORTE DE ARMA (LEI Nº 10.826/03)\n",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 905,
+      "descricao": "POSSE OU PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO OU PROIBIDO",
+      "legislacao": "LEI DO PORTE DE ARMA (LEI Nº 10.826/03)\n",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 906,
+      "descricao": "SUPRESSÃO OU ALTERAÇÃO DE MARCA, NUMERAÇÃO OU QUALQUER SINAL DE IDENTIFICAÇÃO DE ARMA DE FOGO OU ARTEFATO",
+      "legislacao": "LEI DO PORTE DE ARMA (LEI Nº 10.826/03)\n",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 907,
+      "descricao": "MODIFICAÇÃO DE CARACTERÍSTICAS DE ARMA DE FOGO",
+      "legislacao": "LEI DO PORTE DE ARMA (LEI Nº 10.826/03)\n",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 908,
+      "descricao": "TORTURA, COM O FIM DE OBTER INFORMAÇÃO, DECLARAÇÃO OU CONFISSÃO DA VÍTIMA OU DE TERCEIRA PESSOA",
+      "legislacao": "LEI DOS CRIMES DE TORTURA (LEI Nº 9.455/97)",
+      "artigo": "CRIME DE TORTURA"
+    },
+    {
+      "id": 909,
+      "descricao": "TORTURA, EM RAZÃO DE DISCRIMINAÇÃO RACIAL OU RELIGIOSA",
+      "legislacao": "LEI DOS CRIMES DE TORTURA (LEI Nº 9.455/97)",
+      "artigo": "CRIME DE TORTURA"
+    },
+    {
+      "id": 910,
+      "descricao": "TORTURA, SUBMETENDO ALGUÉM, SOB SUA GUARDA, PODER OU AUTORIDADE, COM EMPREGO DE VIOLÊNCIA OU GRAVE AMEAÇA, A INTENSO SOFRIMENTO FÍSICO OU MENTAL, COMO FORMA DE APLICAR CASTIGO PESSOAL OU MEDIDA DE CARÁTER PREVENTIVO",
+      "legislacao": "LEI DOS CRIMES DE TORTURA (LEI Nº 9.455/97)",
+      "artigo": "CRIME DE TORTURA"
+    },
+    {
+      "id": 911,
+      "descricao": "TORTURA, SUBMETENDO PESSOA PRESA OU SUJEITA A MEDIDA DE SEGURANÇA A SOFRIMENTO FÍSICO OU MENTAL, POR INTERMÉDIO DA PRÁTICA DE ATO NÃO PREVISTO EM LEI OU NÃO RESULTANTE DE MEDIDA LEGAL",
+      "legislacao": "LEI DOS CRIMES DE TORTURA (LEI Nº 9.455/97)",
+      "artigo": "CRIME DE TORTURA"
+    },
+    {
+      "id": 912,
+      "descricao": "OMITIR-SE EM FACE DE CONDUTAS DE TORTURA, QUANDO TIVER O DEVER DE EVITÁ-LAS OU APURÁ-LAS",
+      "legislacao": "LEI DOS CRIMES DE TORTURA (LEI Nº 9.455/97)",
+      "artigo": "CRIME DE TORTURA"
+    },
+    {
+      "id": 913,
+      "descricao": "TORTURA, SUBMETENDO PESSOA PRESA OU SUJEITA A MEDIDA DE SEGURANÇA A SOFRIMENTO FÍSICO OU MENTAL, POR INTERMÉDIO DA PRÁTICA DE ATO NÃO PREVISTO EM LEI OU NÃO RESULTANTE DE MEDIDA LEGAL, CAUSANDO LESÃO CORPORAL DE NATUREZA GRAVE OU GRAVÍSSIMA",
+      "legislacao": "LEI DOS CRIMES DE TORTURA (LEI Nº 9.455/97)",
+      "artigo": "CRIME DE TORTURA"
+    },
+    {
+      "id": 914,
+      "descricao": "TORTURA, COMETIDO POR AGENTE PÚBLICO",
+      "legislacao": "LEI DOS CRIMES DE TORTURA (LEI Nº 9.455/97)",
+      "artigo": "CRIME DE TORTURA"
+    },
+    {
+      "id": 915,
+      "descricao": "TORTURA, COMETIDO CONTRA CRIANÇA, GESTANTE, PORTADOR DE DEFICIÊNCIA, ADOLESCENTE OU MAIOR DE 60 (SESSENTA) ANOS",
+      "legislacao": "LEI DOS CRIMES DE TORTURA (LEI Nº 9.455/97)",
+      "artigo": "CRIME DE TORTURA"
+    },
+    {
+      "id": 916,
+      "descricao": "TORTURA, MEDIANTE SEQUESTRO",
+      "legislacao": "LEI DOS CRIMES DE TORTURA (LEI Nº 9.455/97)",
+      "artigo": "CRIME DE TORTURA"
+    },
+    {
+      "id": 917,
+      "descricao": "RECUSAR, NEGAR OU IMPEDIR A INSCRIÇÃO OU INGRESSO DE ALUNO EM ESTABELECIMENTO DE ENSINO PÚBLICO OU PRIVADO DE QUALQUER GRAU",
+      "legislacao": "LEI CONTRA OS CRIMES DE PRECONCEITO (LEI Nº 7.716/89)",
+      "artigo": "CRIMES DE PRECONCEITO DE RAÇA E DE COR"
+    },
+    {
+      "id": 918,
+      "descricao": "IMPEDIR O ACESSO OU RECUSAR ATENDIMENTO EM RESTAURANTES, BARES, CONFEITARIAS, OU LOCAIS SEMELHANTES ABERTOS AO PÚBLICO",
+      "legislacao": "LEI CONTRA OS CRIMES DE PRECONCEITO (LEI Nº 7.716/89)",
+      "artigo": "CRIMES DE PRECONCEITO DE RAÇA E DE COR"
+    },
+    {
+      "id": 919,
+      "descricao": "IMPEDIR O ACESSO OU RECUSAR ATENDIMENTO EM ESTABELECIMENTOS ESPORTIVOS, CASAS DE DIVERSÕES, OU CLUBES SOCIAIS ABERTOS AO PÚBLICO",
+      "legislacao": "LEI CONTRA OS CRIMES DE PRECONCEITO (LEI Nº 7.716/89)",
+      "artigo": "CRIMES DE PRECONCEITO DE RAÇA E DE COR"
+    },
+    {
+      "id": 920,
+      "descricao": "IMPEDIR O ACESSO ÀS ENTRADAS SOCIAIS EM EDIFÍCIOS PÚBLICOS OU RESIDENCIAIS E ELEVADORES OU ESCADA DE ACESSO AOS MESMOS",
+      "legislacao": "LEI CONTRA OS CRIMES DE PRECONCEITO (LEI Nº 7.716/89)",
+      "artigo": "CRIMES DE PRECONCEITO DE RAÇA E DE COR"
+    },
+    {
+      "id": 921,
+      "descricao": "IMPEDIR O ACESSO OU USO DE TRANSPORTES PÚBLICOS, COMO AVIÕES, NAVIOS BARCAS, BARCOS, ÔNIBUS, TRENS, METRÔ OU QUALQUER OUTRO MEIO DE TRANSPORTE CONCEDIDO",
+      "legislacao": "LEI CONTRA OS CRIMES DE PRECONCEITO (LEI Nº 7.716/89)",
+      "artigo": "CRIMES DE PRECONCEITO DE RAÇA E DE COR"
+    },
+    {
+      "id": 922,
+      "descricao": "IMPEDIR OU OBSTAR, POR QUALQUER MEIO OU FORMA, O CASAMENTO OU CONVIVÊNCIA FAMILIAR E SOCIAL",
+      "legislacao": "LEI CONTRA OS CRIMES DE PRECONCEITO (LEI Nº 7.716/89)",
+      "artigo": "CRIMES DE PRECONCEITO DE RAÇA E DE COR"
+    },
+    {
+      "id": 923,
+      "descricao": "FABRICAR, COMERCIALIZAR, DISTRIBUIR OU VEICULAR SÍMBOLOS, EMBLEMAS, ORNAMENTOS, DISTINTIVOS OU PROPAGANDA QUE UTILIZEM A CRUZ SUÁSTICA OU GAMADA, PARA FINS DE DIVULGAÇÃO DO NAZISMO",
+      "legislacao": "LEI CONTRA OS CRIMES DE PRECONCEITO (LEI Nº 7.716/89)",
+      "artigo": "CRIMES DE PRECONCEITO DE RAÇA E DE COR"
+    },
+    {
+      "id": 924,
+      "descricao": "PRATICAR, INDUZIR OU INCITAR A DISCRIMINAÇÃO OU PRECONCEITO DE RAÇA, COR, ETNIA, RELIGIÃO OU PROCEDÊNCIA NACIONAL, SE COMETIDO POR INTERMÉDIO DOS MEIOS DE COMUNICAÇÃO SOCIAL OU PUBLICAÇÃO DE QUALQUER NATUREZA",
+      "legislacao": "LEI CONTRA OS CRIMES DE PRECONCEITO (LEI Nº 7.716/89)",
+      "artigo": "CRIMES DE PRECONCEITO DE RAÇA E DE COR"
+    },
+    {
+      "id": 925,
+      "descricao": "COMETER CRIME CONTRA PATENTE",
+      "legislacao": "LEI DOS CRIMES CONTRA A PROPRIEDADE INDUSTRIAL (LEI Nº 9.279/96)",
+      "artigo": "DOS CRIMES CONTRA AS PATENTES"
+    },
+    {
+      "id": 926,
+      "descricao": "FABRICAR PRODUTO, OBJETO DE PATENTE DE INVENÇÃO OU MODELO DE UTILIDADE, SEM AUTORIZAÇÃO DO TITULAR",
+      "legislacao": "LEI DOS CRIMES CONTRA A PROPRIEDADE INDUSTRIAL (LEI Nº 9.279/96)",
+      "artigo": "DOS CRIMES CONTRA AS PATENTES"
+    },
+    {
+      "id": 927,
+      "descricao": "EXPORTAR, VENDER, EXPOR OU OFERECER A VENDA, TER EM ESTOQUE, OCULTAR OU RECEBER, PARA UTILIZAÇÃO COM FINS ECONÔMICOS, PRODUTO FABRICADO COM VIOLAÇÃO DE PATENTE DE INVENÇÃO, MODELO DE UTILIDADE, OU OBTIDO POR MEIO OU PROCESSO PATENTEADO",
+      "legislacao": "LEI DOS CRIMES CONTRA A PROPRIEDADE INDUSTRIAL (LEI Nº 9.279/96)",
+      "artigo": "DOS CRIMES CONTRA AS PATENTES"
+    },
+    {
+      "id": 928,
+      "descricao": "IMPORTAR PRODUTO, OBJETO DE PATENTE DE INVENÇÃO, DE MODELO DE UTILIDADE OU OBTIDO POR MEIO OU PROCESSO PATENTEADO NO PAÍS, PARA UTILIZAÇÃO COM FINS ECONÔMICOS, E QUE TENHA SIDO COLOCADO NO MERCADO EXTERNO SEM O CONSENTIMENTO DO TITULAR DA PATENTE",
+      "legislacao": "LEI DOS CRIMES CONTRA A PROPRIEDADE INDUSTRIAL (LEI Nº 9.279/96)",
+      "artigo": "DOS CRIMES CONTRA AS PATENTES"
+    },
+    {
+      "id": 929,
+      "descricao": "FORNECER COMPONENTE DE PRODUTO PATENTEADO, MATERIAL OU EQUIPAMENTO PARA REALIZAR PROCESSO PATENTEADO, CUJA APLICAÇÃO FINAL DO COMPONENTE, MATERIAL OU EQUIPAMENTO INDUZA À EXPLORAÇÃO DO OBJETO DA PATENTE",
+      "legislacao": "LEI DOS CRIMES CONTRA A PROPRIEDADE INDUSTRIAL (LEI Nº 9.279/96)",
+      "artigo": "DOS CRIMES CONTRA AS PATENTES"
+    },
+    {
+      "id": 930,
+      "descricao": "EXPORTAR, VENDER, EXPOR OU OFERECER A VENDA, TER EM ESTOQUE, OCULTAR OU RECEBER, PARA UTILIZAÇÃO COM FINS ECONÔMICOS, OBJETO QUE INCORPORE ILICITAMENTE DESENHO INDUSTRIAL REGISTRADO, OU IMITAÇÃO QUE POSSA INDUZIR EM ERRO OU CONFUSÃO",
+      "legislacao": "LEI DOS CRIMES CONTRA A PROPRIEDADE INDUSTRIAL (LEI Nº 9.279/96)",
+      "artigo": "DOS CRIMES CONTRA DESENHOS INDUSTRIAIS"
+    },
+    {
+      "id": 931,
+      "descricao": "IMPORTAR PRODUTO QUE INCORPORE DESENHO INDUSTRIAL REGISTRADO NO PAÍS, OU IMITAÇÃO QUE POSSA INDUZIR EM ERRO OU CONFUSÃO, PARA UTILIZAÇÃO COM FINS ECONÔMICOS, E QUE TENHA SIDO COLOCADO NO MERCADO EXTERNO SEM O CONSENTIMENTO DO TITULAR DA PATENTE",
+      "legislacao": "LEI DOS CRIMES CONTRA A PROPRIEDADE INDUSTRIAL (LEI Nº 9.279/96)",
+      "artigo": "DOS CRIMES CONTRA DESENHOS INDUSTRIAIS"
+    },
+    {
+      "id": 932,
+      "descricao": "ALTERAR MARCA REGISTRADA DE OUTREM JÁ APOSTA EM PRODUTO COLOCADO NO MERCADO",
+      "legislacao": "LEI DOS CRIMES CONTRA A PROPRIEDADE INDUSTRIAL (LEI Nº 9.279/96)",
+      "artigo": "DOS CRIMES CONTRA AS MARCAS"
+    },
+    {
+      "id": 933,
+      "descricao": "IMPORTAR, EXPORTAR, VENDER, OFERECER OU EXPOR A VENDA, OCULTAR OU TER EM ESTOQUE PRODUTO COM MARCA ILICITAMENTE REPRODUZIDA OU IMITADA",
+      "legislacao": "LEI DOS CRIMES CONTRA A PROPRIEDADE INDUSTRIAL (LEI Nº 9.279/96)",
+      "artigo": "DOS CRIMES CONTRA AS MARCAS"
+    },
+    {
+      "id": 934,
+      "descricao": "IMPORTAR, EXPORTAR, VENDER, OFERECER OU EXPOR A VENDA, OCULTAR OU TER EM ESTOQUE PRODUTO DE SUA INDÚSTRIA OU COMÉRCIO, CONTIDO EM VASILHAME, RECIPIENTE OU EMBALAGEM QUE CONTENHA MARCA LEGÍTIMA DE OUTREM",
+      "legislacao": "LEI DOS CRIMES CONTRA A PROPRIEDADE INDUSTRIAL (LEI Nº 9.279/96)",
+      "artigo": "DOS CRIMES CONTRA AS MARCAS"
+    },
+    {
+      "id": 935,
+      "descricao": "FABRICAR, COMERCIALIZAR, EXPOR, OFERECER À VENDA OU TER EM ESTOQUE PRODUTO QUE APRESENTE FALSA INDICAÇÃO GEOGRÁFICA",
+      "legislacao": "LEI DOS CRIMES CONTRA A PROPRIEDADE INDUSTRIAL (LEI Nº 9.279/96)",
+      "artigo": "DOS CRIM. CONTRA INDIC.GEO.E DEM.INDIC. "
+    },
+    {
+      "id": 936,
+      "descricao": "USAR, EM PRODUTO, RECIPIENTE, INVÓLUCRO, CINTA, RÓTULO, FATURA, CIRCULAR, CARTAZ OU EM OUTRO MEIO DE DIVULGAÇÃO OU PROPAGANDA, TERMOS RETIFICATIVOS, NÃO RESSALVANDO A VERDADEIRA PROCEDÊNCIA DO PRODUTO",
+      "legislacao": "LEI DOS CRIMES CONTRA A PROPRIEDADE INDUSTRIAL (LEI Nº 9.279/96)",
+      "artigo": "DOS CRIM. CONTRA INDIC.GEO.E DEM.INDIC. "
+    },
+    {
+      "id": 937,
+      "descricao": "USAR MARCA, NOME COMERCIAL, TÍTULO DE ESTABELECIMENTO, INSÍGNIA, EXPRESSÃO OU SINAL DE PROPAGANDA QUE INDIQUE PROCEDÊNCIA QUE NÃO A VERDADEIRA, OU VENDER OU EXPOR À VENDA PRODUTO COM ESSES SINAIS",
+      "legislacao": "LEI DOS CRIMES CONTRA A PROPRIEDADE INDUSTRIAL (LEI Nº 9.279/96)",
+      "artigo": "DOS CRIM. CONTRA INDIC.GEO.E DEM.INDIC. "
+    },
+    {
+      "id": 938,
+      "descricao": "CONCORRÊNCIA DESLEAL, USANDO, INDEVIDAMENTE, NOME COMERCIAL, TÍTULO DE ESTABELECIMENTO OU INSÍGNIA ALHEIOS OU VENDENDO, EXPONDO OU OFERECENDO À VENDA OU TENDO EM ESTOQUE PRODUTO COM ESSAS REFERÊNCIAS",
+      "legislacao": "LEI DOS CRIMES CONTRA A PROPRIEDADE INDUSTRIAL (LEI Nº 9.279/96)",
+      "artigo": "DOS CRIMES DE CONCORRENCIA DESLEAL"
+    },
+    {
+      "id": 939,
+      "descricao": "CONCORRÊNCIA DESLEAL, RECEBENDO DINHEIRO OU OUTRA UTILIDADE, OU ACEITANDO PROMESSA DE PAGA OU RECOMPENSA, PARA PROPORCIONAR VANTAGEM A CONCORRENTE DO EMPREGADOR",
+      "legislacao": "LEI DOS CRIMES CONTRA A PROPRIEDADE INDUSTRIAL (LEI Nº 9.279/96)",
+      "artigo": "DOS CRIMES DE CONCORRENCIA DESLEAL"
+    },
+    {
+      "id": 940,
+      "descricao": "CONCORRÊNCIA DESLEAL, DIVULGANDO, EXPLORANDO OU UTILIZANDO-SE, SEM AUTORIZAÇÃO, DE CONHECIMENTOS, INFORMAÇÕES OU DADES CONFIDENCIAIS, A QUE TEVE ACESSO MEDIANTE RELAÇÃO CONTRATUAL OU EMPREGATÍCIA",
+      "legislacao": "LEI DOS CRIMES CONTRA A PROPRIEDADE INDUSTRIAL (LEI Nº 9.279/96)",
+      "artigo": "DOS CRIMES DE CONCORRENCIA DESLEAL"
+    },
+    {
+      "id": 941,
+      "descricao": "CONCORRÊNCIA DESLEAL, ATRIBUINDO-SE, COMO MEIO DE PROPAGANDA, RECOMPENSA OU DISTINÇÃO QUE NÃO OBTEVE",
+      "legislacao": "LEI DOS CRIMES CONTRA A PROPRIEDADE INDUSTRIAL (LEI Nº 9.279/96)",
+      "artigo": "DOS CRIMES DE CONCORRENCIA DESLEAL"
+    },
+    {
+      "id": 942,
+      "descricao": "CONCORRÊNCIA DESLEAL, VENDENDO, EXPONDO OU OFERECENDO À VENDA, EM RECIPIENTE OU INVÓLUCRO DE OUTREM, PRODUTO ADULTERADO OU FALSIFICADO",
+      "legislacao": "LEI DOS CRIMES CONTRA A PROPRIEDADE INDUSTRIAL (LEI Nº 9.279/96)",
+      "artigo": "DOS CRIMES DE CONCORRENCIA DESLEAL"
+    },
+    {
+      "id": 943,
+      "descricao": "POSSE, DETENÇÃO, FABRICAÇÃO OU EMPREGO ILEGAL DE ARTEFATO EXPLOSIVO OU INCENDIÁRIO",
+      "legislacao": "LEI DO PORTE DE ARMA (LEI Nº 10.826/03)\n",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 944,
+      "descricao": "PORTE, POSSE, AQUISIÇÃO, TRANSPORTE OU FORNECIMENTO DE ARMA DE FOGO COM IDENTIFICAÇÃO ADULTERADA",
+      "legislacao": "LEI DO PORTE DE ARMA (LEI Nº 10.826/03)\n",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 945,
+      "descricao": "VENDA, ENTREGA OU FORNECIMENTO DE ARMA DE FOGO, ACESSÓRIO, MUNIÇÃO OU EXPLOSIVO A CRIANÇA OU ADOLESCENTE",
+      "legislacao": "LEI DO PORTE DE ARMA (LEI Nº 10.826/03)\n",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 946,
+      "descricao": "PRODUÇÃO, RECARGA, RECICLAGEM OU ADULTERAÇÃO DE MUNIÇÃO OU EXPLOSIVO",
+      "legislacao": "LEI DO PORTE DE ARMA (LEI Nº 10.826/03)\n",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 947,
+      "descricao": "COMÉRCIO ILEGAL DE ARMA DE FOGO",
+      "legislacao": "LEI DO PORTE DE ARMA (LEI Nº 10.826/03)\n",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 948,
+      "descricao": "TRÁFICO INTERNACIONAL DE ARMA DE FOGO",
+      "legislacao": "LEI DO PORTE DE ARMA (LEI Nº 10.826/03)\n",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 949,
+      "descricao": "COMÉRCIO ILEGAL OU TRÁFICO INTERNACIONAL DE ARMA DE FOGO, ACESSÓRIO OU MUNIÇÃO DE USO PROIBIDO OU RESTRITO",
+      "legislacao": "LEI DO PORTE DE ARMA (LEI Nº 10.826/03)\n",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 950,
+      "descricao": "DEIXAR DE COMUNICAR À AUTORIDADE COMPETENTE E AOS CONSUMIDORES A NOCIVIDADE OU PERICULOSIDADE DE PRODUTOS CUJO CONHECIMENTO SEJA POSTERIOR À SUA COLOCAÇÃO NO MERCADO",
+      "legislacao": "CÓDIGO DE DEFESA DO CONSUMIDOR (LEI Nº 8.078/90)",
+      "artigo": "DAS INFRAÇÕES PENAIS"
+    },
+    {
+      "id": 951,
+      "descricao": "DEIXAR DE RETIRAR DO MERCADO, IMEDIATAMENTE QUANDO DETERMINADO PELA AUTORIDADE COMPETENTE, OS PRODUTOS NOCIVOS OU PERIGOSOS, CUJO CONHECIMENTO SEJA POSTERIOR À SUA COLOCAÇÃO NO MERCADO",
+      "legislacao": "CÓDIGO DE DEFESA DO CONSUMIDOR (LEI Nº 8.078/90)",
+      "artigo": "DAS INFRAÇÕES PENAIS"
+    },
+    {
+      "id": 952,
+      "descricao": "FAZER AFIRMAÇÃO FALSA OU ENGANOSA, OU OMITIR INFORMAÇÃO RELEVANTE SOBRE A NATUREZA, CARACTERÍSTICA, QUALIDADE, QUANTIDADE, SEGURANÇA, DESEMPENHO, DURABILIDADE, PREÇO OU GARANTIA DE PRODUTOS OU SERVIÇOS",
+      "legislacao": "CÓDIGO DE DEFESA DO CONSUMIDOR (LEI Nº 8.078/90)",
+      "artigo": "DAS INFRAÇÕES PENAIS"
+    },
+    {
+      "id": 953,
+      "descricao": "PATROCINAR OFERTA CONTENDO AFIRMAÇÃO FALSA OU ENGANOSA, OU OMITIR INFORMAÇÃO RELEVANTE SOBRE A NATUREZA, CARACTERÍSTICA, QUALIDADE, QUANTIDADE, SEGURANÇA, DESEMPENHO, DURABILIDADE, PREÇO OU GARANTIA DE PRODUTOS OU SERVIÇOS",
+      "legislacao": "CÓDIGO DE DEFESA DO CONSUMIDOR (LEI Nº 8.078/90)",
+      "artigo": "DAS INFRAÇÕES PENAIS"
+    },
+    {
+      "id": 954,
+      "descricao": "FAZER OU PROMOVER PUBLICIDADE QUE SABE OU DEVERIA SABER SER CAPAZ DE INDUZIR O CONSUMIDOR A SE COMPORTAR DE FORMA PREJUDICIAL OU PERIGOSA A SUA SAÚDE OU SEGURANÇA",
+      "legislacao": "CÓDIGO DE DEFESA DO CONSUMIDOR (LEI Nº 8.078/90)",
+      "artigo": "DAS INFRAÇÕES PENAIS"
+    },
+    {
+      "id": 955,
+      "descricao": "EMPREGAR NA REPARAÇÃO DE PRODUTOS, PEÇA OU COMPONENTES DE REPOSIÇÃO USADOS, SEM AUTORIZAÇÃO DO CONSUMIDOR",
+      "legislacao": "CÓDIGO DE DEFESA DO CONSUMIDOR (LEI Nº 8.078/90)",
+      "artigo": "DAS INFRAÇÕES PENAIS"
+    },
+    {
+      "id": 956,
+      "descricao": "UTILIZAR, NA COBRANÇA DE DÍVIDAS, DE AMEAÇA, COAÇÃO OU DE QUALQUER OUTRO PROCEDIMENTO QUE EXPONHA O CONSUMIDOR, INJUSTIFICADAMENTE, A RIDÍCULO OU INTERFIRA COM SEU TRABALHO, DESCANSO OU LAZER",
+      "legislacao": "CÓDIGO DE DEFESA DO CONSUMIDOR (LEI Nº 8.078/90)",
+      "artigo": "DAS INFRAÇÕES PENAIS"
+    },
+    {
+      "id": 957,
+      "descricao": "DEIXAR DE ENTREGAR AO CONSUMIDOR O TERMO DE GARANTIA ADEQUADAMENTE PREENCHIDO",
+      "legislacao": "CÓDIGO DE DEFESA DO CONSUMIDOR (LEI Nº 8.078/90)",
+      "artigo": "DAS INFRAÇÕES PENAIS"
+    },
+    {
+      "id": 958,
+      "descricao": "FAZER OU PATROCINAR OFERTA CONTENDO AFIRMAÇÃO FALSA OU ENGANOSA, OU OMITIR INFORMAÇÃO RELEVANTE SOBRE A NATUREZA, CARACTERÍSTICA, QUALIDADE, QUANTIDADE, SEGURANÇA, DESEMPENHO, DURABILIDADE, PREÇO OU GARANTIA DE PRODUTOS OU SERVIÇOS, DE MANEIRA CULPOSA",
+      "legislacao": "CÓDIGO DE DEFESA DO CONSUMIDOR (LEI Nº 8.078/90)",
+      "artigo": "DAS INFRAÇÕES PENAIS"
+    },
+    {
+      "id": 959,
+      "descricao": "CORRUPÇÃO DE MENORES",
+      "legislacao": "CORRUPÇÃO DE MENORES- LEI Nº 2252/54",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 960,
+      "descricao": "EXPORTAR PELES E COUROS DE ANFÍBIOS E RÉPTEIS EM BRUTO SEM AUTORIZAÇÃO",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FAUNA"
+    },
+    {
+      "id": 961,
+      "descricao": "MAUS-TRATOS A ANIMAIS SILVESTRES, DOMÉSTICOS OU DOMESTICADOS",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FAUNA"
+    },
+    {
+      "id": 962,
+      "descricao": "MAUS-TRATOS A ANIMAIS SILVESTRES, DOMÉSTICOS OU DOMESTICADOS COM RESULTADO MORTE",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FAUNA"
+    },
+    {
+      "id": 963,
+      "descricao": "EXPLORAR CAMPOS NATURAIS DE INVERTEBRADOS AQUÁTICOS E ALGAS",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FAUNA"
+    },
+    {
+      "id": 964,
+      "descricao": "PESCAR EM PERÍODO PROIBIDO OU EM LUGAR INTERDITADO",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FAUNA"
+    },
+    {
+      "id": 965,
+      "descricao": "PESCAR ESPÉCIES QUE DEVAM SER PRESERVADAS OU ESPÉCIMES COM TAMANHOS INFERIORES AOS PERMITIDOS",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FAUNA"
+    },
+    {
+      "id": 966,
+      "descricao": "TRANSPORTAR, COMERCIALIZAR, BENEFICIAR OU INDUSTRIALIZAR ESPÉCIMES PROVENIENTES DA PESCA PROIBIDA",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FAUNA"
+    },
+    {
+      "id": 967,
+      "descricao": "DESTRUIR OU DANIFICAR FLORESTA DE PRESERVAÇÃO PERMANENTE",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FLORA"
+    },
+    {
+      "id": 968,
+      "descricao": "FABRICAR, VENDER, TRANSPORTAR OU SOLTAR BALÕES",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FLORA"
+    },
+    {
+      "id": 969,
+      "descricao": "EXTRAIR DE FLORESTAS DE DOMÍNIO PÚBLICO OU PRESERVAÇÃO PERMANENTE, SEM PRÉVIA AUTORIZAÇÃO, PEDRA, AREIA, CAL OU QUALQUER ESPÉCIE DE MINERAIS",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FLORA"
+    },
+    {
+      "id": 970,
+      "descricao": "RECEBER OU ADQUIRIR, PARA FINS COMERCIAIS OU INDUSTRIAIS, MADEIRA, LENHA, CARVÃO E OUTROS PRODUTOS DE ORIGEM VEGETAL",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FLORA"
+    },
+    {
+      "id": 971,
+      "descricao": "IMPEDIR OU DIFICULTAR A REGENERAÇÃO NATURAL DE FLORESTAS E DEMAIS FORMAS DE VEGETAÇÃO",
+      "legislacao": "LEI DOS CRIMES AMBIENTAIS (LEI Nº 9.605/98)",
+      "artigo": "CRIMES CONTRA A FLORA"
+    },
+    {
+      "id": 972,
+      "descricao": "USO ILÍCITO DE DROGAS",
+      "legislacao": "LEI DE DROGAS Lei nº 11.343/2006",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 973,
+      "descricao": "CULTIVO ILÍCITO DE DROGAS",
+      "legislacao": "LEI DE DROGAS Lei nº 11.343/2006",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 974,
+      "descricao": "TRÁFICO ILÍCITO DE DROGAS",
+      "legislacao": "LEI DE DROGAS Lei nº 11.343/2006",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 975,
+      "descricao": "OFERECER DROGAS  A PESSOA DE SEU RELACIONAMENTO PARA CONSUMIREM GRATUITAMENTE",
+      "legislacao": "LEI DE DROGAS Lei nº 11.343/2006",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 976,
+      "descricao": "EQUIPAMENTOS PARA PRODUÇÃO OU TRANSFORMAÇÃO DE DROGAS",
+      "legislacao": "LEI DE DROGAS Lei nº 11.343/2006",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 977,
+      "descricao": "ASSOCIAÇÃO  PARA  TRÁFICO ILÍCITO DE DROGAS",
+      "legislacao": "LEI DE DROGAS Lei nº 11.343/2006",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 978,
+      "descricao": "ASSOCIAÇÃO  PARA FINANCIAMENTO OU CUSTEIO DO TRÁFICO ILÍCITO DE DROGAS",
+      "legislacao": "LEI DE DROGAS Lei nº 11.343/2006",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 979,
+      "descricao": "FINANCIAR OU CUSTEAR O TRÁFICO ILÍCITO DE DROGAS",
+      "legislacao": "LEI DE DROGAS Lei nº 11.343/2006",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 980,
+      "descricao": "COLABORAR COMO INFORMANTE PARA O TRÁFICO ILÍCITO DE DROGAS",
+      "legislacao": "LEI DE DROGAS Lei nº 11.343/2006",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 981,
+      "descricao": "MORTE NATURAL",
+      "legislacao": "OCORRÊNCIAS ATÍPICAS",
+      "artigo": "OCORRÊNCIAS ATÍPICAS"
+    },
+    {
+      "id": 982,
+      "descricao": "LOCALIZAÇÃO DE VEÍCULO",
+      "legislacao": "OCORRÊNCIAS ATÍPICAS",
+      "artigo": "OCORRÊNCIAS ATÍPICAS"
+    },
+    {
+      "id": 983,
+      "descricao": "DESCARGA ELÉTRICA (RAIO)",
+      "legislacao": "OCORRÊNCIAS ATÍPICAS",
+      "artigo": "OCORRÊNCIAS ATÍPICAS"
+    },
+    {
+      "id": 984,
+      "descricao": "APOIO ASSISTENCIAL",
+      "legislacao": "OCORRÊNCIAS ATÍPICAS",
+      "artigo": "OCORRÊNCIAS ATÍPICAS"
+    },
+    {
+      "id": 985,
+      "descricao": "ADQUIRIR, POSSUIR OU ARMAZENAR, POR QUALQUER MEIO, FOTOGRAFIA, VÍDEO OU OUTRA FORMA DE REGISTRO QUE CONTENHA CENA DE SEXO EXPLÍCITO OU PORNOGRÁFICA ENVOLVENDO CRIANÇA OU ADOLESCENTE",
+      "legislacao": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE (LEI Nº 8.069/90)",
+      "artigo": "DOS CRIMES E DAS INFRAÇÕES ADMINISTRAT"
+    },
+    {
+      "id": 986,
+      "descricao": "ALICIAR, ASSEDIAR, INSTIGAR OU CONSTRANGER, POR QUALQUER MEIO DE COMUNICAÇÃO, CRIANÇA, COM O FIM DE COM ELA PRATICAR ATO LIBIDINOSO",
+      "legislacao": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE (LEI Nº 8.069/90)",
+      "artigo": "DOS CRIMES E DAS INFRAÇÕES ADMINISTRAT"
+    },
+    {
+      "id": 987,
+      "descricao": "CORROMPER OU FACILITAR A CORRUPÇÃO DE MENORES",
+      "legislacao": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE (LEI Nº 8.069/90)",
+      "artigo": "DOS CRIMES E DAS INFRAÇÕES ADMINISTRAT"
+    },
+    {
+      "id": 988,
+      "descricao": "CORROMPER OU FACILITAR A CORRUPÇÃO DE MENORES, UTILIZANDO-SE DE MEIOS ELETRÔNICOS",
+      "legislacao": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE (LEI Nº 8.069/90)",
+      "artigo": "DOS CRIMES E DAS INFRAÇÕES ADMINISTRAT"
+    },
+    {
+      "id": 989,
+      "descricao": "OFERECER, TROCAR, TRANSMITIR, DISTRIBUIR, DIVULGAR POR QUALQUER MEIO, INCLUSIVE POR MEIO DE SISTEMA DE INFORMÁTICA OU TELEMÁTICO, FOTOGRAFIA, VÍDEO OU OUTRO REGISTRO QUE CONTENHA CENA DE SEXO EXPLÍCITO OU PORNOGRÁFICA ENVOLVENDO CRIANÇA OU ADOLESCENTE",
+      "legislacao": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE (LEI Nº 8.069/90)",
+      "artigo": "DOS CRIMES E DAS INFRAÇÕES ADMINISTRAT"
+    },
+    {
+      "id": 990,
+      "descricao": "PROCEDER APREENSÃO DE CRIANÇA OU ADOLESCENTE, EM DESACORDO COM A LEI",
+      "legislacao": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE (LEI Nº 8.069/90)",
+      "artigo": "DOS CRIMES E DAS INFRAÇÕES ADMINISTRAT"
+    },
+    {
+      "id": 991,
+      "descricao": "PROMETER OU EFETIVAR A ENTREGA DE FILHO OU PUPILO A TERCEIRO, MEDIANTE PAGA OU RECOMPENSA",
+      "legislacao": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE (LEI Nº 8.069/90)",
+      "artigo": "DOS CRIMES E DAS INFRAÇÕES ADMINISTRAT"
+    },
+    {
+      "id": 992,
+      "descricao": "SIMULAR A PARTICIPAÇÃO DE CRIANÇA OU ADOLESCENTE EM CENA DE SEXO EXPLÍCITO OU PORNOGRÁFICA POR MEIO DE ADULTERAÇÃO, MONTAGEM OU MODIFICAÇÃO DE FOTOGRAFIA, VÍDEO OU QUALQUER OUTRA FORMA DE REPRESENTAÇÃO VISUAL",
+      "legislacao": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE (LEI Nº 8.069/90)",
+      "artigo": "DOS CRIMES E DAS INFRAÇÕES ADMINISTRAT"
+    },
+    {
+      "id": 993,
+      "descricao": "SUBMETER CRIANÇA OU ADOLESCENTE À PROSTITUIÇÃO OU À EXPLORAÇÃO SEXUAL",
+      "legislacao": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE (LEI Nº 8.069/90)",
+      "artigo": "DOS CRIMES E DAS INFRAÇÕES ADMINISTRAT"
+    },
+    {
+      "id": 994,
+      "descricao": "TRÁFICO INTERNACIONAL DE CRIANÇA OU ADOLESCENTE, MEDIANTE VIOLÊNCIA, GRAVE AMEAÇA OU FRAUDE",
+      "legislacao": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE (LEI Nº 8.069/90)",
+      "artigo": "DOS CRIMES E DAS INFRAÇÕES ADMINISTRAT"
+    },
+    {
+      "id": 995,
+      "descricao": "DISPENSAR OU INEXIGIR LICITAÇÃO FORA DAS HIPÓTESES PREVISTAS",
+      "legislacao": "NORMAS PARA LICITAÇÕES E CONTRATOS DA ADMINISTRAÇÃO PÚBLICA - LEI Nº 8.666/93",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 996,
+      "descricao": "CONCORRER PARA A CONSUMAÇAO DA ILEGALIDADE EM LICITAÇAO, BENEFICIANDO-SE DA DISPENSA OU INEXIGIBILIDADE ILEGAL PARA CELEBRAR CONTRATO",
+      "legislacao": "NORMAS PARA LICITAÇÕES E CONTRATOS DA ADMINISTRAÇÃO PÚBLICA - LEI Nº 8.666/93",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 997,
+      "descricao": "FRUSTAR OU FRAUDAR, MEDIANTE AJUSTE, COMBINAÇAO OU QUALQUER OUTRO EXPEDIENTE, O CARATER COMPETITIVO DO PROCEDIMENTO LICITATÓRIO",
+      "legislacao": "NORMAS PARA LICITAÇÕES E CONTRATOS DA ADMINISTRAÇÃO PÚBLICA - LEI Nº 8.666/93",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 998,
+      "descricao": "PATROCINAR, DIRETA OU INDIRETAMENTE, INTERESSE PRIVADO PERANTE A ADMINISTRAÇAO, DANDO CAUSA À LICITAÇAO OU CONTRATO CUJA INVALIDACAO VIER A SER DECRETADA PELO PODER JUDICIARIO",
+      "legislacao": "NORMAS PARA LICITAÇÕES E CONTRATOS DA ADMINISTRAÇÃO PÚBLICA - LEI Nº 8.666/93",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 999,
+      "descricao": "ADMITIR, POSSIBILITAR OU DAR CAUSA A QUALQUER MODIFICAÇÃO OU VANTAGEM DURANTE A EXECUÇAO DE CONTRATOS EM DESACORDO COM A LEI OU PAGAR FATURA COM PRETERICAO DA ORDEM CRONOLOGICA DE SUA EXIGIBILIDADE",
+      "legislacao": "NORMAS PARA LICITAÇÕES E CONTRATOS DA ADMINISTRAÇÃO PÚBLICA - LEI Nº 8.666/93",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 1000,
+      "descricao": "CONCORRER, O CONTRATADO, PARA A CONSUMACAO DA ILEGALIDADE, BENEFICIANDO-SE DAS MODIFICACOES OU PRORROGACOES CONTRATUAIS",
+      "legislacao": "NORMAS PARA LICITAÇÕES E CONTRATOS DA ADMINISTRAÇÃO PÚBLICA - LEI Nº 8.666/93",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 1001,
+      "descricao": "IMPEDIR, PERTURBAR OU FRAUDAR A REALIZACAO DE QUALQUER ATO DE PROCEDIMENTO LICITATÓRIO",
+      "legislacao": "NORMAS PARA LICITAÇÕES E CONTRATOS DA ADMINISTRAÇÃO PÚBLICA - LEI Nº 8.666/93",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 1002,
+      "descricao": "DEVASSAR O SIGILO DE PROPOSTA EM PROCEDIMENTO LICITATÓRIO",
+      "legislacao": "NORMAS PARA LICITAÇÕES E CONTRATOS DA ADMINISTRAÇÃO PÚBLICA - LEI Nº 8.666/93",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 1003,
+      "descricao": "AFASTAR OU PROCURAR AFASTAR LICITANTE POR MEIO DE VIOLENCIA, GRAVE AMEAÇA, FRAUDE OU OFERECIMENTO DE VANTAGEM DE QUAQUER TIPO",
+      "legislacao": "NORMAS PARA LICITAÇÕES E CONTRATOS DA ADMINISTRAÇÃO PÚBLICA - LEI Nº 8.666/93",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 1004,
+      "descricao": "ABSTER-SE OU DESISTIR DE LICITAR EM RAZÃO DE VANTAGEM OFERECIDA",
+      "legislacao": "NORMAS PARA LICITAÇÕES E CONTRATOS DA ADMINISTRAÇÃO PÚBLICA - LEI Nº 8.666/93",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 1005,
+      "descricao": "FRAUDAR, EM PREJUIZO DA FAZENDA PÚBLICA, LICITACAO PARA AQUISIÇÃO OU VENDA DE BENS OU MERCADORIAS, OU CONTRATO DELA DECORRENTE, MEDIANTE:",
+      "legislacao": "NORMAS PARA LICITAÇÕES E CONTRATOS DA ADMINISTRAÇÃO PÚBLICA - LEI Nº 8.666/93",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 1006,
+      "descricao": "ADMITIR À LICITAÇÃO OU CELEBRAR CONTRATO COM EMPRESA OU PROFISSIONAL DECLARADO INIDÔNEO",
+      "legislacao": "NORMAS PARA LICITAÇÕES E CONTRATOS DA ADMINISTRAÇÃO PÚBLICA - LEI Nº 8.666/93",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 1007,
+      "descricao": "AQUELE QUE DECLARADO INIDONEO, VENHA A LICITAR OU CONTRATAR COM A ADMINISTRAÇAO",
+      "legislacao": "NORMAS PARA LICITAÇÕES E CONTRATOS DA ADMINISTRAÇÃO PÚBLICA - LEI Nº 8.666/93",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 1008,
+      "descricao": "OBSTAR, IMPEDIR OU DIFICULTAR INJUSTAMENTE A INSCRICAO DE INTERESSADO EM REGISTROS CADASTRAIS OU PROMOVER INDEVIDAMENTE A ALTERAÇAO, SUSPENSAO OU CANCELAMENTO DO REGISTRO DE INSCRITO",
+      "legislacao": "NORMAS PARA LICITAÇÕES E CONTRATOS DA ADMINISTRAÇÃO PÚBLICA - LEI Nº 8.666/93",
+      "artigo": "DOS CRIMES E DAS PENAS"
+    },
+    {
+      "id": 1009,
+      "descricao": "ESTUPRO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "DOS CRIMES CONTRA A DIGNIDADE SEXUAL"
+    },
+    {
+      "id": 1010,
+      "descricao": "ESTUPRO SEGUIDO DE LESÃO CORPORAL GRAVE OU CONTRA VÍTIMA MENOR DE DEZOITO E MAIOR DE CATORZE ANOS",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "DOS CRIMES CONTRA A DIGNIDADE SEXUAL"
+    },
+    {
+      "id": 1011,
+      "descricao": "ESTUPRO SEGUIDO DE MORTE",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "DOS CRIMES CONTRA A DIGNIDADE SEXUAL"
+    },
+    {
+      "id": 1012,
+      "descricao": "VIOLAÇÃO SEXUAL MEDIANTE FRAUDE",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "DOS CRIMES CONTRA A DIGNIDADE SEXUAL"
+    },
+    {
+      "id": 1013,
+      "descricao": "ASSÉDIO SEXUAL",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "DOS CRIMES CONTRA A DIGNIDADE SEXUAL"
+    },
+    {
+      "id": 1014,
+      "descricao": "ESTUPRO DE VULNERÁVEL",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "DOS CRIMES CONTRA A DIGNIDADE SEXUAL"
+    },
+    {
+      "id": 1015,
+      "descricao": "ESTUPRO DE ENFERMO, DEFICIENTE MENTAL, OU QUE NÃO TENHA DISCERNIMENTO PARA A PRÁTICA DO ATO, OU QUE NÃO POSSA OFERECER RESISTÊNCIA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "DOS CRIMES CONTRA A DIGNIDADE SEXUAL"
+    },
+    {
+      "id": 1016,
+      "descricao": "ESTUPRO DE VULNERÁVEL SEGUIDO DE LESÃO CORPORAL GRAVE",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "DOS CRIMES CONTRA A DIGNIDADE SEXUAL"
+    },
+    {
+      "id": 1017,
+      "descricao": "ESTUPRO DE VULNERÁVEL SEGUIDO DE MORTE",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "DOS CRIMES CONTRA A DIGNIDADE SEXUAL"
+    },
+    {
+      "id": 1018,
+      "descricao": "CORRUPÇÃO DE MENORES",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "DOS CRIMES CONTRA A DIGNIDADE SEXUAL"
+    },
+    {
+      "id": 1019,
+      "descricao": "SATISFAÇÃO DE LASCÍVIA MEDIANTE PRESENÇA DE CRIANÇA OU ADOLESCENTE",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "DOS CRIMES CONTRA A DIGNIDADE SEXUAL"
+    },
+    {
+      "id": 1020,
+      "descricao": "FAVORECIMENTO DA PROSTITUIÇÃO OU OUTRA FORMA DE EXPLORAÇÃO SEXUAL DE VULNERÁVEL",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "DOS CRIMES CONTRA A DIGNIDADE SEXUAL"
+    },
+    {
+      "id": 1021,
+      "descricao": "FAVORECIMENTO DA PROSTITUIÇÃO OU OUTRA FORMA DE EXPLORAÇÃO SEXUAL DE  MENOR DE DEZOITO E MAIOR DE CATORZE ANOS",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "DOS CRIMES CONTRA A DIGNIDADE SEXUAL"
+    },
+    {
+      "id": 1022,
+      "descricao": "FAVORECIMENTO DA PROSTITUIÇÃO OU OUTRA FORMA DE EXPLORAÇÃO SEXUAL DE VULNERÁVEL PELO PROPRIETÁRIO, GERENTE OU RESPONSÁVEL PELO LOCAL",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "DOS CRIMES CONTRA A DIGNIDADE SEXUAL"
+    },
+    {
+      "id": 1023,
+      "descricao": "MEDIAÇÃO PARA SERVIR LASCÍVIA DE OUTREM",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "DOS CRIMES CONTRA A DIGNIDADE SEXUAL"
+    },
+    {
+      "id": 1024,
+      "descricao": "MEDIAÇÃO PARA SERVIR LASCÍVIA DE OUTREM SE O AGENTE É SEU ASCENDENTE, DESCENDENTE, CÔNJUGE OU COMPANHEIRO, IRMÃO, TUTOR OU CURADOR OU PESSOA A QUEM ESTEJA CONFIADA PARA FINS DE EDUCAÇÃO, DE TRATAMENTO OU DE GUARDA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "DOS CRIMES CONTRA A DIGNIDADE SEXUAL"
+    },
+    {
+      "id": 1025,
+      "descricao": "MEDIAÇÃO PARA SERVIR LASCÍVIA DE OUTREM COM EMPREGO DE VIOLÊNCIA, GRAVE AMEAÇA OU FRAUDE",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "DOS CRIMES CONTRA A DIGNIDADE SEXUAL"
+    },
+    {
+      "id": 1026,
+      "descricao": "FAVORECIMENTO DA PROSTITUIÇÃO OU OUTRA FORMA DE EXPLORAÇÃO SEXUAL",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "DOS CRIMES CONTRA A DIGNIDADE SEXUAL"
+    },
+    {
+      "id": 1027,
+      "descricao": "FAVORECIMENTO DA PROSTITUIÇÃO OU OUTRA FORMA DE EXPLORAÇÃO SEXUAL PRATICADO POR DETERMINADAS PESSOAS PREVISTAS NO PRÓPRIO TIPO PENAL",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "DOS CRIMES CONTRA A DIGNIDADE SEXUAL"
+    },
+    {
+      "id": 1028,
+      "descricao": "FAVORECIMENTO DA PROSTITUIÇÃO OU OUTRA FORMA DE EXPLORAÇÃO SEXUAL  COM EMPREGO DE VIOLÊNCIA, GRAVE AMEAÇA OU FRAUDE",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "DOS CRIMES CONTRA A DIGNIDADE SEXUAL"
+    },
+    {
+      "id": 1029,
+      "descricao": "CASA DE PROSTITUIÇÃO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "DOS CRIMES CONTRA A DIGNIDADE SEXUAL"
+    },
+    {
+      "id": 1030,
+      "descricao": "RUFIANISMO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "DOS CRIMES CONTRA A DIGNIDADE SEXUAL"
+    },
+    {
+      "id": 1031,
+      "descricao": "RUFIANISMO SENDO A VÍTIMA MENOR DE DEZOITO E MAIOR DE CATORZE ANOS, OU SE PRATICADO POR DETERMINADAS PESSOAS PREVISTAS NO PRÓPRIO TIPO PENAL",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "DOS CRIMES CONTRA A DIGNIDADE SEXUAL"
+    },
+    {
+      "id": 1032,
+      "descricao": "RUFIANISMO PRATICADO COM VIOLÊNCIA, GRAVE AMEAÇA, FRAUDE, OU OUTRO MEIO QUE IMPEÇA OU DIFICULTE A LIVRE MANIFESTAÇÃO DA VONTADE DA VÍTIMA",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "DOS CRIMES CONTRA A DIGNIDADE SEXUAL"
+    },
+    {
+      "id": 1033,
+      "descricao": "TRÁFICO INTERNACIONAL DE PESSOA PARA FIM DE EXPLORAÇÃO SEXUAL",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "DOS CRIMES CONTRA A DIGNIDADE SEXUAL"
+    },
+    {
+      "id": 1034,
+      "descricao": "TRÁFICO INTERNACIONAL DE PESSOA PARA FIM DE EXPLORAÇÃO SEXUAL, AGENCIANDO, ALICIANDO, COMPRANDO PESSOA TRAFICADA, OU TRANSPORTANDO-A, TRANSFERINDO-A OU ALOJANDO-A, TENDO CONHECIMENTO DESSA CONDIÇÃO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "DOS CRIMES CONTRA A DIGNIDADE SEXUAL"
+    },
+    {
+      "id": 1035,
+      "descricao": "TRÁFICO INTERNO DE PESSOA PARA FIM DE EXPLORAÇÃO SEXUAL",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "DOS CRIMES CONTRA A DIGNIDADE SEXUAL"
+    },
+    {
+      "id": 1036,
+      "descricao": "TRÁFICO INTERNO DE PESSOA PARA FIM DE EXPLORAÇÃO SEXUAL, AGENCIANDO, ALICIANDO, COMPRANDO PESSOA TRAFICADA, OU TRANSPORTANDO-A, TRANSFERINDO-A OU ALOJANDO-A, TENDO CONHECIMENTO DESSA CONDIÇÃO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "DOS CRIMES CONTRA A DIGNIDADE SEXUAL"
+    },
+    {
+      "id": 1037,
+      "descricao": "ATO OBSCENO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "DOS CRIMES CONTRA A DIGNIDADE SEXUAL"
+    },
+    {
+      "id": 1038,
+      "descricao": "ESCRITO OU OBJETO OBSCENO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "DOS CRIMES CONTRA A DIGNIDADE SEXUAL"
+    },
+    {
+      "id": 1039,
+      "descricao": "FAZER USO DE ALTO-FALANTES E AMPLIFICADORES DE SOM OU A PROMOÇÃO DE COMÍCIO OU CARREATA",
+      "legislacao": "LEI ELEITORAL (LEI Nº 9.504/97)",
+      "artigo": "CRIMES ELEITORAIS"
+    },
+    {
+      "id": 1040,
+      "descricao": "FAZER A ARREGIMENTAÇÃO DE ELEITOR OU A PROPAGANDA DE BOCA DE URNA",
+      "legislacao": "LEI ELEITORAL (LEI Nº 9.504/97)",
+      "artigo": "CRIMES ELEITORAIS"
+    },
+    {
+      "id": 1041,
+      "descricao": "DIVULGAR QUALQUER ESPÉCIE DE PROPAGANDA DE PARTIDOS POLÍTICOS OU DE SEUS CANDIDATOS, MEDIANTE PUBLICAÇÕES, CARTAZES, CAMISAS, BONÉS, BROCHES OU DÍSTICOS EM VESTUÁRIO",
+      "legislacao": "LEI ELEITORAL (LEI Nº 9.504/97)",
+      "artigo": "CRIMES ELEITORAIS"
+    },
+    {
+      "id": 1042,
+      "descricao": "ABANDONO MORAL",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA FAMÍLIA"
+    },
+    {
+      "id": 1043,
+      "descricao": "ATOS DE IMPROBIDADE ADMINISTRATIVA QUE IMPORTAM ENRQUECIMENTO ILÍCITO",
+      "legislacao": "LEI DE IMPROBIDADE ADMINISTRATIVA (LEI Nº 8.429/92)",
+      "artigo": "DAS DISPOSIÇÕES GERAIS"
+    },
+    {
+      "id": 1044,
+      "descricao": "ATOS DE IMPROBIDADE ADMINISTRATIVA QUE CAUSAM PREJUÍZO AO ERÁRIO",
+      "legislacao": "LEI DE IMPROBIDADE ADMINISTRATIVA (LEI Nº 8.429/92)",
+      "artigo": "DAS DISPOSIÇÕES GERAIS"
+    },
+    {
+      "id": 1045,
+      "descricao": "ATOS DE IMPROBIDADE ADMINISTRATIVA CONTRA OS PRINCÍPIOS DA ADMINISTRAÇÃO",
+      "legislacao": "LEI DE IMPROBIDADE ADMINISTRATIVA (LEI Nº 8.429/92)",
+      "artigo": "DAS DISPOSIÇÕES GERAIS"
+    },
+    {
+      "id": 1046,
+      "descricao": "OCULTAR OU DISSIMULAR A NATUREZA, ORIGEM, LOCALIZAÇÃO, DISPOSIÇÃO, MOVIMENTAÇÃO OU PROPRIEDADE DE BENS, DIREITOS OU VALORES PROVENIENTES, DIRETA OU INDIRETAMENTE, DE CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA",
+      "legislacao": "LEI DOS CRIMES DE LAVAGEM OU OCULTAÇÃO DE BENS, DIREITOS E VALORES (LEI Nº 9.613/98)",
+      "artigo": "DE LAVAGEM/OCULTAÇÃO DE BENS/DIR. E VAL."
+    },
+    {
+      "id": 1383,
+      "descricao": "EVASÃO DE DIVISAS",
+      "legislacao": "LEI No 7.492, DE 16 DE JUNHO DE 1986",
+      "artigo": "CRIMES CONTRA O SISTEMA FINAN. NACIONAL"
+    },
+    {
+      "id": 1385,
+      "descricao": "EXIBIR OU VEICULAR, POR QUALQUER MEIO DE COMUNICAÇÃO, INFORMAÇÕES OU IMAGENS DEPRECIATIVAS OU INJURIOSAS À PESSOA DO IDOSO",
+      "legislacao": "ESTATUTO DO IDOSO (LEI Nº 10.741/03)",
+      "artigo": "DISPÕE SOBRE O ESTATUTO DO IDOSO"
+    },
+    {
+      "id": 1386,
+      "descricao": "PROMOÇÃO DE COMÍCIO OU CARREATA NO DIA DA ELEIÇÃO",
+      "legislacao": "LEI ELEITORAL (LEI Nº 9.504/97)",
+      "artigo": "CRIMES ELEITORAIS"
+    },
+    {
+      "id": 1387,
+      "descricao": "DIVULGAÇÃO NO DIA DA ELEIÇÃO DE PROPAGANDA DE BOCA DE URNA OU ARREGIMENTAÇÃO DE ELEITOR",
+      "legislacao": "LEI ELEITORAL (LEI Nº 9.504/97)",
+      "artigo": "CRIMES ELEITORAIS"
+    },
+    {
+      "id": 1388,
+      "descricao": "DIVULGAÇÃO NO DIA DA ELEIÇÃO DE PROPAGANDA DE PARTIDOS POLÍTICOS OU DE SEUS CANDIDATOS",
+      "legislacao": "LEI ELEITORAL (LEI Nº 9.504/97)",
+      "artigo": "CRIMES ELEITORAIS"
+    },
+    {
+      "id": 1389,
+      "descricao": "PROMOVER, NO DIA DA ELEIÇÃO, FRAUDAR AO EXERCÍCIO DO VOTO, FORNECIMENTO GRATUITO DE ALIMENTO E TRANSPORTE COLETIVO",
+      "legislacao": "LEI DOS CRIMES ELEITORAIS (LEI Nº 4.737/65)",
+      "artigo": "CAPITULO II DOS CRIMES ELEITORAIS"
+    },
+    {
+      "id": 1390,
+      "descricao": "VOTAR MAIS DE UMA VEZ, OU EM LUGAR DE OUTREM",
+      "legislacao": "LEI DOS CRIMES ELEITORAIS (LEI Nº 4.737/65)",
+      "artigo": "CAPITULO II DOS CRIMES ELEITORAIS"
+    },
+    {
+      "id": 1391,
+      "descricao": "INUTILIZAR, ALTERAR OU PERTURBAR MEIO DE PROPAGANDA EMPREGADO",
+      "legislacao": "LEI DOS CRIMES ELEITORAIS (LEI Nº 4.737/65)",
+      "artigo": "CAPITULO II DOS CRIMES ELEITORAIS"
+    },
+    {
+      "id": 1392,
+      "descricao": "IMPEDIR O EXERCÍCIO DE PROPAGANDA",
+      "legislacao": "LEI DOS CRIMES ELEITORAIS (LEI Nº 4.737/65)",
+      "artigo": "CAPITULO II DOS CRIMES ELEITORAIS"
+    },
+    {
+      "id": 1393,
+      "descricao": "RECUSAR OU ABANDONAR O SERVIÇO ELEITORAL SEM JUSTA CAUSA",
+      "legislacao": "LEI DOS CRIMES ELEITORAIS (LEI Nº 4.737/65)",
+      "artigo": "CAPITULO II DOS CRIMES ELEITORAIS"
+    },
+    {
+      "id": 1394,
+      "descricao": "OBTER, PARA USO PRÓPRIO OU DE OUTREM, DOCUMENTO PÚBLICO OU PARTICULAR, MATERIAL OU IDEOLOGICAMENTE FALSO PARA FINS ELEITORAIS",
+      "legislacao": "LEI DOS CRIMES ELEITORAIS (LEI Nº 4.737/65)",
+      "artigo": "CAPITULO II DOS CRIMES ELEITORAIS"
+    },
+    {
+      "id": 1395,
+      "descricao": "ISOLAMENTO E PRESERVAÇÃO DE LOCAL COM EVENTO DE MORTE",
+      "legislacao": "OCORRÊNCIAS ATÍPICAS",
+      "artigo": "OCORRÊNCIAS ATÍPICAS"
+    },
+    {
+      "id": 1400,
+      "descricao": "FEMINICÍDIO",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA PESSOA"
+    },
+    {
+      "id": 1401,
+      "descricao": "MORTE POR INTERVENÇÃO LEGAL DE AGENTE DO ESTADO",
+      "legislacao": "OCORRÊNCIAS ATÍPICAS",
+      "artigo": "OCORRÊNCIAS ATÍPICAS"
+    },
+    {
+      "id": 1402,
+      "descricao": "MORTE A ESCLARECER SEM INDÍCIO DE CRIME",
+      "legislacao": "OCORRÊNCIAS ATÍPICAS",
+      "artigo": "OCORRÊNCIAS ATÍPICAS"
+    },
+    {
+      "id": 1403,
+      "descricao": "MORTE ACIDENTAL",
+      "legislacao": "OCORRÊNCIAS ATÍPICAS",
+      "artigo": "OCORRÊNCIAS ATÍPICAS"
+    },
+    {
+      "id": 1416,
+      "descricao": "ART. 216-B.  PRODUZIR, FOTOGRAFAR, FILMAR OU REGISTRAR, POR QUALQUER MEIO, CONTEÚDO COM CENA DE NUDEZ OU ATO SEXUAL OU LIBIDINOSO DE CARÁTER ÍNTIMO E PRIVADO SEM AUTORIZAÇÃO DOS PARTICIPANTES.",
+      "legislacao": "LEI 13.772 de 2018",
+      "artigo": "DA EXPOSIÇÃO DA INTIMIDADE SEXUAL"
+    },
+    {
+      "id": 1417,
+      "descricao": "ART. 218-C. OFERECER, TROCAR, DISPONIBILIZAR, TRANSMITIR, VENDER OU EXPOR À VENDA, DISTRIBUIR PUBLICAR OU DIVULGAR, POR QUALQUER MEIO, INCLUSIVE POR MEIO DE COMUNICAÇÃO DE MASSA OU SISTEMA DE INFORMÁTICA OU TELEMÁTICA, FOTOGRAFIA, VÍDEO OU OUTRO REGISTRO AUDIOVISUAL QUE CONTENHA CENA DE ESTUPRO OU DE ESTUPRO DE VULNERÁVEL OU QUE FAÇA APOLOGIA OU..",
+      "legislacao": "LEI 13.178 DE 2018",
+      "artigo": "DIVULGAÇÃO DE CENAS DE ESTUPRO"
+    },
+    {
+      "id": 1418,
+      "descricao": "ART. 24-A. DESCUMPRIR DECISÃO JUDICIAL QUE OFERECE MEDIDAS PROTETIVAS DE URGÊNCIA PREVISTA NESTA LEI",
+      "legislacao": "LEI 13.641 DE 2018",
+      "artigo": "DESCUMPRIMENTO DE MEDIDAS PROTETIVAS"
+    },
+    {
+      "id": 1421,
+      "descricao": "ART. 268 - INFRINGIR DETERMINAÇÃO DO PODER PÚBLICO, DESTINADA A IMPEDIR INTRODUÇÃO OU PROPAGAÇÃO DE DOENÇA CONTAGIOSA.",
+      "legislacao": "DECRETO LEI Nº 2.848 DE 07 DE DEZEMBRO DE 1940",
+      "artigo": "DOS CRIMES CONTRA A SAÚDE PÚBLICA"
+    },
+    {
+      "id": 1422,
+      "descricao": "PROMOVER OU CONSTITUIR ORGANIZAÇÃO CRIMINOSA",
+      "legislacao": "LEI 12.850/2013: DEFINE ORGANIZAÇÃO CRIMINOSA",
+      "artigo": "ORGANIZAÇÃO CRIMINOSA"
+    },
+    {
+      "id": 1423,
+      "descricao": "147 - A Perseguir alguém, reiteradamente e por qualquer meio, ameaçando-lhe a integridade física ou psicológica, restringindo-lhe a \n   capacidade de locomoção ou, de qualquer forma, invadindo ou perturbando sua esfera de liberdade ou privacidade.",
+      "legislacao": "14.132 de 31/03/2021",
+      "artigo": "Crime de Perseguição"
+    },
+    {
+      "id": 1424,
+      "descricao": "147 - A Perseguir alguém, reiteradamente e por qualquer meio, ameaçando-lhe a integridade física ou psicológica, restringindo-lhe a \n   capacidade de locomoção ou, de qualquer forma, invadindo ou perturbando sua esfera de liberdade ou privacidade.",
+      "legislacao": "14.132 de 31/03/2021",
+      "artigo": "Crime de Perseguição"
+    },
+    {
+      "id": 1457,
+      "descricao": "Art. 96. Discriminar pessoa idosa, impedindo ou dificultando seu acesso a operações bancárias, aos meios de transporte, ao direito de contratar ou por qualquer outro meio ou instrumento necessário ao exercício da cidadania, por motivo de idade.",
+      "legislacao": "LEI 10.741, DE 1º DE OUTUBRO DE 2003",
+      "artigo": "ESTATUTO DO IDOSO"
+    },
+    {
+      "id": 1458,
+      "descricao": "Art. 97. Deixar de prestar assistência ao idoso, quando possível fazê-lo sem risco pessoal, em situação de iminente perigo, ou recusar, retardar ou dificultar sua assistência à saúde, sem justa causa, ou não pedir, nesses casos, o socorro de autoridade pública.",
+      "legislacao": "LEI 10.741, DE 1º DE OUTUBRO DE 2003",
+      "artigo": "ESTATUTO DO IDOSO"
+    },
+    {
+      "id": 1459,
+      "descricao": "Art. 98. Abandonar o idoso em hospitais, casas de saúde, entidades de longa permanência, ou congêneres, ou não prover suas necessidades básicas, quando obrigado por lei ou mandado.",
+      "legislacao": "LEI 10.741, DE 1º DE OUTUBRO DE 2003",
+      "artigo": "ESTATUTO DO IDOSO"
+    },
+    {
+      "id": 1460,
+      "descricao": "Art. 99. Expor a perigo a integridade e a saúde, física ou psíquica, do idoso, submetendo-o a condições desumanas ou degradantes ou privando-o de alimentos e cuidados indispensáveis, quando obrigado a fazê-lo, ou sujeitando-o a trabalho excessivo ou inadequado.",
+      "legislacao": "LEI 10.741, DE 1º DE OUTUBRO DE 2003",
+      "artigo": "ESTATUTO DO IDOSO"
+    },
+    {
+      "id": 1462,
+      "descricao": "Art. 101. Deixar de cumprir, retardar ou frustrar, sem justo motivo, a execução de ordem judicial expedida nas ações em que for parte ou interveniente o idoso.",
+      "legislacao": "LEI 10.741, DE 1º DE OUTUBRO DE 2003",
+      "artigo": "ESTATUTO DO IDOSO"
+    },
+    {
+      "id": 1463,
+      "descricao": "Art. 102. Apropriar-se de ou desviar bens, proventos, pensão ou qualquer outro rendimento do idoso, dando-lhes aplicação diversa da de sua finalidade.",
+      "legislacao": "LEI 10.741, DE 1º DE OUTUBRO DE 2003",
+      "artigo": "ESTATUTO DO IDOSO"
+    },
+    {
+      "id": 1464,
+      "descricao": "Art. 103. Negar o acolhimento ou a permanência do idoso, como abrigado, por recusa deste em outorgar procuração à entidade de atendimento.",
+      "legislacao": "LEI 10.741, DE 1º DE OUTUBRO DE 2003",
+      "artigo": "ESTATUTO DO IDOSO"
+    },
+    {
+      "id": 1465,
+      "descricao": "Art. 104. Reter o cartão magnético de conta bancária relativa a benefícios, proventos ou pensão do idoso, bem como qualquer outro documento com objetivo de assegurar recebimento ou ressarcimento de dívida.",
+      "legislacao": "LEI 10.741, DE 1º DE OUTUBRO DE 2003",
+      "artigo": "ESTATUTO DO IDOSO"
+    },
+    {
+      "id": 1466,
+      "descricao": "Art. 105. Exibir ou veicular, por qualquer meio de comunicação, informações ou imagens depreciativas ou injuriosas à pessoa do idoso.",
+      "legislacao": "LEI 10.741, DE 1º DE OUTUBRO DE 2003",
+      "artigo": "ESTATUTO DO IDOSO"
+    },
+    {
+      "id": 1467,
+      "descricao": "Art. 106. Induzir pessoa idosa sem discernimento de seus atos a outorgar procuração para fins de administração de bens ou deles dispor livremente.",
+      "legislacao": "LEI 10.741, DE 1º DE OUTUBRO DE 2003",
+      "artigo": "ESTATUTO DO IDOSO"
+    },
+    {
+      "id": 1468,
+      "descricao": "Art. 107. Coagir, de qualquer modo, o idoso a doar, contratar, testar ou outorgar procuração.",
+      "legislacao": "LEI 10.741, DE 1º DE OUTUBRO DE 2003",
+      "artigo": "ESTATUTO DO IDOSO"
+    },
+    {
+      "id": 1469,
+      "descricao": "Art. 108. Lavrar ato notarial que envolva pessoa idosa sem discernimento de seus atos, sem a devida representação legal.",
+      "legislacao": "LEI 10.741, DE 1º DE OUTUBRO DE 2003",
+      "artigo": "ESTATUTO DO IDOSO"
+    },
+    {
+      "id": 1470,
+      "descricao": "Art. 109. Impedir ou embaraçar ato do representante do Ministério Público ou de qualquer outro agente fiscalizador.",
+      "legislacao": "LEI 10.741, DE 1º DE OUTUBRO DE 2003",
+      "artigo": "ESTATUTO DO IDOSO"
+    },
+    {
+      "id": 1471,
+      "descricao": "Art. 244 (Decreto-Lei no 2.848/1940). Deixar, sem justa causa, de prover a subsistência do cônjuge, ou de filho menor de 18 (dezoito) anos ou inapto para o trabalho, ou de ascendente inválido ou maior de 60 (sessenta) anos, não lhes proporcionando os recursos necessários ou faltando ao pagamento de pensão alimentícia judicialmente acordada, fixada ou majorada; deixar, sem justa causa, de socorrer descendente ou ascendente, gravemente enfermo.",
+      "legislacao": "LEI 10.741, DE 1º DE OUTUBRO DE 2003",
+      "artigo": "ESTATUTO DO IDOSO"
+    },
+    {
+      "id": 1472,
+      "descricao": "147-B.  Causar dano emocional à mulher que a prejudique e perturbe seu pleno desenvolvimento ou que vise a degradar ou a controlar suas ações, comportamentos, crenças e decisões, mediante ameaça, constrangimento, humilhação, manipulação, isolamento, chantagem, ridicularização, limitação do direito de ir e vir ou qualquer outro meio que cause prejuízo à sua saúde psicológica e autodeterminação.",
+      "legislacao": "LEI Nº 14.188, DE 28 DE JULHO DE 2021",
+      "artigo": "VIOLENCIA PSICOLOGICA CONTRA A MULHER"
+    },
+    {
+      "id": 1474,
+      "descricao": "ART. 3º Considera-se violência política contra a mulher toda ação, conduta ou omissão com a finalidade de impedir, obstaculizar ou restringir os direitos políticos da mulher.",
+      "legislacao": "LEI Nº 14.192, DE 4 DE AGOSTO DE 2021",
+      "artigo": "VIOLÊNCIA POLÍTICA CONTRA MULHER"
+    },
+    {
+      "id": 1475,
+      "descricao": "ART. 323. Divulgar, na propaganda eleitoral ou durante período de campanha eleitoral, fatos que sabe inverídicos em relação a partidos ou a candidatos e capazes de exercer influência perante o eleitorado.",
+      "legislacao": "LEI Nº 14.192, DE 4 DE AGOSTO DE 2021",
+      "artigo": "VIOLÊNCIA POLÍTICA CONTRA MULHER"
+    },
+    {
+      "id": 1476,
+      "descricao": "ART. 326-B. Assediar, constranger, humilhar, perseguir ou ameaçar, por qualquer meio, candidata a cargo eletivo ou detentora de mandato eletivo, utilizando-se de menosprezo ou discriminação à condição de mulher ou à sua cor, raça ou etnia, com a finalidade de impedir ou de dificultar a sua campanha eleitoral ou o desempenho de seu mandato eletivo.",
+      "legislacao": "LEI Nº 14.192, DE 4 DE AGOSTO DE 2021",
+      "artigo": "VIOLÊNCIA POLÍTICA CONTRA MULHER"
+    },
+    {
+      "id": 1477,
+      "descricao": "Art. 72 - inciso III - causar, propositadamente, dano físico ao equipamento usado na votação ou na totalização de votos ou a suas partes.",
+      "legislacao": "Lei nº 9.504, de 30.09.1997, artigo 72, inciso III",
+      "artigo": "Dano a Urna (Lei das Eleições, art. 72, inciso III)"
+    },
+    {
+      "id": 1478,
+      "descricao": "Art. 299. Dar, oferecer, prometer, solicitar ou receber, para si ou para outrem, dinheiro, dádiva, ou qualquer outra vantagem, para obter ou dar voto e para conseguir ou prometer abstenção, ainda que a oferta não seja aceita.",
+      "legislacao": "Lei nº 4.737, de 15.07.1965",
+      "artigo": "Corrupção (Código Eleitoral, art. 299)"
+    },
+    {
+      "id": 1479,
+      "descricao": "Art. 41-A. Constitui captação de sufrágio, o candidato doar, oferecer, prometer, ou entregar, ao eleitor, com o fim de obter-lhe o voto, bem ou vantagem pessoal de qualquer natureza, inclusive emprego ou função pública, desde o registro da candidatura até o dia da eleição, inclusive, sob pena de multa de mil a cinquenta mil Ufir, e cassação do registro ou do diploma, observado o procedimento previsto no art. 22 da lei complementar no 64, de 18 de maio de 1990 (compra de voto).",
+      "legislacao": "Lei nº 9.504, de 30.09.1997, artigo 41-A",
+      "artigo": "Captação ilícita de sufrágio/compra de voto (Lei das Eleições, art. 41-A)"
+    },
+    {
+      "id": 1480,
+      "descricao": "Art. 309. Constitui crime, punível com reclusão de até três anos, votar ou tentar votar mais de uma vez (fraude do voto).",
+      "legislacao": "Lei nº 4.737, de 15.07.1965",
+      "artigo": "Fraude do voto (Código Eleitoral, art. 309)"
+    },
+    {
+      "id": 1508,
+      "descricao": "ART. 349-A. INGRESSAR, PROMOVER, INTERMEDIAR, AUXILIAR OU FACILITAR A ENTRADA DE APARELHO TELEF¿NICO DE COMUNICA¿¿O M¿VEL, DE R¿DIO OU SIMILAR, SEM AUTORIZA¿¿O LEGAL, EM ESTABELECIMENTO PRISIONAL.",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES CONTRA A ADMINISTRA¿¿O DA JUSTI¿A"
+    },
+    {
+      "id": 3500,
+      "descricao": "LOCALIZACAO DE PESSOA DESAPARECIDA",
+      "legislacao": "OCORRÊNCIAS ATÍPICAS",
+      "artigo": "OCORRÊNCIAS ATÍPICAS"
+    },
+    {
+      "id": 3503,
+      "descricao": "ART. 2-A. INJURIAR ALGUÉM, OFENDENDO-LHE A DIGNIDADE E DECORO EM RAZÃO DE RAÇA, COR, ETNIA OU PROCEDÊNCIA NACIONAL (INJÚRIA RACIAL)",
+      "legislacao": "LEI CONTRA OS CRIMES DE PRECONCEITO (LEI Nº 7.716/89)",
+      "artigo": "CRIMES DE PRECONCEITO DE RAÇA E DE COR"
+    },
+    {
+      "id": 3504,
+      "descricao": "ART. 237",
+      "legislacao": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE (LEI Nº 8.069/90)",
+      "artigo": "CRIMES CONTRA A CRIANÇA E ADOLESCENTE"
+    },
+    {
+      "id": 3505,
+      "descricao": "ART. 240",
+      "legislacao": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE (LEI Nº 8.069/90)",
+      "artigo": "CRIMES CONTRA A CRIANÇA E ADOLESCENTE"
+    },
+    {
+      "id": 3506,
+      "descricao": "ART. 241",
+      "legislacao": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE (LEI Nº 8.069/90)",
+      "artigo": "CRIMES CONTRA A CRIANÇA E ADOLESCENTE"
+    },
+    {
+      "id": 3507,
+      "descricao": "ART. 241-A",
+      "legislacao": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE (LEI Nº 8.069/90)",
+      "artigo": "CRIMES CONTRA A CRIANÇA E ADOLESCENTE"
+    },
+    {
+      "id": 3508,
+      "descricao": "ART. 241-B",
+      "legislacao": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE (LEI Nº 8.069/90)",
+      "artigo": "CRIMES CONTRA A CRIANÇA E ADOLESCENTE"
+    },
+    {
+      "id": 3509,
+      "descricao": "ART. 241-C",
+      "legislacao": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE (LEI Nº 8.069/90)",
+      "artigo": "CRIMES CONTRA A CRIANÇA E ADOLESCENTE"
+    },
+    {
+      "id": 3510,
+      "descricao": "ART. 241-D",
+      "legislacao": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE (LEI Nº 8.069/90)",
+      "artigo": "CRIMES CONTRA A CRIANÇA E ADOLESCENTE"
+    },
+    {
+      "id": 3512,
+      "descricao": "LIBERAÇÃO DE CADÁVER",
+      "legislacao": "OCORRÊNCIAS ATÍPICAS",
+      "artigo": "OCORRÊNCIAS ATÍPICAS"
+    },
+    {
+      "id": 3513,
+      "descricao": "PRISÃO EM FLAGRANTE",
+      "legislacao": "OCORRÊNCIAS ATÍPICAS",
+      "artigo": "OCORRÊNCIAS ATÍPICAS"
+    },
+    {
+      "id": 3514,
+      "descricao": "CUMPRIMENTO DE MANDADO DE BUSCA E APREENSÃO",
+      "legislacao": "OCORRÊNCIAS ATÍPICAS",
+      "artigo": "OCORRÊNCIAS ATÍPICAS"
+    },
+    {
+      "id": 3515,
+      "descricao": "ART. 121-B - MATAR DESCENDENTE, ASCENDENTE, DEPENDENTE, ENTEADO OU PESSOA SOB GUARDA OU RESPONSABILIDADE DIRETA DA MULHER, COM O FIM ESPECÍFICO DE CAUSAR-LHE SOFRIMENTO, PUNIÇÃO OU CONTROLE, NO CONTEXTO DE VIOLÊNCIA DOMÉSTICA E FAMILIAR.",
+      "legislacao": "CÓDIGO PENAL (DECRETO LEI Nº 2.848/40)",
+      "artigo": "CRIMES DOLOSOS CONTRA A VIDA"
+    },
+    {
+      "idNaturezaOcorrencia": 894,
+      "nome": "LESÃO CORP CULP. DIREÇÃO VEÍC.AUT.QUALIF",
+      "artigo": "DOS CRIMES EM ESPÉCIE",
+      "legislacao": "CÓDIGO DE TRÂNSITO BRASILEIRO (LEI Nº 9.503/97)",
+      "idArtigo": 16,
+      "idNaturezaOcorrenciaBo": 894,
+      "idlegislacao": 4
+    },
+    {
+      "idNaturezaOcorrencia": 895,
+      "nome": "CONDUZIR VEÍCULO AUTOMOTOR SOB A INFLUÊNCIA DE ALCOÓL OU SUBSTÂNCIA PSICOATIVA",
+      "artigo": "DOS CRIMES EM ESPÉCIE",
+      "legislacao": "CÓDIGO DE TRÂNSITO BRASILEIRO (LEI Nº 9.503/97)",
+      "idArtigo": 16,
+      "idNaturezaOcorrenciaBo": 895,
+      "idlegislacao": 4
+    },
+    {
+      "idNaturezaOcorrencia": 898,
+      "nome": "FRAUDE EM LOCAL OU DURANTE APURAÇÃO DE ACIDENTE AUTOMOBILÍSTICO",
+      "artigo": "DOS CRIMES EM ESPÉCIE",
+      "legislacao": "CÓDIGO DE TRÂNSITO BRASILEIRO (LEI Nº 9.503/97)",
+      "idArtigo": 16,
+      "idNaturezaOcorrenciaBo": 898,
+      "idlegislacao": 4
+    },
+    {
+      "idNaturezaOcorrencia": 899,
+      "nome": "DEIXA DE ENTREGAR A PERMISSÃO PARA DIRIGIR OU A CARTEIRA DE HABILITAÇÃO NO PRAZO LEGAL",
+      "artigo": "DOS CRIMES EM ESPÉCIE",
+      "legislacao": "CÓDIGO DE TRÂNSITO BRASILEIRO (LEI Nº 9.503/97)",
+      "idArtigo": 16,
+      "idNaturezaOcorrenciaBo": 899,
+      "idlegislacao": 4
+    },
+    {
+      "idNaturezaOcorrencia": 1,
+      "nome": "OMISSÃO DE SOCORRO NA DIREÇÃO DE VEÍCULO AUTOMOTOR EM ACIDENTE",
+      "artigo": "DOS CRIMES EM ESPÉCIE",
+      "legislacao": "CÓDIGO DE TRÂNSITO BRASILEIRO (LEI Nº 9.503/97)",
+      "idArtigo": 16,
+      "idNaturezaOcorrenciaBo": 1,
+      "idlegislacao": 4
+    },
+    {
+      "idNaturezaOcorrencia": 2,
+      "nome": "FUGA DO LOCAL DO ACIDENTE DE TRÂNSITO",
+      "artigo": "DOS CRIMES EM ESPÉCIE",
+      "legislacao": "CÓDIGO DE TRÂNSITO BRASILEIRO (LEI Nº 9.503/97)",
+      "idArtigo": 16,
+      "idNaturezaOcorrenciaBo": 2,
+      "idlegislacao": 4
+    },
+    {
+      "idNaturezaOcorrencia": 3,
+      "nome": "VIOLAR SUSPENSÃO OU PROIBIÇÃO PARA DIRIGIR VEÍCULO AUTOMOTOR",
+      "artigo": "DOS CRIMES EM ESPÉCIE",
+      "legislacao": "CÓDIGO DE TRÂNSITO BRASILEIRO (LEI Nº 9.503/97)",
+      "idArtigo": 16,
+      "idNaturezaOcorrenciaBo": 3,
+      "idlegislacao": 4
+    },
+    {
+      "idNaturezaOcorrencia": 5,
+      "nome": "DIREÇÃO PERIGOSA EM LOCAIS ESPECIFICADOS NA LEI",
+      "artigo": "DOS CRIMES EM ESPÉCIE",
+      "legislacao": "CÓDIGO DE TRÂNSITO BRASILEIRO (LEI Nº 9.503/97)",
+      "idArtigo": 16,
+      "idNaturezaOcorrenciaBo": 5,
+      "idlegislacao": 4
+    },
+    {
+      "idNaturezaOcorrencia": 896,
+      "nome": "PARTICIPAR DIREÇÃO VEÍCULO AUTOMOTOR DE CORRIDA/DISPUTA/COMPETIÇÃO AUTOMOBIL NÃO AUTORIZADA",
+      "artigo": "DOS CRIMES EM ESPÉCIE",
+      "legislacao": "CÓDIGO DE TRÂNSITO BRASILEIRO (LEI Nº 9.503/97)",
+      "idArtigo": 16,
+      "idNaturezaOcorrenciaBo": 896,
+      "idlegislacao": 4
+    },
+    {
+      "idNaturezaOcorrencia": 897,
+      "nome": "PERMITIR, CONFIAR OU ENTREGAR A DIREÇÃO DE VEÍCULO AUTOMOTOR A PESSOA NÃO HABILITADA OU A QUEM NÃO ESTEJA EM CONDIÇÕES DE CONDUZI-LO",
+      "artigo": "DOS CRIMES EM ESPÉCIE",
+      "legislacao": "CÓDIGO DE TRÂNSITO BRASILEIRO (LEI Nº 9.503/97)",
+      "idArtigo": 16,
+      "idNaturezaOcorrenciaBo": 897,
+      "idlegislacao": 4
+    },
+    {
+      "idNaturezaOcorrencia": 4,
+      "nome": "DIRIGIR VEÍCULO AUTOM EM VIA PÚBLICA SEM PERMISSÃO P/ DIRIGIR OU HABILITAÇÃO GERANDO PERIGO DE DANO",
+      "artigo": "DOS CRIMES EM ESPÉCIE",
+      "legislacao": "CÓDIGO DE TRÂNSITO BRASILEIRO (LEI Nº 9.503/97)",
+      "idArtigo": 16,
+      "idNaturezaOcorrenciaBo": 4,
+      "idlegislacao": 4
+    },
+    {
+      "idNaturezaOcorrencia": 246,
+      "nome": "HOMICÍDIO CULPOSO NA DIREÇÃO DE VEÍCULO",
+      "artigo": "DOS CRIMES EM ESPÉCIE",
+      "legislacao": "CÓDIGO DE TRÂNSITO BRASILEIRO (LEI Nº 9.503/97)",
+      "idArtigo": 16,
+      "idNaturezaOcorrenciaBo": 246,
+      "idlegislacao": 4
+    },
+    {
+      "idNaturezaOcorrencia": 1052,
+      "nome": "DIRIGIR VEICULO S/ POSSUIR CNH OU PERMISSAO PARA DIRIGIR",
+      "artigo": "DAS INFRAÇÕES",
+      "legislacao": "CÓDIGO DE TRÂNSITO BRASILEIRO (LEI Nº 9.503/97)",
+      "idArtigo": 73,
+      "idNaturezaOcorrenciaBo": 1052,
+      "idlegislacao": 100
+    },
+    {
+      "idNaturezaOcorrencia": 1053,
+      "nome": "DIRIGIR VEICULO C/ CNH OU PERMISSAO P/ DIRIGIR CASSADA",
+      "artigo": "DAS INFRAÇÕES",
+      "legislacao": "CÓDIGO DE TRÂNSITO BRASILEIRO (LEI Nº 9.503/97)",
+      "idArtigo": 73,
+      "idNaturezaOcorrenciaBo": 1053,
+      "idlegislacao": 100
+    },
+    {
+      "idNaturezaOcorrencia": 1054,
+      "nome": "DIRIGIR VEIC C/ CNH OU PERMISSAO P/DIRIGIR CATEG DIFERENTE",
+      "artigo": "DAS INFRAÇÕES",
+      "legislacao": "CÓDIGO DE TRÂNSITO BRASILEIRO (LEI Nº 9.503/97)",
+      "idArtigo": 73,
+      "idNaturezaOcorrenciaBo": 1054,
+      "idlegislacao": 100
+    },
+    {
+      "idNaturezaOcorrencia": 1055,
+      "nome": "DIRIGIR VEIC C/ VALIDADE DE CNH VENCIDA HA MAIS DE 30 DIAS",
+      "artigo": "DAS INFRAÇÕES",
+      "legislacao": "CÓDIGO DE TRÂNSITO BRASILEIRO (LEI Nº 9.503/97)",
+      "idArtigo": 73,
+      "idNaturezaOcorrenciaBo": 1055,
+      "idlegislacao": 100
+    },
+    {
+      "idNaturezaOcorrencia": 1056,
+      "nome": "DIRIGIR S/ USAR LENTES, APAR, ETC IMPOSTAS PELA LICENCA",
+      "artigo": "DAS INFRAÇÕES",
+      "legislacao": "CÓDIGO DE TRÂNSITO BRASILEIRO (LEI Nº 9.503/97)",
+      "idArtigo": 73,
+      "idNaturezaOcorrenciaBo": 1056,
+      "idlegislacao": 100
+    },
+    {
+      "idNaturezaOcorrencia": 1057,
+      "nome": "ENTREGAR DIREC VEIC PESSOA S/ CNH/PERMISSAO P/ DIRIGIR",
+      "artigo": "DAS INFRAÇÕES",
+      "legislacao": "CÓDIGO DE TRÂNSITO BRASILEIRO (LEI Nº 9.503/97)",
+      "idArtigo": 73,
+      "idNaturezaOcorrenciaBo": 1057,
+      "idlegislacao": 100
+    },
+    {
+      "idNaturezaOcorrencia": 1058,
+      "nome": "ENTREGAR DIREC VEIC PESSOA C/ CNH/PERMISSAO CASSADA",
+      "artigo": "DAS INFRAÇÕES",
+      "legislacao": "CÓDIGO DE TRÂNSITO BRASILEIRO (LEI Nº 9.503/97)",
+      "idArtigo": 73,
+      "idNaturezaOcorrenciaBo": 1058,
+      "idlegislacao": 100
+    },
+    {
+      "idNaturezaOcorrencia": 1059,
+      "nome": "ENTREGAR DIREC VEIC PESSOA CNH/PERMISSAO CAT DIFERENTE",
+      "artigo": "DAS INFRAÇÕES",
+      "legislacao": "CÓDIGO DE TRÂNSITO BRASILEIRO (LEI Nº 9.503/97)",
+      "idArtigo": 73,
+      "idNaturezaOcorrenciaBo": 1059,
+      "idlegislacao": 100
+    }
+  ],
+  "motivacao": [
+    {"id": 51,"descricao": "ALCOOL"},
+    {"id": 56,"descricao": "AMBICAO"},
+    {"id": 59,"descricao": "CARGA"},
+    {"id": 109,"descricao": "CONFLITO DE GUARDA/TUTELA"},
+    {"id": 101,"descricao": "CONFLITO DE GUARDA/TUTELA"},
+    {"id": 116,"descricao": "CONFLITO DE GUARDA/TUTELA"},
+    {"id": 99,"descricao": "CONFLITOS POSSESSÓRIOS"},
+    {"id": 103,"descricao": "DESAPARECIMENTO FORÇADO"},
+    {"id": 105,"descricao": "DESAPARECIMENTO INVOLUNTÁRIO"},
+    {"id": 106,"descricao": "DESAPARECIMENTO VOLUNTÁRIO"},
+    {"id": 110,"descricao": "DESPARECIMENTO CRIMINIOSO"},
+    {"id": 102,"descricao": "DESPARECIMENTO CRIMINIOSO"},
+    {"id": 52,"descricao": "DROGAS"},
+    {"id": 67,"descricao": "FACÇÃO CRIMINOSA"},
+    {"id": 107,"descricao": "FUGA DE INSITUIÇÃO"},
+    {"id": 57,"descricao": "HOMOFOBIA"},
+    {"id": 100,"descricao": "RIXA"},
+    {"id": 54,"descricao": "RIXA"},
+    {"id": 55,"descricao": "SEXISTA"},
+    {"id": 117,"descricao": "SITUAÇÃO DE RUA"},
+    {"id": 118,"descricao": "TURISTA"},
+    {"id": 53,"descricao": "VINGANCA"},
+    {"id": 60,"descricao": "VIOLÊNCIA DOMÉSTICA"},
+    {"id": 115,"descricao": "VÍTIMA DE ACIDENTE/INTEMPÉRIE/DESASTRES AMBIENTAIS"},
+    {"id": 114,"descricao": "VÍTIMA DE ACIDENTE/INTEMPÉRIE/DESASTRES AMBIENTAIS"},
+    {"id": 108,"descricao": "VÍTIMA DE ACIDENTE/INTEMPÉRIE/DESASTRES AMBIENTAIS"},
+    {"id": 112,"descricao": "VÍTIMA DE ACIDENTE/INTEMPÉRIE/DESASTRES AMBIENTAIS"},
+    {"id": 111,"descricao": "VÍTIMA DE ACIDENTE/INTEMPÉRIE/DESASTRES AMBIENTAIS"},
+    {"id": 113,"descricao": "VÍTIMA DE ACIDENTE/INTEMPÉRIE/DESASTRES AMBIENTAIS"}
+  ],
+  "meio_empregado": [
+    {"id": 3,"descricao": "ARMA CONTUNDENTE"},
+    {"id": 2,"descricao": "ARMA CORTANTE OU PERFURANTE"},
+    {"id": 1,"descricao": "ARMA DE FOGO"},
+    {"id": 9,"descricao": "ELETRÔNICO"},
+    {"id": 4,"descricao": "FOGO"},
+    {"id": 12,"descricao": "FORÇA MUSCULAR"},
+    {"id": 6,"descricao": "SEM INSTRUMENTO"},
+    {"id": 7,"descricao": "VEICULO"},
+    {"id": 5,"descricao": "VENENO"}
+  ],
+  "tipo_violencia": [
+    {"id": 0,"descricao": "FÍSICA"},
+    {"id": 1,"descricao": "MORAL"},
+    {"id": 2,"descricao": "PATRIMONIAL"},
+    {"id": 3,"descricao": "POLÍTICA"},
+    {"id": 4,"descricao": "PSICOLÓGICA"},
+    {"id": 5,"descricao": "SEXUAL"}
+  ]
+}

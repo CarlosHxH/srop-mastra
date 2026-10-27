@@ -1,0 +1,18 @@
+# Dependências e artefatos — reinstalados/rebuildados dentro da imagem
+node_modules
+.mastra
+
+# Segredos: injetados em runtime via env_file/environment, nunca na imagem
+.env
+.env.*
+!.env.example
+
+# Metadados e locais que não pertencem ao contexto de build
+.git
+.gitignore
+Dockerfile
+.dockerignore
+docker-compose.yml
+*.log
+npm-debug.log*
+.mastra/*
